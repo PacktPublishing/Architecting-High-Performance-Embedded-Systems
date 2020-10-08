@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2020.1 (64-bit)
+# SW Build 2902540 on Wed May 27 19:54:49 MDT 2020
+# IP Build 2902112 on Wed May 27 22:43:36 MDT 2020
+# Start of session at: Thu Oct  8 10:57:28 2020
+# Process ID: 4564
+# Current directory: C:/Projects/Architecting-High-Performance-Embedded-Systems/Chapter04/src/ArtyAdder/ArtyAdder.runs/synth_1
+# Command line: vivado.exe -log ARTY_ADDER.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source ARTY_ADDER.tcl
+# Log file: C:/Projects/Architecting-High-Performance-Embedded-Systems/Chapter04/src/ArtyAdder/ArtyAdder.runs/synth_1/ARTY_ADDER.vds
+# Journal file: C:/Projects/Architecting-High-Performance-Embedded-Systems/Chapter04/src/ArtyAdder/ArtyAdder.runs/synth_1\vivado.jou
+#-----------------------------------------------------------
+source ARTY_ADDER.tcl -notrace

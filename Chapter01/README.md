@@ -1,4 +1,4 @@
-__Modern Computer Architecture and Organization__, by Jim Ledin. Published by Packt Publishing.
+__Architecting-High-Performance-Embedded-Systems__, by Jim Ledin. Published by Packt Publishing.
 # Chapter 1 - Architecting high-performance embedded systems
 
 This chapter introduces the elements of embedded system architectures and discusses some key system features that are common across a wide variety of embedded applications. An embedded system generally includes at least one microcontroller or microprocessor, sensors, actuators, a power source, and, in many cases, one or more network interfaces. The chapter continues with an exploration of the relationship between embedded systems and the Internet of Things (IoT).
@@ -17,4 +17,4 @@ We will cover the following topics in this chapter:
 
 # Chapter Files
 
-[FullAdder.vhdl](src/FullAdder.vhd) is the VHDL implementation of the full adder circuit in the *Hardware design languages* section of chapter 1.
+[FullAdder.vhd](src/FullAdder.vhd) is the VHDL implementation of the full adder circuit discussed in the *Hardware design languages* section of chapter 1.

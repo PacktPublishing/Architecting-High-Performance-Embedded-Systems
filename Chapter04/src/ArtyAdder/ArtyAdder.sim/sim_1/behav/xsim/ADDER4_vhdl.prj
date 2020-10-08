@@ -1,0 +1,7 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  \
+"../../../../ArtyAdder.srcs/sources_1/new/FullAdder.vhd" \
+"../../../../ArtyAdder.srcs/sources_1/new/Adder4.vhd" \
+
+# Do not sort compile order
+nosort
