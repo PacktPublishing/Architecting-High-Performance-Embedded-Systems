@@ -13,6 +13,6 @@ We will cover the following topics in this chapter:
 
 # Chapter Files
 
-[ControlLoop.sln](src/ControlLoop/ControlLoop.sln) is a Microsoft Visual Studio solution containing the first two C language versions of the motor control application presented in the *Performing multiple tasks* section of chapter 3.
+[ControlLoop](src/ControlLoop/) is a Microsoft Visual Studio solution containing the first two C language versions of the motor control application presented in the *Performing multiple tasks* section of chapter 3.
 
 [main_motor_control.c](src/main_motor_control.c) is the FreeRtos C language versions of the motor control application presented in the *Performing multiple tasks* section of chapter 3.
