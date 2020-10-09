@@ -1,0 +1,135 @@
+EESchema Schematic File Version 4
+EELAYER 30 0
+EELAYER END
+$Descr A4 11693 8268
+encoding utf-8
+Sheet 6 7
+Title ""
+Date ""
+Rev ""
+Comp ""
+Comment1 ""
+Comment2 ""
+Comment3 ""
+Comment4 ""
+$EndDescr
+$Comp
+L Connector_Generic:Conn_02x03_Odd_Even J4
+U 1 1 5F5F2C18
+P 5500 3400
+AR Path="/5F455904/5F5F2C18" Ref="J4"  Part="1" 
+AR Path="/5F9C6F72/5F5F2C18" Ref="J?"  Part="1" 
+F 0 "J4" H 5550 3717 50  0000 C CNN
+F 1 "SPI header" H 5550 3626 50  0000 C CNN
+F 2 "Connector_PinHeader_2.54mm:PinHeader_2x03_P2.54mm_Vertical" H 5500 3400 50  0001 C CNN
+F 3 "~" H 5500 3400 50  0001 C CNN
+	1    5500 3400
+	1    0    0    -1  
+$EndComp
+Text GLabel 4850 3100 0    50   Input ~ 0
+SDO
+Text GLabel 6150 3400 2    50   Input ~ 0
+SDI
+Text GLabel 4850 3400 0    50   Input ~ 0
+SCK
+Text GLabel 4800 3700 0    50   Input ~ 0
+~CS
+$Comp
+L power:GND #PWR069
+U 1 1 5F5F3675
+P 6150 3700
+AR Path="/5F455904/5F5F3675" Ref="#PWR069"  Part="1" 
+AR Path="/5F9C6F72/5F5F3675" Ref="#PWR?"  Part="1" 
+F 0 "#PWR069" H 6150 3450 50  0001 C CNN
+F 1 "GND" H 6155 3527 50  0000 C CNN
+F 2 "" H 6150 3700 50  0001 C CNN
+F 3 "" H 6150 3700 50  0001 C CNN
+	1    6150 3700
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	5800 3500 6150 3500
+Wire Wire Line
+	6150 3500 6150 3700
+Wire Wire Line
+	4850 3100 5100 3100
+Wire Wire Line
+	5100 3100 5100 3300
+Wire Wire Line
+	5100 3300 5300 3300
+Wire Wire Line
+	4800 3700 5100 3700
+Wire Wire Line
+	5100 3700 5100 3500
+Wire Wire Line
+	5100 3500 5300 3500
+Wire Wire Line
+	4850 3400 5300 3400
+NoConn ~ 5800 3300
+$Comp
+L Device:R R?
+U 1 1 5F73AA3D
+P 5100 2750
+AR Path="/5F455851/5F73AA3D" Ref="R?"  Part="1" 
+AR Path="/5F455904/5F73AA3D" Ref="R18"  Part="1" 
+F 0 "R18" V 4893 2750 50  0000 C CNN
+F 1 "R_2K" V 4984 2750 50  0000 C CNN
+F 2 "Resistor_SMD:R_0402_1005Metric" V 5030 2750 50  0001 C CNN
+F 3 "~" H 5100 2750 50  0001 C CNN
+	1    5100 2750
+	-1   0    0    1   
+$EndComp
+$Comp
+L power:+3.3V #PWR?
+U 1 1 5F73DCD3
+P 5100 2450
+AR Path="/5F455791/5F73DCD3" Ref="#PWR?"  Part="1" 
+AR Path="/5F455904/5F73DCD3" Ref="#PWR068"  Part="1" 
+F 0 "#PWR068" H 5100 2300 50  0001 C CNN
+F 1 "+3.3V" H 5115 2623 50  0000 C CNN
+F 2 "" H 5100 2450 50  0001 C CNN
+F 3 "" H 5100 2450 50  0001 C CNN
+	1    5100 2450
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	5100 2600 5100 2450
+Wire Wire Line
+	5100 2900 5100 3100
+$Comp
+L Device:R R?
+U 1 1 5F73EF9B
+P 4250 3200
+AR Path="/5F455851/5F73EF9B" Ref="R?"  Part="1" 
+AR Path="/5F455904/5F73EF9B" Ref="R17"  Part="1" 
+F 0 "R17" V 4043 3200 50  0000 C CNN
+F 1 "R_2K" V 4134 3200 50  0000 C CNN
+F 2 "Resistor_SMD:R_0402_1005Metric" V 4180 3200 50  0001 C CNN
+F 3 "~" H 4250 3200 50  0001 C CNN
+	1    4250 3200
+	-1   0    0    1   
+$EndComp
+$Comp
+L power:+3.3V #PWR?
+U 1 1 5F73EFA5
+P 4250 2900
+AR Path="/5F455791/5F73EFA5" Ref="#PWR?"  Part="1" 
+AR Path="/5F455904/5F73EFA5" Ref="#PWR067"  Part="1" 
+F 0 "#PWR067" H 4250 2750 50  0001 C CNN
+F 1 "+3.3V" H 4265 3073 50  0000 C CNN
+F 2 "" H 4250 2900 50  0001 C CNN
+F 3 "" H 4250 2900 50  0001 C CNN
+	1    4250 2900
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	4250 3050 4250 2900
+Wire Wire Line
+	4250 3500 5100 3500
+Wire Wire Line
+	4250 3350 4250 3500
+Connection ~ 5100 3500
+Connection ~ 5100 3100
+Wire Wire Line
+	5800 3400 6150 3400
+$EndSCHEMATC

@@ -1,0 +1,6 @@
+(sym_lib_table
+  (lib (name Oscilloscope)(type Legacy)(uri C:/Users/jim/Dropbox/Book5/Projects/Oscilloscope/KiCAD/Oscilloscope_lib.lib)(options "")(descr "")(disabled))
+  (lib (name -5v)(type Legacy)(uri C:/TEMP/-5v.lib)(options "")(descr "")(disabled))
+  (lib (name +1v8)(type Legacy)(uri C:/TEMP/+1v8.lib)(options "")(descr "")(disabled))
+  (lib (name lm2904)(type Legacy)(uri C:/TEMP/lm2904.lib)(options "")(descr "")(disabled))
+)
