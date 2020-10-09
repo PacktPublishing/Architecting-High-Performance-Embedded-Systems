@@ -17,6 +17,5 @@ We will cover the following topics in this chapter:
 [oscilloscope-circuit project](src/oscilloscope-circuit) contains the KiCad schematic diagram and PCB layout project for the digital oscilloscope circuit design we worked through in Chapter 6.
 
 __Notes:__
-Before opening the schematic diagram, open the KiCad project manager and add *Schematic Symbols.lib* as a library using *Preferences/Manage Symbol Libraries...*
-
-Before opening the PCB layout, open the KiCad project manager and add the directory *Footprints.pretty* as a library using *Preferences/Manage Footprint Libraries...*
+* Before opening the schematic diagram, open the KiCad project manager and add *Schematic Symbols.lib* as a library using *Preferences/Manage Symbol Libraries...*
+* Before opening the PCB layout, open the KiCad project manager and add the directory *Footprints.pretty* as a library using *Preferences/Manage Footprint Libraries...*
