@@ -27,4 +27,4 @@ We will cover the following topics in this chapter:
 
 [oscilloscope-software project](src/oscilloscope-software) contains the Vitis C language software project for the digital oscilloscope we worked through in Chapter 5.
 
-[set_drive_letter.bat] (set_drive_letter.bat) assigns drive letter Z: to the directory of the oscilloscope-fpga project. This is necessary to avoid exceeding the 260 character path limit enforced by Vivado. You will need to modify *set_drive_letter.bat* if you clone the repository to a location other than *C:\Projects*
+[set_drive_letter.bat] (src/set_drive_letter.bat) assigns drive letter Z: to the directory of the oscilloscope-fpga project. This is necessary to avoid exceeding the 260 character path limit enforced by Vivado. You will need to modify *set_drive_letter.bat* if you clone the repository to a location other than *C:\Projects*

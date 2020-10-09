@@ -15,4 +15,4 @@ We will cover the following topics in this chapter:
 
 [oscilloscope-fpga project](src/oscilloscope-fpga) contains the Vivado project for the digital oscilloscope we worked through in Chapter8.
 
-[set_drive_letter.bat] (set_drive_letter.bat) assigns drive letter Z: to the directory of the oscilloscope-fpga project. This is necessary to avoid exceeding the 260 character path limit enforced by Vivado. You will need to modify *set_drive_letter.bat* if you clone the repository to a location other than *C:\Projects*
+[set_drive_letter.bat] (src/set_drive_letter.bat) assigns drive letter Z: to the directory of the oscilloscope-fpga project. This is necessary to avoid exceeding the 260 character path limit enforced by Vivado. You will need to modify *set_drive_letter.bat* if you clone the repository to a location other than *C:\Projects*
