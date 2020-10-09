@@ -19,7 +19,7 @@ We will cover the following topics in this chapter:
 
 [ArtyAdder.vhd](src/ArtyAdder.vhd) is a VHDL file that can call any of the 4-bit adder implementations by modifying two lines containing the name of the adder implementation as described in the *Design optimization* section of chapter 5.
 
-[ArtyAdder4HLS.vhd](src/ArtyAdder4HLS.vhd) is a high-level synthesis (HLS) C language file implementing the 4-bit adder presented in the *High-level synthesis* section of chapter 5.
+[ArtyAdderHLS.cpp](src/ArtyAdderHLS.cpp) is a high-level synthesis (HLS) C++ language file implementing the 4-bit adder presented in the *High-level synthesis* section of chapter 5.
 
 [ArtyAdder4HLSWrapper.vhd](src/ArtyAdder4HLSWrapper.vhd) is a a VHDL wrapper for the HLS version of the 4-bit adder presented in the *High-level synthesis* section of chapter 5.
 
