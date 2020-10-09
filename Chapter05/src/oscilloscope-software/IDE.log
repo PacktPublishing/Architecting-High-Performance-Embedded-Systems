@@ -1,0 +1,57 @@
+16:33:44 INFO  : Launching XSCT server: xsct.bat -n  -interactive Z:\oscilloscope-software\temp_xsdb_launch_script.tcl
+16:33:44 INFO  : Registering command handlers for Vitis TCF services
+16:33:49 INFO  : Platform repository initialization has completed.
+16:33:49 INFO  : XSCT server has started successfully.
+16:33:49 INFO  : plnx-install-location is set to ''
+16:33:49 INFO  : Successfully done setting XSCT server connection channel  
+16:33:52 INFO  : Successfully done setting workspace for the tool. 
+16:33:52 INFO  : Successfully done query RDI_DATADIR 
+16:36:50 INFO  : Result from executing command 'getProjects': design_1_wrapper
+16:36:50 INFO  : Result from executing command 'getPlatforms': 
+16:36:52 INFO  : Platform 'design_1_wrapper' is added to custom repositories.
+16:37:02 INFO  : Platform 'design_1_wrapper' is added to custom repositories.
+16:37:10 INFO  : Successfully done sdx_reload_mss "Z:/oscilloscope-software/design_1_wrapper/microblaze_0/domain_microblaze_0/bsp/system.mss"
+16:43:42 INFO  : (SwPlaform) Successfully done setParamInSpec 
+16:43:42 INFO  : (SwPlatform) Successfully done update_mss 
+16:43:43 INFO  : Successfully done sdx_reload_mss "Z:/oscilloscope-software/design_1_wrapper/microblaze_0/domain_microblaze_0/bsp/system.mss"
+16:45:55 INFO  : Result from executing command 'getProjects': design_1_wrapper
+16:45:55 INFO  : Result from executing command 'getPlatforms': design_1_wrapper|Z:/oscilloscope-software/design_1_wrapper/export/design_1_wrapper/design_1_wrapper.xpfm
+16:45:57 INFO  : Checking for BSP changes to sync application flags for project 'oscilloscope-software'...
+16:45:58 INFO  : Updating application flags with new BSP settings...
+16:45:58 INFO  : Successfully updated application flags for project oscilloscope-software.
+16:49:18 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+16:49:19 INFO  : Jtag cable 'Digilent Arty A7-100T 210319AE1BECA' is selected.
+16:49:19 INFO  : 'jtag frequency' command is executed.
+16:49:19 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent Arty A7-100T 210319AE1BECA" && level==0 && jtag_device_ctx=="jsn-Arty A7-100T-210319AE1BECA-13631093-0"}' command is executed.
+16:49:21 INFO  : FPGA configured successfully with bitstream "Z:/oscilloscope-software/oscilloscope-software/_ide/bitstream/design_1_wrapper.bit"
+16:49:21 INFO  : Context for processor 'microblaze_0' is selected.
+16:49:22 INFO  : Hardware design and registers information is loaded from 'Z:/oscilloscope-software/design_1_wrapper/export/design_1_wrapper/hw/design_1_wrapper.xsa'.
+16:49:22 INFO  : 'configparams mdm-detect-bscan-mask 2' command is executed.
+16:49:22 INFO  : Context for processor 'microblaze_0' is selected.
+16:49:22 INFO  : System reset is completed.
+16:49:25 INFO  : 'after 3000' command is executed.
+16:49:25 INFO  : Context for processor 'microblaze_0' is selected.
+16:49:25 INFO  : The application 'Z:/oscilloscope-software/oscilloscope-software/Debug/oscilloscope-software.elf' is downloaded to processor 'microblaze_0'.
+16:49:25 INFO  : ----------------XSDB Script----------------
+connect -url tcp:127.0.0.1:3121
+targets -set -filter {jtag_cable_name =~ "Digilent Arty A7-100T 210319AE1BECA" && level==0 && jtag_device_ctx=="jsn-Arty A7-100T-210319AE1BECA-13631093-0"}
+fpga -file Z:/oscilloscope-software/oscilloscope-software/_ide/bitstream/design_1_wrapper.bit
+targets -set -nocase -filter {name =~ "*microblaze*#0" && bscan=="USER2" }
+loadhw -hw Z:/oscilloscope-software/design_1_wrapper/export/design_1_wrapper/hw/design_1_wrapper.xsa -regs
+configparams mdm-detect-bscan-mask 2
+targets -set -nocase -filter {name =~ "*microblaze*#0" && bscan=="USER2" }
+rst -system
+after 3000
+targets -set -nocase -filter {name =~ "*microblaze*#0" && bscan=="USER2" }
+dow Z:/oscilloscope-software/oscilloscope-software/Debug/oscilloscope-software.elf
+----------------End of Script----------------
+
+16:49:25 INFO  : Context for processor 'microblaze_0' is selected.
+16:49:25 INFO  : 'con' command is executed.
+16:49:25 INFO  : ----------------XSDB Script (After Launch)----------------
+targets -set -nocase -filter {name =~ "*microblaze*#0" && bscan=="USER2" }
+con
+----------------End of Script----------------
+
+16:49:25 INFO  : Launch script is exported to file 'Z:\oscilloscope-software\.sdk\launch_scripts\single_application_debug\systemdebugger_oscilloscope-software_system_standalone.tcl'
+16:51:38 INFO  : Disconnected from the channel tcfchan#2.

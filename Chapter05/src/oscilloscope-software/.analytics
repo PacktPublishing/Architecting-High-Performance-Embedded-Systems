@@ -1,0 +1,10 @@
+timestamp=[2020-10-08 16:33:41], mode=WORKBENCH_START, duration=0:00:13.657, duration_ms=13657, data={}
+timestamp=[2020-10-08 16:33:42], mode=WORKBENCH_UI_INIT, duration=0:00:01.348, duration_ms=1348, data={editors_count=0, platform_editors_count=0, projects_count=0, platform_projects_count=0, active_platform_editor=false, projects=}
+timestamp=[2020-10-08 16:33:49], mode=PLATFORM_REPOSITORY_INIT, duration=0:00:05.314, duration_ms=5314, data={}
+timestamp=[2020-10-08 16:37:01], mode=APP_CREATION, duration=0:00:36.712, duration_ms=36712, data={name=oscilloscope-software, project_type=sdk, os=freertos10_xilinx, processor=microblaze, runtime=cpp, platform=design_1_wrapper, application_type=application}
+timestamp=[2020-10-08 16:45:57], mode=PLATFORM_GENERATION, duration=0:00:59.413, duration_ms=59413, data={name=design_1_wrapper}
+timestamp=[2020-10-08 16:46:02], mode=BUILD, duration=0:00:04.364, duration_ms=4364, data={name=oscilloscope-software, configuration=Debug, clean_build=false}
+timestamp=[2020-10-08 16:46:03], mode=BUILD, duration=0:00:00.197, duration_ms=197, data={name=oscilloscope-software_system, configuration=Debug, clean_build=false}
+timestamp=[2020-10-08 16:51:31], mode=PLATFORM_GENERATION, duration=0:00:07.220, duration_ms=7220, data={name=design_1_wrapper}
+timestamp=[2020-10-08 16:51:32], mode=BUILD, duration=0:00:00.637, duration_ms=637, data={name=oscilloscope-software, configuration=Debug, clean_build=true}
+timestamp=[2020-10-08 16:51:32], mode=BUILD, duration=0:00:00.235, duration_ms=235, data={name=oscilloscope-software_system, configuration=Debug, clean_build=true}

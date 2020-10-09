@@ -1,0 +1,229 @@
+16:44:58 **** Build of project design_1_wrapper ****
+buildplatform.bat 14403 design_1_wrapper  
+XSDB Server Channel: tcfchan#1
+Building the BSP Library for domain  - domain_microblaze_0 on processor microblaze_0
+"Running Make include in microblaze_0/libsrc/bram_v4_4/src"
+
+make -C microblaze_0/libsrc/bram_v4_4/src -s include  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "COMPILE
+R_FLAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mno-xl-soft-mul -mxl-barrel-shift -mxl-pattern-compare" "EXTRA_COMPILER_FLAGS=-g 
+-ffunction-sections -fdata-sections -Wall -Wextra"
+
+"Running Make include in microblaze_0/libsrc/cpu_v2_11/src"
+
+make -C microblaze_0/libsrc/cpu_v2_11/src -s include  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "COMPILE
+R_FLAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mno-xl-soft-mul -mxl-barrel-shift -mxl-pattern-compare" "EXTRA_COMPILER_FLAGS=-g 
+-ffunction-sections -fdata-sections -Wall -Wextra"
+
+"Running Make include in microblaze_0/libsrc/emaclite_v4_5/src"
+
+make -C microblaze_0/libsrc/emaclite_v4_5/src -s include  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "COM
+PILER_FLAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mno-xl-soft-mul -mxl-barrel-shift -mxl-pattern-compare" "EXTRA_COMPILER_FLAGS
+=-g -ffunction-sections -fdata-sections -Wall -Wextra"
+
+"Running Make include in microblaze_0/libsrc/freertos10_xilinx_v1_6/src"
+
+make -C microblaze_0/libsrc/freertos10_xilinx_v1_6/src -s include  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb
+-ar" "COMPILER_FLAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mno-xl-soft-mul -mxl-barrel-shift -mxl-pattern-compare" "EXTRA_COMPI
+LER_FLAGS=-g -ffunction-sections -fdata-sections -Wall -Wextra"
+
+"include"
+
+"Running Make include in microblaze_0/libsrc/gpio_v4_6/src"
+
+make -C microblaze_0/libsrc/gpio_v4_6/src -s include  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "COMPILE
+R_FLAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mno-xl-soft-mul -mxl-barrel-shift -mxl-pattern-compare" "EXTRA_COMPILER_FLAGS=-g 
+-ffunction-sections -fdata-sections -Wall -Wextra"
+
+"Running Make include in microblaze_0/libsrc/intc_v3_11/src"
+
+make -C microblaze_0/libsrc/intc_v3_11/src -s include  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "COMPIL
+ER_FLAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mno-xl-soft-mul -mxl-barrel-shift -mxl-pattern-compare" "EXTRA_COMPILER_FLAGS=-g
+ -ffunction-sections -fdata-sections -Wall -Wextra"
+
+"Running Make include in microblaze_0/libsrc/lwip211_v1_2/src"
+
+make -C microblaze_0/libsrc/lwip211_v1_2/src -s include  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "COMP
+ILER_FLAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mno-xl-soft-mul -mxl-barrel-shift -mxl-pattern-compare" "EXTRA_COMPILER_FLAGS=
+-g -ffunction-sections -fdata-sections -Wall -Wextra"
+
+"Running Make include in microblaze_0/libsrc/spi_v4_6/src"
+
+make -C microblaze_0/libsrc/spi_v4_6/src -s include  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "COMPILER
+_FLAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mno-xl-soft-mul -mxl-barrel-shift -mxl-pattern-compare" "EXTRA_COMPILER_FLAGS=-g -
+ffunction-sections -fdata-sections -Wall -Wextra"
+
+"Running Make include in microblaze_0/libsrc/tmrctr_v4_6/src"
+
+make -C microblaze_0/libsrc/tmrctr_v4_6/src -s include  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "COMPI
+LER_FLAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mno-xl-soft-mul -mxl-barrel-shift -mxl-pattern-compare" "EXTRA_COMPILER_FLAGS=-
+g -ffunction-sections -fdata-sections -Wall -Wextra"
+
+"Running Make include in microblaze_0/libsrc/uartlite_v3_4/src"
+
+make -C microblaze_0/libsrc/uartlite_v3_4/src -s include  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "COM
+PILER_FLAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mno-xl-soft-mul -mxl-barrel-shift -mxl-pattern-compare" "EXTRA_COMPILER_FLAGS
+=-g -ffunction-sections -fdata-sections -Wall -Wextra"
+
+"Running Make libs in microblaze_0/libsrc/bram_v4_4/src"
+
+make -C microblaze_0/libsrc/bram_v4_4/src -s libs  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "COMPILER_F
+LAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mno-xl-soft-mul -mxl-barrel-shift -mxl-pattern-compare" "EXTRA_COMPILER_FLAGS=-g -ff
+unction-sections -fdata-sections -Wall -Wextra"
+
+"Compiling bram"
+
+mb-ar: creating ../../../lib/libxil.a
+"Running Make libs in microblaze_0/libsrc/cpu_v2_11/src"
+
+make -C microblaze_0/libsrc/cpu_v2_11/src -s libs  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "COMPILER_F
+LAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mno-xl-soft-mul -mxl-barrel-shift -mxl-pattern-compare" "EXTRA_COMPILER_FLAGS=-g -ff
+unction-sections -fdata-sections -Wall -Wextra"
+
+"Compiling cpu"
+
+"Running Make libs in microblaze_0/libsrc/emaclite_v4_5/src"
+
+make -C microblaze_0/libsrc/emaclite_v4_5/src -s libs  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "COMPIL
+ER_FLAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mno-xl-soft-mul -mxl-barrel-shift -mxl-pattern-compare" "EXTRA_COMPILER_FLAGS=-g
+ -ffunction-sections -fdata-sections -Wall -Wextra"
+
+"Compiling emaclite"
+
+"Running Make libs in microblaze_0/libsrc/freertos10_xilinx_v1_6/src"
+
+make -C microblaze_0/libsrc/freertos10_xilinx_v1_6/src -s libs  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar
+" "COMPILER_FLAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mno-xl-soft-mul -mxl-barrel-shift -mxl-pattern-compare" "EXTRA_COMPILER
+_FLAGS=-g -ffunction-sections -fdata-sections -Wall -Wextra"
+
+"Compiling standalone";
+
+microblaze_sleep.c:55:9: note: #pragma message: For the sleep routines, assembly instructions are used
+   55 | #pragma message ("For the sleep routines, assembly instructions are used")
+      |         ^~~~~~~
+"Compiling FreeRTOS"
+
+mb-ar: creating ../../../lib/libfreertos.a
+"Running Make libs in microblaze_0/libsrc/gpio_v4_6/src"
+
+make -C microblaze_0/libsrc/gpio_v4_6/src -s libs  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "COMPILER_F
+LAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mno-xl-soft-mul -mxl-barrel-shift -mxl-pattern-compare" "EXTRA_COMPILER_FLAGS=-g -ff
+unction-sections -fdata-sections -Wall -Wextra"
+
+"Compiling gpio"
+
+"Running Make libs in microblaze_0/libsrc/intc_v3_11/src"
+
+make -C microblaze_0/libsrc/intc_v3_11/src -s libs  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "COMPILER_
+FLAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mno-xl-soft-mul -mxl-barrel-shift -mxl-pattern-compare" "EXTRA_COMPILER_FLAGS=-g -f
+function-sections -fdata-sections -Wall -Wextra"
+
+"Compiling intc"
+
+"Running Make libs in microblaze_0/libsrc/lwip211_v1_2/src"
+
+make -C microblaze_0/libsrc/lwip211_v1_2/src -s libs  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "COMPILE
+R_FLAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mno-xl-soft-mul -mxl-barrel-shift -mxl-pattern-compare" "EXTRA_COMPILER_FLAGS=-g 
+-ffunction-sections -fdata-sections -Wall -Wextra"
+
+"Compiling lwip src and adapter files"
+
+contrib/ports/xilinx/netif/xadapter.c: In function 'eth_link_detect':
+contrib/ports/xilinx/netif/xadapter.c:364:8: warning: unused variable 'link_speed' [-Wunused-variable]
+  364 |  u32_t link_speed, phy_link_status;
+      |        ^~~~~~~~~~
+contrib/ports/xilinx/netif/xemacliteif.c: In function 'arp_timer':
+contrib/ports/xilinx/netif/xemacliteif.c:476:17: warning: unused parameter 'arg' [-Wunused-parameter]
+  476 | arp_timer(void *arg)
+      |           ~~~~~~^~~
+"Running Make libs in microblaze_0/libsrc/spi_v4_6/src"
+
+make -C microblaze_0/libsrc/spi_v4_6/src -s libs  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "COMPILER_FL
+AGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mno-xl-soft-mul -mxl-barrel-shift -mxl-pattern-compare" "EXTRA_COMPILER_FLAGS=-g -ffu
+nction-sections -fdata-sections -Wall -Wextra"
+
+"Compiling spi"
+
+"Running Make libs in microblaze_0/libsrc/tmrctr_v4_6/src"
+
+make -C microblaze_0/libsrc/tmrctr_v4_6/src -s libs  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "COMPILER
+_FLAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mno-xl-soft-mul -mxl-barrel-shift -mxl-pattern-compare" "EXTRA_COMPILER_FLAGS=-g -
+ffunction-sections -fdata-sections -Wall -Wextra"
+
+"Compiling tmrctr"
+
+"Running Make libs in microblaze_0/libsrc/uartlite_v3_4/src"
+
+make -C microblaze_0/libsrc/uartlite_v3_4/src -s libs  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "COMPIL
+ER_FLAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mno-xl-soft-mul -mxl-barrel-shift -mxl-pattern-compare" "EXTRA_COMPILER_FLAGS=-g
+ -ffunction-sections -fdata-sections -Wall -Wextra"
+
+"Compiling uartlite"
+
+'Finished building libraries'
+
+16:45:58 **** Build of configuration Debug for project oscilloscope-software ****
+make all 
+'Building file: ../src/echo.c'
+'Invoking: MicroBlaze gcc compiler'
+mb-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/echo.o" -IZ:/oscilloscope-software/design_1_wrapper/export/design_1_wrapper/sw/design_1_wrapper/domain_microblaze_0/bspinclude/include -mlittle-endian -mxl-barrel-shift -mxl-pattern-compare -mcpu=v11.0 -mno-xl-soft-mul -Wl,--no-relax -ffunction-sections -fdata-sections -MMD -MP -MF"src/echo.d" -MT"src/echo.o" -o "src/echo.o" "../src/echo.c"
+'Finished building: ../src/echo.c'
+' '
+'Building file: ../src/iic_phyreset.c'
+'Invoking: MicroBlaze gcc compiler'
+mb-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/iic_phyreset.o" -IZ:/oscilloscope-software/design_1_wrapper/export/design_1_wrapper/sw/design_1_wrapper/domain_microblaze_0/bspinclude/include -mlittle-endian -mxl-barrel-shift -mxl-pattern-compare -mcpu=v11.0 -mno-xl-soft-mul -Wl,--no-relax -ffunction-sections -fdata-sections -MMD -MP -MF"src/iic_phyreset.d" -MT"src/iic_phyreset.o" -o "src/iic_phyreset.o" "../src/iic_phyreset.c"
+'Finished building: ../src/iic_phyreset.c'
+' '
+'Building file: ../src/main.c'
+'Invoking: MicroBlaze gcc compiler'
+mb-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/main.o" -IZ:/oscilloscope-software/design_1_wrapper/export/design_1_wrapper/sw/design_1_wrapper/domain_microblaze_0/bspinclude/include -mlittle-endian -mxl-barrel-shift -mxl-pattern-compare -mcpu=v11.0 -mno-xl-soft-mul -Wl,--no-relax -ffunction-sections -fdata-sections -MMD -MP -MF"src/main.d" -MT"src/main.o" -o "src/main.o" "../src/main.c"
+'Finished building: ../src/main.c'
+' '
+'Building target: oscilloscope-software.elf'
+'Invoking: MicroBlaze gcc linker'
+mb-gcc -Wl,-T -Wl,../src/lscript.ld -LZ:/oscilloscope-software/design_1_wrapper/export/design_1_wrapper/sw/design_1_wrapper/domain_microblaze_0/bsplib/lib -mlittle-endian -mxl-barrel-shift -mxl-pattern-compare -mcpu=v11.0 -mno-xl-soft-mul -Wl,--no-relax -Wl,--gc-sections -o "oscilloscope-software.elf"  ./src/echo.o ./src/iic_phyreset.o ./src/main.o   -Wl,--start-group,-lxil,-lfreertos,-lgcc,-lc,--end-group -Wl,--start-group,-lxil,-llwip4,-lgcc,-lc,--end-group
+'Finished building target: oscilloscope-software.elf'
+' '
+'Invoking: MicroBlaze Print Size'
+mb-size oscilloscope-software.elf  |tee "oscilloscope-software.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+ 125524	   1492	4036528	4163544	 3f87d8	oscilloscope-software.elf
+'Finished building: oscilloscope-software.elf.size'
+' '
+16:46:03 **** Build of configuration Debug for project oscilloscope-software_system ****
+make all 
+Skipping SD card image generation. Reason: "The system project only has applications for microblaze processors."
+16:51:24 **** Clean-only build of project design_1_wrapper ****
+buildplatform.bat 14403 design_1_wrapper clean 
+XSDB Server Channel: tcfchan#3
+Cleaning the BSP for domain  - domain_microblaze_0
+make -C microblaze_0/libsrc/bram_v4_4/src -s clean 
+
+make -C microblaze_0/libsrc/cpu_v2_11/src -s clean 
+
+make -C microblaze_0/libsrc/emaclite_v4_5/src -s clean 
+
+make -C microblaze_0/libsrc/freertos10_xilinx_v1_6/src -s clean 
+
+make -C microblaze_0/libsrc/gpio_v4_6/src -s clean 
+
+make -C microblaze_0/libsrc/intc_v3_11/src -s clean 
+
+make -C microblaze_0/libsrc/lwip211_v1_2/src -s clean 
+
+make -C microblaze_0/libsrc/spi_v4_6/src -s clean 
+
+make -C microblaze_0/libsrc/tmrctr_v4_6/src -s clean 
+
+make -C microblaze_0/libsrc/uartlite_v3_4/src -s clean 
+
+rm -f microblaze_0/lib/libxil.a
+
+16:51:32 **** Clean-only build of configuration Debug for project oscilloscope-software ****
+make clean 
+rm -rf  ./src/echo.o ./src/iic_phyreset.o ./src/main.o  ./src/echo.d ./src/iic_phyreset.d ./src/main.d  oscilloscope-software.elf.size  oscilloscope-software.elf
+' '
+16:51:32 **** Clean-only build of configuration Debug for project oscilloscope-software_system ****
+make clean 
+rm -rf ./_sds
+rm -rf package
+rm -f system.bif

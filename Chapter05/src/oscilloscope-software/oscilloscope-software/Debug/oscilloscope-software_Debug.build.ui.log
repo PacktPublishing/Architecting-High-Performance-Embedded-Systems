@@ -1,0 +1,7 @@
+2020-10-08T16:51:31.997367500255-16:51:32 **** Clean-only build of configuration Debug for project oscilloscope-software ****
+000-make clean 
+000-rm -rf  ./src/echo.o ./src/iic_phyreset.o ./src/main.o  ./src/echo.d ./src/iic_phyreset.d ./src/main.d  oscilloscope-software.elf.size  oscilloscope-software.elf
+000-' '
+00255-
+16:51:32 Build Finished (took 585ms)
+

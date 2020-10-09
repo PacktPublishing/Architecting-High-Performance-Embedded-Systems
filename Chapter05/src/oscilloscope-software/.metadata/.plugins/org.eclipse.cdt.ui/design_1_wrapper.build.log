@@ -1,0 +1,29 @@
+16:51:24 **** Clean-only build of project design_1_wrapper ****
+buildplatform.bat 14403 design_1_wrapper clean 
+XSDB Server Channel: tcfchan#3
+Cleaning the BSP for domain  - domain_microblaze_0
+make -C microblaze_0/libsrc/bram_v4_4/src -s clean 
+
+make -C microblaze_0/libsrc/cpu_v2_11/src -s clean 
+
+make -C microblaze_0/libsrc/emaclite_v4_5/src -s clean 
+
+make -C microblaze_0/libsrc/freertos10_xilinx_v1_6/src -s clean 
+
+make -C microblaze_0/libsrc/gpio_v4_6/src -s clean 
+
+make -C microblaze_0/libsrc/intc_v3_11/src -s clean 
+
+make -C microblaze_0/libsrc/lwip211_v1_2/src -s clean 
+
+make -C microblaze_0/libsrc/spi_v4_6/src -s clean 
+
+make -C microblaze_0/libsrc/tmrctr_v4_6/src -s clean 
+
+make -C microblaze_0/libsrc/uartlite_v3_4/src -s clean 
+
+rm -f microblaze_0/lib/libxil.a
+
+
+16:51:30 Build Finished (took 6s.139ms)
+

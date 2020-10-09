@@ -1,0 +1,1595 @@
+TRACE::2020-10-08.16:36:24::SCWPlatform::Trying to open the hw design at Z:/oscilloscope-software/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2020-10-08.16:36:24::SCWPlatform::DSA given Z:/oscilloscope-software/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2020-10-08.16:36:24::SCWPlatform::DSA absoulate path Z:/oscilloscope-software/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2020-10-08.16:36:27::SCWPlatform::DSA directory Z:/oscilloscope-software/design_1_wrapper/hw
+TRACE::2020-10-08.16:36:27::SCWPlatform:: Platform Path Z:/oscilloscope-software/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2020-10-08.16:36:27::SCWPlatform:: Unique name xilinx:arty-a7-100::0.0
+TRACE::2020-10-08.16:36:27::SCWPlatform::Do not have an existing db opened. 
+TRACE::2020-10-08.16:36:27::SCWPlatform::Opened new HwDB with name design_1_wrapper_0
+TRACE::2020-10-08.16:36:27::SCWWriter::formatted JSON is {
+	"platformName":	"design_1_wrapper",
+	"sprVersion":	"2.0",
+	"mode":	"gui",
+	"dsaType":	"Fixed",
+	"platformDesc":	"design_1_wrapper",
+	"platHandOff":	"<platformDir>.xsa",
+	"platIntHandOff":	"<platformDir>/hw/design_1_wrapper.xsa",
+	"deviceType":	"FPGA",
+	"platIsPrebuiltAutogen":	"false",
+	"platIsNoBootBsp":	"false",
+	"hasFsblMakeHasChanges":	"false",
+	"hasPmufwMakeHasChanges":	"false",
+	"platPreBuiltFlag":	false,
+	"platformSamplesDir":	""
+}
+TRACE::2020-10-08.16:36:27::SCWWriter::formatted JSON is {
+	"platformName":	"design_1_wrapper",
+	"sprVersion":	"2.0",
+	"mode":	"gui",
+	"dsaType":	"Fixed",
+	"platformDesc":	"design_1_wrapper",
+	"platHandOff":	"<platformDir>.xsa",
+	"platIntHandOff":	"<platformDir>/hw/design_1_wrapper.xsa",
+	"deviceType":	"FPGA",
+	"platIsPrebuiltAutogen":	"false",
+	"platIsNoBootBsp":	"false",
+	"hasFsblMakeHasChanges":	"false",
+	"hasPmufwMakeHasChanges":	"false",
+	"platPreBuiltFlag":	false,
+	"platformSamplesDir":	"",
+	"platActiveSys":	"design_1_wrapper",
+	"systems":	[{
+			"systemName":	"design_1_wrapper",
+			"systemDesc":	"design_1_wrapper",
+			"sysIsBootAutoGen":	"true",
+			"systemDispName":	"design_1_wrapper"
+		}]
+}
+TRACE::2020-10-08.16:36:27::SCWPlatform::Boot application domains not present, creating them
+TRACE::2020-10-08.16:36:27::SCWPlatform::Pure FPGA device, no boot application will be created.
+TRACE::2020-10-08.16:36:27::SCWWriter::formatted JSON is {
+	"platformName":	"design_1_wrapper",
+	"sprVersion":	"2.0",
+	"mode":	"gui",
+	"dsaType":	"Fixed",
+	"platformDesc":	"design_1_wrapper",
+	"platHandOff":	"<platformDir>.xsa",
+	"platIntHandOff":	"<platformDir>/hw/design_1_wrapper.xsa",
+	"deviceType":	"FPGA",
+	"platIsPrebuiltAutogen":	"false",
+	"platIsNoBootBsp":	"false",
+	"hasFsblMakeHasChanges":	"false",
+	"hasPmufwMakeHasChanges":	"false",
+	"platPreBuiltFlag":	false,
+	"platformSamplesDir":	"",
+	"platActiveSys":	"design_1_wrapper",
+	"systems":	[{
+			"systemName":	"design_1_wrapper",
+			"systemDesc":	"design_1_wrapper",
+			"sysIsBootAutoGen":	"true",
+			"systemDispName":	"design_1_wrapper"
+		}]
+}
+TRACE::2020-10-08.16:36:27::SCWWriter::formatted JSON is {
+	"platformName":	"design_1_wrapper",
+	"sprVersion":	"2.0",
+	"mode":	"gui",
+	"dsaType":	"Fixed",
+	"platformDesc":	"design_1_wrapper",
+	"platHandOff":	"<platformDir>.xsa",
+	"platIntHandOff":	"<platformDir>/hw/design_1_wrapper.xsa",
+	"deviceType":	"FPGA",
+	"platIsPrebuiltAutogen":	"false",
+	"platIsNoBootBsp":	"false",
+	"hasFsblMakeHasChanges":	"false",
+	"hasPmufwMakeHasChanges":	"false",
+	"platPreBuiltFlag":	false,
+	"platformSamplesDir":	"",
+	"platActiveSys":	"design_1_wrapper",
+	"systems":	[{
+			"systemName":	"design_1_wrapper",
+			"systemDesc":	"design_1_wrapper",
+			"sysIsBootAutoGen":	"true",
+			"systemDispName":	"design_1_wrapper"
+		}]
+}
+TRACE::2020-10-08.16:36:28::SCWPlatform::Trying to open the hw design at Z:/oscilloscope-software/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2020-10-08.16:36:28::SCWPlatform::DSA given Z:/oscilloscope-software/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2020-10-08.16:36:28::SCWPlatform::DSA absoulate path Z:/oscilloscope-software/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2020-10-08.16:36:28::SCWPlatform::DSA directory Z:/oscilloscope-software/design_1_wrapper/hw
+TRACE::2020-10-08.16:36:28::SCWPlatform:: Platform Path Z:/oscilloscope-software/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2020-10-08.16:36:28::SCWPlatform:: Unique name xilinx:arty-a7-100::0.0
+TRACE::2020-10-08.16:36:28::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_0
+TRACE::2020-10-08.16:36:28::SCWPlatform::Opened existing hwdb design_1_wrapper_0
+TRACE::2020-10-08.16:36:28::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2020-10-08.16:36:28::SCWDomain::checking for install qemu data   : 
+TRACE::2020-10-08.16:36:28::SCWPlatform::Trying to open the hw design at Z:/oscilloscope-software/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2020-10-08.16:36:28::SCWPlatform::DSA given Z:/oscilloscope-software/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2020-10-08.16:36:28::SCWPlatform::DSA absoulate path Z:/oscilloscope-software/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2020-10-08.16:36:28::SCWPlatform::DSA directory Z:/oscilloscope-software/design_1_wrapper/hw
+TRACE::2020-10-08.16:36:28::SCWPlatform:: Platform Path Z:/oscilloscope-software/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2020-10-08.16:36:28::SCWPlatform:: Unique name xilinx:arty-a7-100::0.0
+TRACE::2020-10-08.16:36:28::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_0
+TRACE::2020-10-08.16:36:28::SCWPlatform::Opened existing hwdb design_1_wrapper_0
+TRACE::2020-10-08.16:36:28::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2020-10-08.16:36:28::SCWPlatform::Trying to open the hw design at Z:/oscilloscope-software/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2020-10-08.16:36:28::SCWPlatform::DSA given Z:/oscilloscope-software/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2020-10-08.16:36:28::SCWPlatform::DSA absoulate path Z:/oscilloscope-software/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2020-10-08.16:36:28::SCWPlatform::DSA directory Z:/oscilloscope-software/design_1_wrapper/hw
+TRACE::2020-10-08.16:36:28::SCWPlatform:: Platform Path Z:/oscilloscope-software/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2020-10-08.16:36:28::SCWPlatform:: Unique name xilinx:arty-a7-100::0.0
+TRACE::2020-10-08.16:36:28::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_0
+TRACE::2020-10-08.16:36:28::SCWPlatform::Opened existing hwdb design_1_wrapper_0
+TRACE::2020-10-08.16:36:28::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2020-10-08.16:36:28::SCWPlatform::Trying to open the hw design at Z:/oscilloscope-software/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2020-10-08.16:36:28::SCWPlatform::DSA given Z:/oscilloscope-software/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2020-10-08.16:36:28::SCWPlatform::DSA absoulate path Z:/oscilloscope-software/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2020-10-08.16:36:28::SCWPlatform::DSA directory Z:/oscilloscope-software/design_1_wrapper/hw
+TRACE::2020-10-08.16:36:28::SCWPlatform:: Platform Path Z:/oscilloscope-software/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2020-10-08.16:36:28::SCWPlatform:: Unique name xilinx:arty-a7-100::0.0
+TRACE::2020-10-08.16:36:28::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_0
+TRACE::2020-10-08.16:36:28::SCWPlatform::Opened existing hwdb design_1_wrapper_0
+TRACE::2020-10-08.16:36:28::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2020-10-08.16:36:28::SCWMssOS::Checking the sw design at  Z:/oscilloscope-software/design_1_wrapper/microblaze_0/domain_microblaze_0/bsp/system.mss
+TRACE::2020-10-08.16:36:28::SCWMssOS::DEBUG:  swdes dump  
+TRACE::2020-10-08.16:36:28::SCWMssOS::No sw design opened at  Z:/oscilloscope-software/design_1_wrapper/microblaze_0/domain_microblaze_0/bsp/system.mss
+TRACE::2020-10-08.16:36:28::SCWMssOS::mss does not exists at Z:/oscilloscope-software/design_1_wrapper/microblaze_0/domain_microblaze_0/bsp/system.mss
+TRACE::2020-10-08.16:36:28::SCWMssOS::Creating sw design at  Z:/oscilloscope-software/design_1_wrapper/microblaze_0/domain_microblaze_0/bsp/system.mss
+TRACE::2020-10-08.16:36:28::SCWMssOS::Adding the swdes entry, created swdb Z:/oscilloscope-software/design_1_wrapper/microblaze_0/domain_microblaze_0/bsp/system.mss with des name Z:/oscilloscope-software/design_1_wrapper/microblaze_0/domain_microblaze_0/bsp/system.mss
+TRACE::2020-10-08.16:36:28::SCWMssOS::updating the scw layer changes to swdes at   Z:/oscilloscope-software/design_1_wrapper/microblaze_0/domain_microblaze_0/bsp/system.mss
+TRACE::2020-10-08.16:36:28::SCWMssOS::Writing mss at Z:/oscilloscope-software/design_1_wrapper/microblaze_0/domain_microblaze_0/bsp/system.mss
+TRACE::2020-10-08.16:36:28::SCWMssOS::Completed writing the mss file at Z:/oscilloscope-software/design_1_wrapper/microblaze_0/domain_microblaze_0/bsp
+TRACE::2020-10-08.16:36:28::SCWMssOS::Picking up changes from newly written mss file into SCW Layer. 
+TRACE::2020-10-08.16:36:28::SCWMssOS::Updated the changes from newly written mss file into SCW Layer. 
+TRACE::2020-10-08.16:36:28::SCWMssOS::Completed writing the mss file at Z:/oscilloscope-software/design_1_wrapper/microblaze_0/domain_microblaze_0/bsp
+TRACE::2020-10-08.16:36:28::SCWMssOS::Forcing BSP Sources regeneration.
+TRACE::2020-10-08.16:36:50::SCWMssOS::Saving the mss changes Z:/oscilloscope-software/design_1_wrapper/microblaze_0/domain_microblaze_0/bsp/system.mss
+TRACE::2020-10-08.16:36:50::SCWMssOS::Found a swdesign opened with the mssfile.
+TRACE::2020-10-08.16:36:50::SCWMssOS::Running validate of swdbs.
+KEYINFO::2020-10-08.16:36:50::SCWMssOS::Could not open the swdb for Z:/oscilloscope-software/design_1_wrapper/microblaze_0/domain_microblaze_0/bsp/system.mss
+KEYINFO::2020-10-08.16:36:50::SCWMssOS::Could not open the sw design at  Z:/oscilloscope-software/design_1_wrapper/microblaze_0/domain_microblaze_0/bsp/system.mss
+ERROR: [Hsi 55-1558] Software Design Z:/oscilloscope-software/design_1_wrapper/microblaze_0/domain_microblaze_0/bsp/system.mss is not found
+
+TRACE::2020-10-08.16:36:50::SCWMssOS::Cleared the swdb table entry
+TRACE::2020-10-08.16:36:50::SCWMssOS::Adding the swdes entry, mss present, able to open swdb Z:/oscilloscope-software/design_1_wrapper/microblaze_0/domain_microblaze_0/bsp/system.mss with des name system
+TRACE::2020-10-08.16:36:50::SCWMssOS::Writing the mss file completed Z:/oscilloscope-software/design_1_wrapper/microblaze_0/domain_microblaze_0/bsp/system.mss
+TRACE::2020-10-08.16:36:50::SCWMssOS::Commit changes completed.
+TRACE::2020-10-08.16:36:50::SCWPlatform::Trying to open the hw design at Z:/oscilloscope-software/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2020-10-08.16:36:50::SCWPlatform::DSA given Z:/oscilloscope-software/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2020-10-08.16:36:50::SCWPlatform::DSA absoulate path Z:/oscilloscope-software/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2020-10-08.16:36:50::SCWPlatform::DSA directory Z:/oscilloscope-software/design_1_wrapper/hw
+TRACE::2020-10-08.16:36:50::SCWPlatform:: Platform Path Z:/oscilloscope-software/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2020-10-08.16:36:50::SCWPlatform:: Unique name xilinx:arty-a7-100::0.0
+TRACE::2020-10-08.16:36:50::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_0
+TRACE::2020-10-08.16:36:50::SCWPlatform::Opened existing hwdb design_1_wrapper_0
+TRACE::2020-10-08.16:36:50::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2020-10-08.16:36:50::SCWMssOS::Checking the sw design at  Z:/oscilloscope-software/design_1_wrapper/microblaze_0/domain_microblaze_0/bsp/system.mss
+TRACE::2020-10-08.16:36:50::SCWMssOS::DEBUG:  swdes dump  Z:/oscilloscope-software/design_1_wrapper/microblaze_0/domain_microblaze_0/bsp/system.mss|system||
+
+TRACE::2020-10-08.16:36:50::SCWMssOS::Sw design exists and opened at  Z:/oscilloscope-software/design_1_wrapper/microblaze_0/domain_microblaze_0/bsp/system.mss
+TRACE::2020-10-08.16:36:50::SCWPlatform::Trying to open the hw design at Z:/oscilloscope-software/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2020-10-08.16:36:50::SCWPlatform::DSA given Z:/oscilloscope-software/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2020-10-08.16:36:50::SCWPlatform::DSA absoulate path Z:/oscilloscope-software/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2020-10-08.16:36:50::SCWPlatform::DSA directory Z:/oscilloscope-software/design_1_wrapper/hw
+TRACE::2020-10-08.16:36:50::SCWPlatform:: Platform Path Z:/oscilloscope-software/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2020-10-08.16:36:50::SCWPlatform:: Unique name xilinx:arty-a7-100::0.0
+TRACE::2020-10-08.16:36:50::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_0
+TRACE::2020-10-08.16:36:50::SCWPlatform::Opened existing hwdb design_1_wrapper_0
+TRACE::2020-10-08.16:36:50::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2020-10-08.16:36:50::SCWMssOS::Checking the sw design at  Z:/oscilloscope-software/design_1_wrapper/microblaze_0/domain_microblaze_0/bsp/system.mss
+TRACE::2020-10-08.16:36:50::SCWMssOS::DEBUG:  swdes dump  Z:/oscilloscope-software/design_1_wrapper/microblaze_0/domain_microblaze_0/bsp/system.mss|system||
+
+TRACE::2020-10-08.16:36:50::SCWMssOS::Sw design exists and opened at  Z:/oscilloscope-software/design_1_wrapper/microblaze_0/domain_microblaze_0/bsp/system.mss
+TRACE::2020-10-08.16:36:50::SCWPlatform::Trying to open the hw design at Z:/oscilloscope-software/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2020-10-08.16:36:50::SCWPlatform::DSA given Z:/oscilloscope-software/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2020-10-08.16:36:50::SCWPlatform::DSA absoulate path Z:/oscilloscope-software/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2020-10-08.16:36:50::SCWPlatform::DSA directory Z:/oscilloscope-software/design_1_wrapper/hw
+TRACE::2020-10-08.16:36:50::SCWPlatform:: Platform Path Z:/oscilloscope-software/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2020-10-08.16:36:50::SCWPlatform:: Unique name xilinx:arty-a7-100::0.0
+TRACE::2020-10-08.16:36:50::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_0
+TRACE::2020-10-08.16:36:50::SCWPlatform::Opened existing hwdb design_1_wrapper_0
+TRACE::2020-10-08.16:36:50::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2020-10-08.16:36:50::SCWMssOS::Checking the sw design at  Z:/oscilloscope-software/design_1_wrapper/microblaze_0/domain_microblaze_0/bsp/system.mss
+TRACE::2020-10-08.16:36:50::SCWMssOS::DEBUG:  swdes dump  Z:/oscilloscope-software/design_1_wrapper/microblaze_0/domain_microblaze_0/bsp/system.mss|system||
+
+TRACE::2020-10-08.16:36:50::SCWMssOS::Sw design exists and opened at  Z:/oscilloscope-software/design_1_wrapper/microblaze_0/domain_microblaze_0/bsp/system.mss
+TRACE::2020-10-08.16:36:50::SCWWriter::formatted JSON is {
+	"platformName":	"design_1_wrapper",
+	"sprVersion":	"2.0",
+	"mode":	"gui",
+	"dsaType":	"Fixed",
+	"platformDesc":	"design_1_wrapper",
+	"platHandOff":	"<platformDir>.xsa",
+	"platIntHandOff":	"<platformDir>/hw/design_1_wrapper.xsa",
+	"deviceType":	"FPGA",
+	"platIsPrebuiltAutogen":	"false",
+	"platIsNoBootBsp":	"false",
+	"hasFsblMakeHasChanges":	"false",
+	"hasPmufwMakeHasChanges":	"false",
+	"platPreBuiltFlag":	false,
+	"platformSamplesDir":	"",
+	"platActiveSys":	"design_1_wrapper",
+	"systems":	[{
+			"systemName":	"design_1_wrapper",
+			"systemDesc":	"design_1_wrapper",
+			"sysIsBootAutoGen":	"true",
+			"systemDispName":	"design_1_wrapper",
+			"sysActiveDom":	"domain_microblaze_0",
+			"sysDefaultDom":	"domain_microblaze_0",
+			"domains":	[{
+					"domainName":	"domain_microblaze_0",
+					"domainDispName":	"domain_microblaze_0",
+					"domainDesc":	"domain_microblaze_0",
+					"processors":	"microblaze_0",
+					"os":	"freertos10_xilinx",
+					"sdxOs":	"freertos10_xilinx",
+					"debugEnable":	"False",
+					"domRuntimes":	["cpp"],
+					"swRepo":	"",
+					"mssOsVer":	"1.6",
+					"mssFile":	"",
+					"md5Digest":	"e908b8b6756f2b54108df3bcd3e58817",
+					"compatibleApp":	"freertos_lwip_echo_server",
+					"domType":	"mssDomain",
+					"arch":	"32-bit",
+					"appSettings":	{
+						"appCompilerFlags":	"",
+						"appLinkerFlags":	""
+					},
+					"addedLibs":	["lwip211:1.2"],
+					"libOptions":	{
+						"libsContainingOptions":	[]
+					},
+					"prebuiltLibs":	{
+						"prebuiltIncPath":	[],
+						"prebuiltLibPath":	[]
+					},
+					"isolation":	{
+					}
+				}]
+		}]
+}
+LOG::2020-10-08.16:36:50::SCWPlatform::Started generating the artifacts platform design_1_wrapper
+TRACE::2020-10-08.16:36:50::SCWPlatform::Sanity checking of platform is completed
+LOG::2020-10-08.16:36:50::SCWPlatform::Started generating the artifacts for system configuration design_1_wrapper
+LOG::2020-10-08.16:36:50::SCWSystem::Checking the domain domain_microblaze_0
+LOG::2020-10-08.16:36:50::SCWSystem::Not a boot domain 
+LOG::2020-10-08.16:36:50::SCWSystem::Started Processing the domain domain_microblaze_0
+TRACE::2020-10-08.16:36:50::SCWDomain::Generating domain artifcats
+TRACE::2020-10-08.16:36:50::SCWMssOS::Generating standalone artifcats
+TRACE::2020-10-08.16:36:50::SCWMssOS:: Copying the user libraries. 
+TRACE::2020-10-08.16:36:50::SCWPlatform::Trying to open the hw design at Z:/oscilloscope-software/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2020-10-08.16:36:50::SCWPlatform::DSA given Z:/oscilloscope-software/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2020-10-08.16:36:50::SCWPlatform::DSA absoulate path Z:/oscilloscope-software/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2020-10-08.16:36:50::SCWPlatform::DSA directory Z:/oscilloscope-software/design_1_wrapper/hw
+TRACE::2020-10-08.16:36:50::SCWPlatform:: Platform Path Z:/oscilloscope-software/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2020-10-08.16:36:50::SCWPlatform:: Unique name xilinx:arty-a7-100::0.0
+TRACE::2020-10-08.16:36:50::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_0
+TRACE::2020-10-08.16:36:50::SCWPlatform::Opened existing hwdb design_1_wrapper_0
+TRACE::2020-10-08.16:36:50::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2020-10-08.16:36:50::SCWMssOS::Checking the sw design at  Z:/oscilloscope-software/design_1_wrapper/microblaze_0/domain_microblaze_0/bsp/system.mss
+TRACE::2020-10-08.16:36:50::SCWMssOS::DEBUG:  swdes dump  Z:/oscilloscope-software/design_1_wrapper/microblaze_0/domain_microblaze_0/bsp/system.mss|system||
+
+TRACE::2020-10-08.16:36:50::SCWMssOS::Sw design exists and opened at  Z:/oscilloscope-software/design_1_wrapper/microblaze_0/domain_microblaze_0/bsp/system.mss
+TRACE::2020-10-08.16:36:50::SCWMssOS::Completed writing the mss file at Z:/oscilloscope-software/design_1_wrapper/microblaze_0/domain_microblaze_0/bsp
+TRACE::2020-10-08.16:36:50::SCWMssOS::Mss edits present, copying mssfile into export location Z:/oscilloscope-software/design_1_wrapper/microblaze_0/domain_microblaze_0/bsp/system.mss
+TRACE::2020-10-08.16:36:50::SCWMssOS::bsp generated is upto date with the mss file. Skipping bsp generation.
+TRACE::2020-10-08.16:36:50::SCWMssOS::BSP is already built. skipping the bsp build ... 
+TRACE::2020-10-08.16:36:50::SCWDomain::Skipping the build for domain :  domain_microblaze_0
+TRACE::2020-10-08.16:36:50::SCWMssOS::skipping the bsp build ... 
+TRACE::2020-10-08.16:36:50::SCWMssOS::Copying to export directory.
+TRACE::2020-10-08.16:36:50::SCWMssOS:: Checking if to create the Supporting Applications
+TRACE::2020-10-08.16:36:50::SCWMssOS:: No Linux domain exists, trying to generate FSBL 
+LOG::2020-10-08.16:36:50::SCWSystem::Completed Processing the domain domain_microblaze_0
+LOG::2020-10-08.16:36:50::SCWSystem::Completed Processing the sysconfig design_1_wrapper
+LOG::2020-10-08.16:36:50::SCWPlatform::Completed generating the artifacts for system configuration design_1_wrapper
+TRACE::2020-10-08.16:36:50::SCWPlatform::Started preparing the platform 
+TRACE::2020-10-08.16:36:50::SCWSystem::Writing the bif file for system config design_1_wrapper
+TRACE::2020-10-08.16:36:50::SCWSystem::dir created 
+TRACE::2020-10-08.16:36:50::SCWSystem::Writing the bif 
+TRACE::2020-10-08.16:36:50::SCWPlatform::Started writing the spfm file 
+TRACE::2020-10-08.16:36:50::SCWPlatform::Started writing the xpfm file 
+TRACE::2020-10-08.16:36:50::SCWPlatform::Completed generating the platform
+TRACE::2020-10-08.16:36:50::SCWMssOS::Saving the mss changes Z:/oscilloscope-software/design_1_wrapper/microblaze_0/domain_microblaze_0/bsp/system.mss
+TRACE::2020-10-08.16:36:50::SCWMssOS::Found a swdesign opened with the mssfile.
+TRACE::2020-10-08.16:36:50::SCWMssOS::Completed writemss as part of save.
+TRACE::2020-10-08.16:36:50::SCWMssOS::Commit changes completed.
+TRACE::2020-10-08.16:36:50::SCWPlatform::Trying to open the hw design at Z:/oscilloscope-software/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2020-10-08.16:36:50::SCWPlatform::DSA given Z:/oscilloscope-software/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2020-10-08.16:36:50::SCWPlatform::DSA absoulate path Z:/oscilloscope-software/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2020-10-08.16:36:50::SCWPlatform::DSA directory Z:/oscilloscope-software/design_1_wrapper/hw
+TRACE::2020-10-08.16:36:50::SCWPlatform:: Platform Path Z:/oscilloscope-software/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2020-10-08.16:36:50::SCWPlatform:: Unique name xilinx:arty-a7-100::0.0
+TRACE::2020-10-08.16:36:50::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_0
+TRACE::2020-10-08.16:36:50::SCWPlatform::Opened existing hwdb design_1_wrapper_0
+TRACE::2020-10-08.16:36:50::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2020-10-08.16:36:50::SCWMssOS::Checking the sw design at  Z:/oscilloscope-software/design_1_wrapper/microblaze_0/domain_microblaze_0/bsp/system.mss
+TRACE::2020-10-08.16:36:50::SCWMssOS::DEBUG:  swdes dump  Z:/oscilloscope-software/design_1_wrapper/microblaze_0/domain_microblaze_0/bsp/system.mss|system||
+
+TRACE::2020-10-08.16:36:50::SCWMssOS::Sw design exists and opened at  Z:/oscilloscope-software/design_1_wrapper/microblaze_0/domain_microblaze_0/bsp/system.mss
+TRACE::2020-10-08.16:36:50::SCWPlatform::Trying to open the hw design at Z:/oscilloscope-software/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2020-10-08.16:36:50::SCWPlatform::DSA given Z:/oscilloscope-software/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2020-10-08.16:36:50::SCWPlatform::DSA absoulate path Z:/oscilloscope-software/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2020-10-08.16:36:50::SCWPlatform::DSA directory Z:/oscilloscope-software/design_1_wrapper/hw
+TRACE::2020-10-08.16:36:50::SCWPlatform:: Platform Path Z:/oscilloscope-software/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2020-10-08.16:36:50::SCWPlatform:: Unique name xilinx:arty-a7-100::0.0
+TRACE::2020-10-08.16:36:50::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_0
+TRACE::2020-10-08.16:36:50::SCWPlatform::Opened existing hwdb design_1_wrapper_0
+TRACE::2020-10-08.16:36:50::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2020-10-08.16:36:50::SCWMssOS::Checking the sw design at  Z:/oscilloscope-software/design_1_wrapper/microblaze_0/domain_microblaze_0/bsp/system.mss
+TRACE::2020-10-08.16:36:50::SCWMssOS::DEBUG:  swdes dump  Z:/oscilloscope-software/design_1_wrapper/microblaze_0/domain_microblaze_0/bsp/system.mss|system||
+
+TRACE::2020-10-08.16:36:50::SCWMssOS::Sw design exists and opened at  Z:/oscilloscope-software/design_1_wrapper/microblaze_0/domain_microblaze_0/bsp/system.mss
+TRACE::2020-10-08.16:36:50::SCWPlatform::Trying to open the hw design at Z:/oscilloscope-software/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2020-10-08.16:36:50::SCWPlatform::DSA given Z:/oscilloscope-software/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2020-10-08.16:36:50::SCWPlatform::DSA absoulate path Z:/oscilloscope-software/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2020-10-08.16:36:50::SCWPlatform::DSA directory Z:/oscilloscope-software/design_1_wrapper/hw
+TRACE::2020-10-08.16:36:50::SCWPlatform:: Platform Path Z:/oscilloscope-software/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2020-10-08.16:36:50::SCWPlatform:: Unique name xilinx:arty-a7-100::0.0
+TRACE::2020-10-08.16:36:50::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_0
+TRACE::2020-10-08.16:36:50::SCWPlatform::Opened existing hwdb design_1_wrapper_0
+TRACE::2020-10-08.16:36:50::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2020-10-08.16:36:50::SCWMssOS::Checking the sw design at  Z:/oscilloscope-software/design_1_wrapper/microblaze_0/domain_microblaze_0/bsp/system.mss
+TRACE::2020-10-08.16:36:50::SCWMssOS::DEBUG:  swdes dump  Z:/oscilloscope-software/design_1_wrapper/microblaze_0/domain_microblaze_0/bsp/system.mss|system||
+
+TRACE::2020-10-08.16:36:50::SCWMssOS::Sw design exists and opened at  Z:/oscilloscope-software/design_1_wrapper/microblaze_0/domain_microblaze_0/bsp/system.mss
+TRACE::2020-10-08.16:36:50::SCWWriter::formatted JSON is {
+	"platformName":	"design_1_wrapper",
+	"sprVersion":	"2.0",
+	"mode":	"gui",
+	"dsaType":	"Fixed",
+	"platformDesc":	"design_1_wrapper",
+	"platHandOff":	"<platformDir>.xsa",
+	"platIntHandOff":	"<platformDir>/hw/design_1_wrapper.xsa",
+	"deviceType":	"FPGA",
+	"platIsPrebuiltAutogen":	"false",
+	"platIsNoBootBsp":	"false",
+	"hasFsblMakeHasChanges":	"false",
+	"hasPmufwMakeHasChanges":	"false",
+	"platPreBuiltFlag":	false,
+	"platformSamplesDir":	"",
+	"platActiveSys":	"design_1_wrapper",
+	"systems":	[{
+			"systemName":	"design_1_wrapper",
+			"systemDesc":	"design_1_wrapper",
+			"sysIsBootAutoGen":	"true",
+			"systemDispName":	"design_1_wrapper",
+			"sysActiveDom":	"domain_microblaze_0",
+			"sysDefaultDom":	"domain_microblaze_0",
+			"domains":	[{
+					"domainName":	"domain_microblaze_0",
+					"domainDispName":	"domain_microblaze_0",
+					"domainDesc":	"domain_microblaze_0",
+					"processors":	"microblaze_0",
+					"os":	"freertos10_xilinx",
+					"sdxOs":	"freertos10_xilinx",
+					"debugEnable":	"False",
+					"domRuntimes":	["cpp"],
+					"swRepo":	"",
+					"mssOsVer":	"1.6",
+					"mssFile":	"",
+					"md5Digest":	"e908b8b6756f2b54108df3bcd3e58817",
+					"compatibleApp":	"freertos_lwip_echo_server",
+					"domType":	"mssDomain",
+					"arch":	"32-bit",
+					"appSettings":	{
+						"appCompilerFlags":	"",
+						"appLinkerFlags":	""
+					},
+					"addedLibs":	["lwip211:1.2"],
+					"libOptions":	{
+						"libsContainingOptions":	[]
+					},
+					"prebuiltLibs":	{
+						"prebuiltIncPath":	[],
+						"prebuiltLibPath":	[]
+					},
+					"isolation":	{
+					}
+				}]
+		}]
+}
+KEYINFO::2020-10-08.16:36:50::SCWPlatform::updated the xpfm file.
+TRACE::2020-10-08.16:36:50::SCWPlatform::Trying to open the hw design at Z:/oscilloscope-software/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2020-10-08.16:36:50::SCWPlatform::DSA given Z:/oscilloscope-software/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2020-10-08.16:36:50::SCWPlatform::DSA absoulate path Z:/oscilloscope-software/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2020-10-08.16:36:50::SCWPlatform::DSA directory Z:/oscilloscope-software/design_1_wrapper/hw
+TRACE::2020-10-08.16:36:50::SCWPlatform:: Platform Path Z:/oscilloscope-software/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2020-10-08.16:36:50::SCWPlatform:: Unique name xilinx:arty-a7-100::0.0
+TRACE::2020-10-08.16:36:50::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_0
+TRACE::2020-10-08.16:36:50::SCWPlatform::Opened existing hwdb design_1_wrapper_0
+TRACE::2020-10-08.16:36:50::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2020-10-08.16:36:50::SCWMssOS::Checking the sw design at  Z:/oscilloscope-software/design_1_wrapper/microblaze_0/domain_microblaze_0/bsp/system.mss
+TRACE::2020-10-08.16:36:50::SCWMssOS::DEBUG:  swdes dump  Z:/oscilloscope-software/design_1_wrapper/microblaze_0/domain_microblaze_0/bsp/system.mss|system||
+
+TRACE::2020-10-08.16:36:50::SCWMssOS::Sw design exists and opened at  Z:/oscilloscope-software/design_1_wrapper/microblaze_0/domain_microblaze_0/bsp/system.mss
+TRACE::2020-10-08.16:36:50::SCWMssOS::Saving the mss changes Z:/oscilloscope-software/design_1_wrapper/microblaze_0/domain_microblaze_0/bsp/system.mss
+TRACE::2020-10-08.16:36:50::SCWMssOS::Found a swdesign opened with the mssfile.
+TRACE::2020-10-08.16:36:50::SCWMssOS::Completed writemss as part of save.
+TRACE::2020-10-08.16:36:50::SCWMssOS::Commit changes completed.
+TRACE::2020-10-08.16:36:50::SCWPlatform::Trying to open the hw design at Z:/oscilloscope-software/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2020-10-08.16:36:50::SCWPlatform::DSA given Z:/oscilloscope-software/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2020-10-08.16:36:50::SCWPlatform::DSA absoulate path Z:/oscilloscope-software/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2020-10-08.16:36:50::SCWPlatform::DSA directory Z:/oscilloscope-software/design_1_wrapper/hw
+TRACE::2020-10-08.16:36:50::SCWPlatform:: Platform Path Z:/oscilloscope-software/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2020-10-08.16:36:50::SCWPlatform:: Unique name xilinx:arty-a7-100::0.0
+TRACE::2020-10-08.16:36:50::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_0
+TRACE::2020-10-08.16:36:50::SCWPlatform::Opened existing hwdb design_1_wrapper_0
+TRACE::2020-10-08.16:36:50::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2020-10-08.16:36:50::SCWMssOS::Checking the sw design at  Z:/oscilloscope-software/design_1_wrapper/microblaze_0/domain_microblaze_0/bsp/system.mss
+TRACE::2020-10-08.16:36:50::SCWMssOS::DEBUG:  swdes dump  Z:/oscilloscope-software/design_1_wrapper/microblaze_0/domain_microblaze_0/bsp/system.mss|system||
+
+TRACE::2020-10-08.16:36:50::SCWMssOS::Sw design exists and opened at  Z:/oscilloscope-software/design_1_wrapper/microblaze_0/domain_microblaze_0/bsp/system.mss
+TRACE::2020-10-08.16:36:50::SCWPlatform::Trying to open the hw design at Z:/oscilloscope-software/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2020-10-08.16:36:50::SCWPlatform::DSA given Z:/oscilloscope-software/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2020-10-08.16:36:50::SCWPlatform::DSA absoulate path Z:/oscilloscope-software/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2020-10-08.16:36:50::SCWPlatform::DSA directory Z:/oscilloscope-software/design_1_wrapper/hw
+TRACE::2020-10-08.16:36:50::SCWPlatform:: Platform Path Z:/oscilloscope-software/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2020-10-08.16:36:50::SCWPlatform:: Unique name xilinx:arty-a7-100::0.0
+TRACE::2020-10-08.16:36:50::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_0
+TRACE::2020-10-08.16:36:50::SCWPlatform::Opened existing hwdb design_1_wrapper_0
+TRACE::2020-10-08.16:36:50::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2020-10-08.16:36:50::SCWMssOS::Checking the sw design at  Z:/oscilloscope-software/design_1_wrapper/microblaze_0/domain_microblaze_0/bsp/system.mss
+TRACE::2020-10-08.16:36:50::SCWMssOS::DEBUG:  swdes dump  Z:/oscilloscope-software/design_1_wrapper/microblaze_0/domain_microblaze_0/bsp/system.mss|system||
+
+TRACE::2020-10-08.16:36:50::SCWMssOS::Sw design exists and opened at  Z:/oscilloscope-software/design_1_wrapper/microblaze_0/domain_microblaze_0/bsp/system.mss
+TRACE::2020-10-08.16:36:50::SCWPlatform::Trying to open the hw design at Z:/oscilloscope-software/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2020-10-08.16:36:50::SCWPlatform::DSA given Z:/oscilloscope-software/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2020-10-08.16:36:50::SCWPlatform::DSA absoulate path Z:/oscilloscope-software/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2020-10-08.16:36:50::SCWPlatform::DSA directory Z:/oscilloscope-software/design_1_wrapper/hw
+TRACE::2020-10-08.16:36:50::SCWPlatform:: Platform Path Z:/oscilloscope-software/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2020-10-08.16:36:50::SCWPlatform:: Unique name xilinx:arty-a7-100::0.0
+TRACE::2020-10-08.16:36:50::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_0
+TRACE::2020-10-08.16:36:50::SCWPlatform::Opened existing hwdb design_1_wrapper_0
+TRACE::2020-10-08.16:36:50::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2020-10-08.16:36:50::SCWMssOS::Checking the sw design at  Z:/oscilloscope-software/design_1_wrapper/microblaze_0/domain_microblaze_0/bsp/system.mss
+TRACE::2020-10-08.16:36:50::SCWMssOS::DEBUG:  swdes dump  Z:/oscilloscope-software/design_1_wrapper/microblaze_0/domain_microblaze_0/bsp/system.mss|system||
+
+TRACE::2020-10-08.16:36:50::SCWMssOS::Sw design exists and opened at  Z:/oscilloscope-software/design_1_wrapper/microblaze_0/domain_microblaze_0/bsp/system.mss
+TRACE::2020-10-08.16:36:50::SCWWriter::formatted JSON is {
+	"platformName":	"design_1_wrapper",
+	"sprVersion":	"2.0",
+	"mode":	"gui",
+	"dsaType":	"Fixed",
+	"platformDesc":	"design_1_wrapper",
+	"platHandOff":	"<platformDir>.xsa",
+	"platIntHandOff":	"<platformDir>/hw/design_1_wrapper.xsa",
+	"deviceType":	"FPGA",
+	"platIsPrebuiltAutogen":	"false",
+	"platIsNoBootBsp":	"false",
+	"hasFsblMakeHasChanges":	"false",
+	"hasPmufwMakeHasChanges":	"false",
+	"platPreBuiltFlag":	false,
+	"platformSamplesDir":	"",
+	"platActiveSys":	"design_1_wrapper",
+	"systems":	[{
+			"systemName":	"design_1_wrapper",
+			"systemDesc":	"design_1_wrapper",
+			"sysIsBootAutoGen":	"true",
+			"systemDispName":	"design_1_wrapper",
+			"sysActiveDom":	"domain_microblaze_0",
+			"sysDefaultDom":	"domain_microblaze_0",
+			"domains":	[{
+					"domainName":	"domain_microblaze_0",
+					"domainDispName":	"domain_microblaze_0",
+					"domainDesc":	"domain_microblaze_0",
+					"processors":	"microblaze_0",
+					"os":	"freertos10_xilinx",
+					"sdxOs":	"freertos10_xilinx",
+					"debugEnable":	"False",
+					"domRuntimes":	["cpp"],
+					"swRepo":	"",
+					"mssOsVer":	"1.6",
+					"mssFile":	"",
+					"md5Digest":	"e908b8b6756f2b54108df3bcd3e58817",
+					"compatibleApp":	"freertos_lwip_echo_server",
+					"domType":	"mssDomain",
+					"arch":	"32-bit",
+					"appSettings":	{
+						"appCompilerFlags":	"",
+						"appLinkerFlags":	""
+					},
+					"addedLibs":	["lwip211:1.2"],
+					"libOptions":	{
+						"libsContainingOptions":	[]
+					},
+					"prebuiltLibs":	{
+						"prebuiltIncPath":	[],
+						"prebuiltLibPath":	[]
+					},
+					"isolation":	{
+					}
+				}]
+		}]
+}
+TRACE::2020-10-08.16:36:50::SCWPlatform::Trying to open the hw design at Z:/oscilloscope-software/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2020-10-08.16:36:50::SCWPlatform::DSA given Z:/oscilloscope-software/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2020-10-08.16:36:50::SCWPlatform::DSA absoulate path Z:/oscilloscope-software/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2020-10-08.16:36:50::SCWPlatform::DSA directory Z:/oscilloscope-software/design_1_wrapper/hw
+TRACE::2020-10-08.16:36:50::SCWPlatform:: Platform Path Z:/oscilloscope-software/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2020-10-08.16:36:50::SCWPlatform:: Unique name xilinx:arty-a7-100::0.0
+TRACE::2020-10-08.16:36:50::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_0
+TRACE::2020-10-08.16:36:50::SCWPlatform::Opened existing hwdb design_1_wrapper_0
+TRACE::2020-10-08.16:36:50::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2020-10-08.16:36:50::SCWMssOS::Checking the sw design at  Z:/oscilloscope-software/design_1_wrapper/microblaze_0/domain_microblaze_0/bsp/system.mss
+TRACE::2020-10-08.16:36:50::SCWMssOS::DEBUG:  swdes dump  Z:/oscilloscope-software/design_1_wrapper/microblaze_0/domain_microblaze_0/bsp/system.mss|system||
+
+TRACE::2020-10-08.16:36:50::SCWMssOS::Sw design exists and opened at  Z:/oscilloscope-software/design_1_wrapper/microblaze_0/domain_microblaze_0/bsp/system.mss
+TRACE::2020-10-08.16:36:50::SCWPlatform::Trying to open the hw design at Z:/oscilloscope-software/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2020-10-08.16:36:51::SCWPlatform::DSA given Z:/oscilloscope-software/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2020-10-08.16:36:51::SCWPlatform::DSA absoulate path Z:/oscilloscope-software/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2020-10-08.16:36:51::SCWPlatform::DSA directory Z:/oscilloscope-software/design_1_wrapper/hw
+TRACE::2020-10-08.16:36:51::SCWPlatform:: Platform Path Z:/oscilloscope-software/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2020-10-08.16:36:51::SCWPlatform:: Unique name xilinx:arty-a7-100::0.0
+TRACE::2020-10-08.16:36:51::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_0
+TRACE::2020-10-08.16:36:51::SCWPlatform::Opened existing hwdb design_1_wrapper_0
+TRACE::2020-10-08.16:36:51::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2020-10-08.16:36:51::SCWMssOS::Checking the sw design at  Z:/oscilloscope-software/design_1_wrapper/microblaze_0/domain_microblaze_0/bsp/system.mss
+TRACE::2020-10-08.16:36:51::SCWMssOS::DEBUG:  swdes dump  Z:/oscilloscope-software/design_1_wrapper/microblaze_0/domain_microblaze_0/bsp/system.mss|system||
+
+TRACE::2020-10-08.16:36:51::SCWMssOS::Sw design exists and opened at  Z:/oscilloscope-software/design_1_wrapper/microblaze_0/domain_microblaze_0/bsp/system.mss
+TRACE::2020-10-08.16:36:51::SCWMssOS::Saving the mss changes Z:/oscilloscope-software/design_1_wrapper/microblaze_0/domain_microblaze_0/bsp/system.mss
+TRACE::2020-10-08.16:36:51::SCWMssOS::Found a swdesign opened with the mssfile.
+TRACE::2020-10-08.16:36:51::SCWMssOS::Completed writemss as part of save.
+TRACE::2020-10-08.16:36:51::SCWMssOS::Commit changes completed.
+TRACE::2020-10-08.16:36:51::SCWPlatform::Trying to open the hw design at Z:/oscilloscope-software/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2020-10-08.16:36:51::SCWPlatform::DSA given Z:/oscilloscope-software/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2020-10-08.16:36:51::SCWPlatform::DSA absoulate path Z:/oscilloscope-software/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2020-10-08.16:36:51::SCWPlatform::DSA directory Z:/oscilloscope-software/design_1_wrapper/hw
+TRACE::2020-10-08.16:36:51::SCWPlatform:: Platform Path Z:/oscilloscope-software/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2020-10-08.16:36:51::SCWPlatform:: Unique name xilinx:arty-a7-100::0.0
+TRACE::2020-10-08.16:36:51::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_0
+TRACE::2020-10-08.16:36:51::SCWPlatform::Opened existing hwdb design_1_wrapper_0
+TRACE::2020-10-08.16:36:51::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2020-10-08.16:36:51::SCWMssOS::Checking the sw design at  Z:/oscilloscope-software/design_1_wrapper/microblaze_0/domain_microblaze_0/bsp/system.mss
+TRACE::2020-10-08.16:36:51::SCWMssOS::DEBUG:  swdes dump  Z:/oscilloscope-software/design_1_wrapper/microblaze_0/domain_microblaze_0/bsp/system.mss|system||
+
+TRACE::2020-10-08.16:36:51::SCWMssOS::Sw design exists and opened at  Z:/oscilloscope-software/design_1_wrapper/microblaze_0/domain_microblaze_0/bsp/system.mss
+TRACE::2020-10-08.16:36:51::SCWPlatform::Trying to open the hw design at Z:/oscilloscope-software/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2020-10-08.16:36:51::SCWPlatform::DSA given Z:/oscilloscope-software/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2020-10-08.16:36:51::SCWPlatform::DSA absoulate path Z:/oscilloscope-software/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2020-10-08.16:36:51::SCWPlatform::DSA directory Z:/oscilloscope-software/design_1_wrapper/hw
+TRACE::2020-10-08.16:36:51::SCWPlatform:: Platform Path Z:/oscilloscope-software/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2020-10-08.16:36:51::SCWPlatform:: Unique name xilinx:arty-a7-100::0.0
+TRACE::2020-10-08.16:36:51::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_0
+TRACE::2020-10-08.16:36:51::SCWPlatform::Opened existing hwdb design_1_wrapper_0
+TRACE::2020-10-08.16:36:51::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2020-10-08.16:36:51::SCWMssOS::Checking the sw design at  Z:/oscilloscope-software/design_1_wrapper/microblaze_0/domain_microblaze_0/bsp/system.mss
+TRACE::2020-10-08.16:36:51::SCWMssOS::DEBUG:  swdes dump  Z:/oscilloscope-software/design_1_wrapper/microblaze_0/domain_microblaze_0/bsp/system.mss|system||
+
+TRACE::2020-10-08.16:36:51::SCWMssOS::Sw design exists and opened at  Z:/oscilloscope-software/design_1_wrapper/microblaze_0/domain_microblaze_0/bsp/system.mss
+TRACE::2020-10-08.16:36:51::SCWPlatform::Trying to open the hw design at Z:/oscilloscope-software/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2020-10-08.16:36:51::SCWPlatform::DSA given Z:/oscilloscope-software/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2020-10-08.16:36:51::SCWPlatform::DSA absoulate path Z:/oscilloscope-software/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2020-10-08.16:36:51::SCWPlatform::DSA directory Z:/oscilloscope-software/design_1_wrapper/hw
+TRACE::2020-10-08.16:36:51::SCWPlatform:: Platform Path Z:/oscilloscope-software/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2020-10-08.16:36:51::SCWPlatform:: Unique name xilinx:arty-a7-100::0.0
+TRACE::2020-10-08.16:36:51::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_0
+TRACE::2020-10-08.16:36:51::SCWPlatform::Opened existing hwdb design_1_wrapper_0
+TRACE::2020-10-08.16:36:51::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2020-10-08.16:36:51::SCWMssOS::Checking the sw design at  Z:/oscilloscope-software/design_1_wrapper/microblaze_0/domain_microblaze_0/bsp/system.mss
+TRACE::2020-10-08.16:36:51::SCWMssOS::DEBUG:  swdes dump  Z:/oscilloscope-software/design_1_wrapper/microblaze_0/domain_microblaze_0/bsp/system.mss|system||
+
+TRACE::2020-10-08.16:36:51::SCWMssOS::Sw design exists and opened at  Z:/oscilloscope-software/design_1_wrapper/microblaze_0/domain_microblaze_0/bsp/system.mss
+TRACE::2020-10-08.16:36:51::SCWWriter::formatted JSON is {
+	"platformName":	"design_1_wrapper",
+	"sprVersion":	"2.0",
+	"mode":	"gui",
+	"dsaType":	"Fixed",
+	"platformDesc":	"design_1_wrapper",
+	"platHandOff":	"<platformDir>.xsa",
+	"platIntHandOff":	"<platformDir>/hw/design_1_wrapper.xsa",
+	"deviceType":	"FPGA",
+	"platIsPrebuiltAutogen":	"false",
+	"platIsNoBootBsp":	"false",
+	"hasFsblMakeHasChanges":	"false",
+	"hasPmufwMakeHasChanges":	"false",
+	"platPreBuiltFlag":	false,
+	"platformSamplesDir":	"",
+	"platActiveSys":	"design_1_wrapper",
+	"systems":	[{
+			"systemName":	"design_1_wrapper",
+			"systemDesc":	"design_1_wrapper",
+			"sysIsBootAutoGen":	"true",
+			"systemDispName":	"design_1_wrapper",
+			"sysActiveDom":	"domain_microblaze_0",
+			"sysDefaultDom":	"domain_microblaze_0",
+			"domains":	[{
+					"domainName":	"domain_microblaze_0",
+					"domainDispName":	"domain_microblaze_0",
+					"domainDesc":	"domain_microblaze_0",
+					"processors":	"microblaze_0",
+					"os":	"freertos10_xilinx",
+					"sdxOs":	"freertos10_xilinx",
+					"debugEnable":	"False",
+					"domRuntimes":	["cpp"],
+					"swRepo":	"",
+					"mssOsVer":	"1.6",
+					"mssFile":	"",
+					"md5Digest":	"e908b8b6756f2b54108df3bcd3e58817",
+					"compatibleApp":	"freertos_lwip_echo_server",
+					"domType":	"mssDomain",
+					"arch":	"32-bit",
+					"appSettings":	{
+						"appCompilerFlags":	"",
+						"appLinkerFlags":	""
+					},
+					"addedLibs":	["lwip211:1.2"],
+					"libOptions":	{
+						"libsContainingOptions":	[]
+					},
+					"prebuiltLibs":	{
+						"prebuiltIncPath":	[],
+						"prebuiltLibPath":	[]
+					},
+					"isolation":	{
+					}
+				}]
+		}]
+}
+LOG::2020-10-08.16:36:51::SCWPlatform::Started generating the artifacts platform design_1_wrapper
+TRACE::2020-10-08.16:36:51::SCWPlatform::Sanity checking of platform is completed
+LOG::2020-10-08.16:36:51::SCWPlatform::Started generating the artifacts for system configuration design_1_wrapper
+LOG::2020-10-08.16:36:51::SCWSystem::Started Processing the domain domain_microblaze_0
+TRACE::2020-10-08.16:36:51::SCWDomain::Generating domain artifcats
+TRACE::2020-10-08.16:36:51::SCWMssOS::Generating standalone artifcats
+TRACE::2020-10-08.16:36:51::SCWMssOS:: Copying the user libraries. 
+TRACE::2020-10-08.16:36:51::SCWPlatform::Trying to open the hw design at Z:/oscilloscope-software/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2020-10-08.16:36:51::SCWPlatform::DSA given Z:/oscilloscope-software/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2020-10-08.16:36:51::SCWPlatform::DSA absoulate path Z:/oscilloscope-software/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2020-10-08.16:36:51::SCWPlatform::DSA directory Z:/oscilloscope-software/design_1_wrapper/hw
+TRACE::2020-10-08.16:36:51::SCWPlatform:: Platform Path Z:/oscilloscope-software/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2020-10-08.16:36:51::SCWPlatform:: Unique name xilinx:arty-a7-100::0.0
+TRACE::2020-10-08.16:36:51::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_0
+TRACE::2020-10-08.16:36:51::SCWPlatform::Opened existing hwdb design_1_wrapper_0
+TRACE::2020-10-08.16:36:51::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2020-10-08.16:36:51::SCWMssOS::Checking the sw design at  Z:/oscilloscope-software/design_1_wrapper/microblaze_0/domain_microblaze_0/bsp/system.mss
+TRACE::2020-10-08.16:36:51::SCWMssOS::DEBUG:  swdes dump  Z:/oscilloscope-software/design_1_wrapper/microblaze_0/domain_microblaze_0/bsp/system.mss|system||
+
+TRACE::2020-10-08.16:36:51::SCWMssOS::Sw design exists and opened at  Z:/oscilloscope-software/design_1_wrapper/microblaze_0/domain_microblaze_0/bsp/system.mss
+TRACE::2020-10-08.16:36:51::SCWMssOS::Completed writing the mss file at Z:/oscilloscope-software/design_1_wrapper/microblaze_0/domain_microblaze_0/bsp
+TRACE::2020-10-08.16:36:51::SCWMssOS::Mss edits present, copying mssfile into export location Z:/oscilloscope-software/design_1_wrapper/microblaze_0/domain_microblaze_0/bsp/system.mss
+TRACE::2020-10-08.16:36:51::SCWMssOS::bsp generated is upto date with the mss file. Skipping bsp generation.
+TRACE::2020-10-08.16:36:51::SCWMssOS::BSP is already built. skipping the bsp build ... 
+TRACE::2020-10-08.16:36:51::SCWDomain::Building the domain as part of full build :  domain_microblaze_0
+TRACE::2020-10-08.16:36:51::SCWMssOS::skipping the bsp build ... 
+TRACE::2020-10-08.16:36:51::SCWMssOS::Copying to export directory.
+TRACE::2020-10-08.16:36:51::SCWMssOS:: Checking if to create the Supporting Applications
+TRACE::2020-10-08.16:36:51::SCWMssOS:: No Linux domain exists, trying to generate FSBL 
+LOG::2020-10-08.16:36:51::SCWSystem::Completed Processing the domain domain_microblaze_0
+LOG::2020-10-08.16:36:51::SCWSystem::Completed Processing the sysconfig design_1_wrapper
+LOG::2020-10-08.16:36:51::SCWPlatform::Completed generating the artifacts for system configuration design_1_wrapper
+TRACE::2020-10-08.16:36:51::SCWPlatform::Started preparing the platform 
+TRACE::2020-10-08.16:36:51::SCWSystem::Writing the bif file for system config design_1_wrapper
+TRACE::2020-10-08.16:36:51::SCWSystem::dir created 
+TRACE::2020-10-08.16:36:51::SCWSystem::Writing the bif 
+TRACE::2020-10-08.16:36:51::SCWPlatform::Started writing the spfm file 
+TRACE::2020-10-08.16:36:51::SCWPlatform::Started writing the xpfm file 
+TRACE::2020-10-08.16:36:51::SCWPlatform::Completed generating the platform
+TRACE::2020-10-08.16:36:51::SCWMssOS::Saving the mss changes Z:/oscilloscope-software/design_1_wrapper/microblaze_0/domain_microblaze_0/bsp/system.mss
+TRACE::2020-10-08.16:36:51::SCWMssOS::Found a swdesign opened with the mssfile.
+TRACE::2020-10-08.16:36:51::SCWMssOS::Completed writemss as part of save.
+TRACE::2020-10-08.16:36:51::SCWMssOS::Commit changes completed.
+TRACE::2020-10-08.16:36:51::SCWPlatform::Trying to open the hw design at Z:/oscilloscope-software/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2020-10-08.16:36:51::SCWPlatform::DSA given Z:/oscilloscope-software/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2020-10-08.16:36:51::SCWPlatform::DSA absoulate path Z:/oscilloscope-software/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2020-10-08.16:36:51::SCWPlatform::DSA directory Z:/oscilloscope-software/design_1_wrapper/hw
+TRACE::2020-10-08.16:36:51::SCWPlatform:: Platform Path Z:/oscilloscope-software/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2020-10-08.16:36:51::SCWPlatform:: Unique name xilinx:arty-a7-100::0.0
+TRACE::2020-10-08.16:36:51::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_0
+TRACE::2020-10-08.16:36:51::SCWPlatform::Opened existing hwdb design_1_wrapper_0
+TRACE::2020-10-08.16:36:51::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2020-10-08.16:36:51::SCWMssOS::Checking the sw design at  Z:/oscilloscope-software/design_1_wrapper/microblaze_0/domain_microblaze_0/bsp/system.mss
+TRACE::2020-10-08.16:36:51::SCWMssOS::DEBUG:  swdes dump  Z:/oscilloscope-software/design_1_wrapper/microblaze_0/domain_microblaze_0/bsp/system.mss|system||
+
+TRACE::2020-10-08.16:36:51::SCWMssOS::Sw design exists and opened at  Z:/oscilloscope-software/design_1_wrapper/microblaze_0/domain_microblaze_0/bsp/system.mss
+TRACE::2020-10-08.16:36:51::SCWPlatform::Trying to open the hw design at Z:/oscilloscope-software/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2020-10-08.16:36:51::SCWPlatform::DSA given Z:/oscilloscope-software/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2020-10-08.16:36:51::SCWPlatform::DSA absoulate path Z:/oscilloscope-software/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2020-10-08.16:36:51::SCWPlatform::DSA directory Z:/oscilloscope-software/design_1_wrapper/hw
+TRACE::2020-10-08.16:36:51::SCWPlatform:: Platform Path Z:/oscilloscope-software/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2020-10-08.16:36:51::SCWPlatform:: Unique name xilinx:arty-a7-100::0.0
+TRACE::2020-10-08.16:36:51::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_0
+TRACE::2020-10-08.16:36:51::SCWPlatform::Opened existing hwdb design_1_wrapper_0
+TRACE::2020-10-08.16:36:51::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2020-10-08.16:36:51::SCWMssOS::Checking the sw design at  Z:/oscilloscope-software/design_1_wrapper/microblaze_0/domain_microblaze_0/bsp/system.mss
+TRACE::2020-10-08.16:36:51::SCWMssOS::DEBUG:  swdes dump  Z:/oscilloscope-software/design_1_wrapper/microblaze_0/domain_microblaze_0/bsp/system.mss|system||
+
+TRACE::2020-10-08.16:36:51::SCWMssOS::Sw design exists and opened at  Z:/oscilloscope-software/design_1_wrapper/microblaze_0/domain_microblaze_0/bsp/system.mss
+TRACE::2020-10-08.16:36:51::SCWPlatform::Trying to open the hw design at Z:/oscilloscope-software/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2020-10-08.16:36:51::SCWPlatform::DSA given Z:/oscilloscope-software/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2020-10-08.16:36:51::SCWPlatform::DSA absoulate path Z:/oscilloscope-software/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2020-10-08.16:36:51::SCWPlatform::DSA directory Z:/oscilloscope-software/design_1_wrapper/hw
+TRACE::2020-10-08.16:36:51::SCWPlatform:: Platform Path Z:/oscilloscope-software/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2020-10-08.16:36:51::SCWPlatform:: Unique name xilinx:arty-a7-100::0.0
+TRACE::2020-10-08.16:36:51::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_0
+TRACE::2020-10-08.16:36:51::SCWPlatform::Opened existing hwdb design_1_wrapper_0
+TRACE::2020-10-08.16:36:51::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2020-10-08.16:36:51::SCWMssOS::Checking the sw design at  Z:/oscilloscope-software/design_1_wrapper/microblaze_0/domain_microblaze_0/bsp/system.mss
+TRACE::2020-10-08.16:36:51::SCWMssOS::DEBUG:  swdes dump  Z:/oscilloscope-software/design_1_wrapper/microblaze_0/domain_microblaze_0/bsp/system.mss|system||
+
+TRACE::2020-10-08.16:36:51::SCWMssOS::Sw design exists and opened at  Z:/oscilloscope-software/design_1_wrapper/microblaze_0/domain_microblaze_0/bsp/system.mss
+TRACE::2020-10-08.16:36:51::SCWWriter::formatted JSON is {
+	"platformName":	"design_1_wrapper",
+	"sprVersion":	"2.0",
+	"mode":	"gui",
+	"dsaType":	"Fixed",
+	"platformDesc":	"design_1_wrapper",
+	"platHandOff":	"<platformDir>.xsa",
+	"platIntHandOff":	"<platformDir>/hw/design_1_wrapper.xsa",
+	"deviceType":	"FPGA",
+	"platIsPrebuiltAutogen":	"false",
+	"platIsNoBootBsp":	"false",
+	"hasFsblMakeHasChanges":	"false",
+	"hasPmufwMakeHasChanges":	"false",
+	"platPreBuiltFlag":	false,
+	"platformSamplesDir":	"",
+	"platActiveSys":	"design_1_wrapper",
+	"systems":	[{
+			"systemName":	"design_1_wrapper",
+			"systemDesc":	"design_1_wrapper",
+			"sysIsBootAutoGen":	"true",
+			"systemDispName":	"design_1_wrapper",
+			"sysActiveDom":	"domain_microblaze_0",
+			"sysDefaultDom":	"domain_microblaze_0",
+			"domains":	[{
+					"domainName":	"domain_microblaze_0",
+					"domainDispName":	"domain_microblaze_0",
+					"domainDesc":	"domain_microblaze_0",
+					"processors":	"microblaze_0",
+					"os":	"freertos10_xilinx",
+					"sdxOs":	"freertos10_xilinx",
+					"debugEnable":	"False",
+					"domRuntimes":	["cpp"],
+					"swRepo":	"",
+					"mssOsVer":	"1.6",
+					"mssFile":	"",
+					"md5Digest":	"e908b8b6756f2b54108df3bcd3e58817",
+					"compatibleApp":	"freertos_lwip_echo_server",
+					"domType":	"mssDomain",
+					"arch":	"32-bit",
+					"appSettings":	{
+						"appCompilerFlags":	"",
+						"appLinkerFlags":	""
+					},
+					"addedLibs":	["lwip211:1.2"],
+					"libOptions":	{
+						"libsContainingOptions":	[]
+					},
+					"prebuiltLibs":	{
+						"prebuiltIncPath":	[],
+						"prebuiltLibPath":	[]
+					},
+					"isolation":	{
+					}
+				}]
+		}]
+}
+KEYINFO::2020-10-08.16:36:51::SCWPlatform::updated the xpfm file.
+TRACE::2020-10-08.16:37:08::SCWPlatform::Clearing the existing platform
+TRACE::2020-10-08.16:37:08::SCWSystem::Clearing the existing sysconfig
+TRACE::2020-10-08.16:37:08::SCWMssOS::Removing the swdes entry for  Z:/oscilloscope-software/design_1_wrapper/microblaze_0/domain_microblaze_0/bsp/system.mss
+TRACE::2020-10-08.16:37:08::SCWSystem::Clearing the domains completed.
+TRACE::2020-10-08.16:37:08::SCWPlatform::Clearing the opened hw db.
+TRACE::2020-10-08.16:37:08::SCWPlatform::DSA given Z:/oscilloscope-software/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2020-10-08.16:37:08::SCWPlatform::DSA absoulate path Z:/oscilloscope-software/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2020-10-08.16:37:08::SCWPlatform:: Platform location is Z:/oscilloscope-software/design_1_wrapper/hw
+TRACE::2020-10-08.16:37:08::SCWPlatform:: Platform Path Z:/oscilloscope-software/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2020-10-08.16:37:08::SCWPlatform:: Unique name xilinx:arty-a7-100::0.0
+TRACE::2020-10-08.16:37:08::SCWPlatform::Removing the HwDB with name Z:/oscilloscope-software/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2020-10-08.16:37:08::SCWPlatform::Trying to open the hw design at Z:/oscilloscope-software/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2020-10-08.16:37:08::SCWPlatform::DSA given Z:/oscilloscope-software/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2020-10-08.16:37:08::SCWPlatform::DSA absoulate path Z:/oscilloscope-software/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2020-10-08.16:37:08::SCWPlatform::DSA directory Z:/oscilloscope-software/design_1_wrapper/hw
+TRACE::2020-10-08.16:37:08::SCWPlatform:: Platform Path Z:/oscilloscope-software/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2020-10-08.16:37:08::SCWPlatform:: Unique name xilinx:arty-a7-100::0.0
+TRACE::2020-10-08.16:37:08::SCWPlatform::Do not have an existing db opened. 
+TRACE::2020-10-08.16:37:09::SCWPlatform::Opened new HwDB with name design_1_wrapper_2
+TRACE::2020-10-08.16:37:09::SCWReader::Active system found as  design_1_wrapper
+TRACE::2020-10-08.16:37:09::SCWReader::Handling sysconfig design_1_wrapper
+TRACE::2020-10-08.16:37:09::SCWDomain::checking for install qemu data   : 
+TRACE::2020-10-08.16:37:09::SCWPlatform::Trying to open the hw design at Z:/oscilloscope-software/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2020-10-08.16:37:09::SCWPlatform::DSA given Z:/oscilloscope-software/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2020-10-08.16:37:09::SCWPlatform::DSA absoulate path Z:/oscilloscope-software/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2020-10-08.16:37:09::SCWPlatform::DSA directory Z:/oscilloscope-software/design_1_wrapper/hw
+TRACE::2020-10-08.16:37:09::SCWPlatform:: Platform Path Z:/oscilloscope-software/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2020-10-08.16:37:09::SCWPlatform:: Unique name xilinx:arty-a7-100::0.0
+TRACE::2020-10-08.16:37:09::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_2
+TRACE::2020-10-08.16:37:09::SCWPlatform::Opened existing hwdb design_1_wrapper_2
+TRACE::2020-10-08.16:37:09::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2020-10-08.16:37:09::SCWPlatform::Trying to open the hw design at Z:/oscilloscope-software/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2020-10-08.16:37:09::SCWPlatform::DSA given Z:/oscilloscope-software/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2020-10-08.16:37:09::SCWPlatform::DSA absoulate path Z:/oscilloscope-software/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2020-10-08.16:37:09::SCWPlatform::DSA directory Z:/oscilloscope-software/design_1_wrapper/hw
+TRACE::2020-10-08.16:37:09::SCWPlatform:: Platform Path Z:/oscilloscope-software/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2020-10-08.16:37:09::SCWPlatform:: Unique name xilinx:arty-a7-100::0.0
+TRACE::2020-10-08.16:37:09::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_2
+TRACE::2020-10-08.16:37:09::SCWPlatform::Opened existing hwdb design_1_wrapper_2
+TRACE::2020-10-08.16:37:09::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2020-10-08.16:37:09::SCWPlatform::Trying to open the hw design at Z:/oscilloscope-software/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2020-10-08.16:37:09::SCWPlatform::DSA given Z:/oscilloscope-software/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2020-10-08.16:37:09::SCWPlatform::DSA absoulate path Z:/oscilloscope-software/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2020-10-08.16:37:09::SCWPlatform::DSA directory Z:/oscilloscope-software/design_1_wrapper/hw
+TRACE::2020-10-08.16:37:09::SCWPlatform:: Platform Path Z:/oscilloscope-software/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2020-10-08.16:37:09::SCWPlatform:: Unique name xilinx:arty-a7-100::0.0
+TRACE::2020-10-08.16:37:09::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_2
+TRACE::2020-10-08.16:37:09::SCWPlatform::Opened existing hwdb design_1_wrapper_2
+TRACE::2020-10-08.16:37:09::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2020-10-08.16:37:09::SCWPlatform::Trying to open the hw design at Z:/oscilloscope-software/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2020-10-08.16:37:09::SCWPlatform::DSA given Z:/oscilloscope-software/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2020-10-08.16:37:09::SCWPlatform::DSA absoulate path Z:/oscilloscope-software/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2020-10-08.16:37:09::SCWPlatform::DSA directory Z:/oscilloscope-software/design_1_wrapper/hw
+TRACE::2020-10-08.16:37:09::SCWPlatform:: Platform Path Z:/oscilloscope-software/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2020-10-08.16:37:09::SCWPlatform:: Unique name xilinx:arty-a7-100::0.0
+TRACE::2020-10-08.16:37:09::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_2
+TRACE::2020-10-08.16:37:09::SCWPlatform::Opened existing hwdb design_1_wrapper_2
+TRACE::2020-10-08.16:37:09::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2020-10-08.16:37:09::SCWMssOS::Checking the sw design at  Z:/oscilloscope-software/design_1_wrapper/microblaze_0/domain_microblaze_0/bsp/system.mss
+TRACE::2020-10-08.16:37:09::SCWMssOS::DEBUG:  swdes dump  
+TRACE::2020-10-08.16:37:09::SCWMssOS::No sw design opened at  Z:/oscilloscope-software/design_1_wrapper/microblaze_0/domain_microblaze_0/bsp/system.mss
+TRACE::2020-10-08.16:37:09::SCWMssOS::mss exists loading the mss file  Z:/oscilloscope-software/design_1_wrapper/microblaze_0/domain_microblaze_0/bsp/system.mss
+TRACE::2020-10-08.16:37:09::SCWMssOS::Opened the sw design from mss  Z:/oscilloscope-software/design_1_wrapper/microblaze_0/domain_microblaze_0/bsp/system.mss
+TRACE::2020-10-08.16:37:09::SCWMssOS::Adding the swdes entry Z:/oscilloscope-software/design_1_wrapper/microblaze_0/domain_microblaze_0/bsp/system.mss with des name system
+TRACE::2020-10-08.16:37:09::SCWMssOS::updating the scw layer about changes
+TRACE::2020-10-08.16:37:09::SCWMssOS::Opened the sw design.  Z:/oscilloscope-software/design_1_wrapper/microblaze_0/domain_microblaze_0/bsp/system.mss
+TRACE::2020-10-08.16:37:09::SCWPlatform::Trying to open the hw design at Z:/oscilloscope-software/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2020-10-08.16:37:09::SCWPlatform::DSA given Z:/oscilloscope-software/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2020-10-08.16:37:09::SCWPlatform::DSA absoulate path Z:/oscilloscope-software/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2020-10-08.16:37:09::SCWPlatform::DSA directory Z:/oscilloscope-software/design_1_wrapper/hw
+TRACE::2020-10-08.16:37:09::SCWPlatform:: Platform Path Z:/oscilloscope-software/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2020-10-08.16:37:09::SCWPlatform:: Unique name xilinx:arty-a7-100::0.0
+TRACE::2020-10-08.16:37:09::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_2
+TRACE::2020-10-08.16:37:09::SCWPlatform::Opened existing hwdb design_1_wrapper_2
+TRACE::2020-10-08.16:37:09::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2020-10-08.16:37:09::SCWMssOS::Checking the sw design at  Z:/oscilloscope-software/design_1_wrapper/microblaze_0/domain_microblaze_0/bsp/system.mss
+TRACE::2020-10-08.16:37:09::SCWMssOS::DEBUG:  swdes dump  Z:/oscilloscope-software/design_1_wrapper/microblaze_0/domain_microblaze_0/bsp/system.mss|system||
+
+TRACE::2020-10-08.16:37:09::SCWMssOS::Sw design exists and opened at  Z:/oscilloscope-software/design_1_wrapper/microblaze_0/domain_microblaze_0/bsp/system.mss
+TRACE::2020-10-08.16:37:09::SCWMssOS:: library already available in sw design:  lwip211:1.2
+TRACE::2020-10-08.16:37:09::SCWMssOS::Saving the mss changes Z:/oscilloscope-software/design_1_wrapper/microblaze_0/domain_microblaze_0/bsp/system.mss
+TRACE::2020-10-08.16:37:09::SCWMssOS::Found a swdesign opened with the mssfile.
+TRACE::2020-10-08.16:37:09::SCWMssOS::Completed writemss as part of save.
+TRACE::2020-10-08.16:37:09::SCWMssOS::Commit changes completed.
+TRACE::2020-10-08.16:37:09::SCWReader::Adding prebuilt librarypaths as   
+TRACE::2020-10-08.16:37:09::SCWReader::Adding prebuilt incpaths  as   
+TRACE::2020-10-08.16:37:09::SCWPlatform::Trying to open the hw design at Z:/oscilloscope-software/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2020-10-08.16:37:09::SCWPlatform::DSA given Z:/oscilloscope-software/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2020-10-08.16:37:09::SCWPlatform::DSA absoulate path Z:/oscilloscope-software/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2020-10-08.16:37:09::SCWPlatform::DSA directory Z:/oscilloscope-software/design_1_wrapper/hw
+TRACE::2020-10-08.16:37:09::SCWPlatform:: Platform Path Z:/oscilloscope-software/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2020-10-08.16:37:09::SCWPlatform:: Unique name xilinx:arty-a7-100::0.0
+TRACE::2020-10-08.16:37:09::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_2
+TRACE::2020-10-08.16:37:09::SCWPlatform::Opened existing hwdb design_1_wrapper_2
+TRACE::2020-10-08.16:37:09::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2020-10-08.16:37:09::SCWMssOS::Checking the sw design at  Z:/oscilloscope-software/design_1_wrapper/microblaze_0/domain_microblaze_0/bsp/system.mss
+TRACE::2020-10-08.16:37:09::SCWMssOS::DEBUG:  swdes dump  Z:/oscilloscope-software/design_1_wrapper/microblaze_0/domain_microblaze_0/bsp/system.mss|system||
+
+TRACE::2020-10-08.16:37:09::SCWMssOS::Sw design exists and opened at  Z:/oscilloscope-software/design_1_wrapper/microblaze_0/domain_microblaze_0/bsp/system.mss
+TRACE::2020-10-08.16:37:09::SCWReader::No isolation master present  
+TRACE::2020-10-08.16:37:09::SCWPlatform::Trying to open the hw design at Z:/oscilloscope-software/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2020-10-08.16:37:09::SCWPlatform::DSA given Z:/oscilloscope-software/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2020-10-08.16:37:09::SCWPlatform::DSA absoulate path Z:/oscilloscope-software/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2020-10-08.16:37:09::SCWPlatform::DSA directory Z:/oscilloscope-software/design_1_wrapper/hw
+TRACE::2020-10-08.16:37:09::SCWPlatform:: Platform Path Z:/oscilloscope-software/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2020-10-08.16:37:09::SCWPlatform:: Unique name xilinx:arty-a7-100::0.0
+TRACE::2020-10-08.16:37:09::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_2
+TRACE::2020-10-08.16:37:09::SCWPlatform::Opened existing hwdb design_1_wrapper_2
+TRACE::2020-10-08.16:37:09::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2020-10-08.16:37:09::SCWMssOS::Checking the sw design at  Z:/oscilloscope-software/design_1_wrapper/microblaze_0/domain_microblaze_0/bsp/system.mss
+TRACE::2020-10-08.16:37:09::SCWMssOS::DEBUG:  swdes dump  Z:/oscilloscope-software/design_1_wrapper/microblaze_0/domain_microblaze_0/bsp/system.mss|system||
+
+TRACE::2020-10-08.16:37:09::SCWMssOS::Sw design exists and opened at  Z:/oscilloscope-software/design_1_wrapper/microblaze_0/domain_microblaze_0/bsp/system.mss
+TRACE::2020-10-08.16:37:10::SCWMssOS::In reload Mss file.
+TRACE::2020-10-08.16:37:10::SCWPlatform::Trying to open the hw design at Z:/oscilloscope-software/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2020-10-08.16:37:10::SCWPlatform::DSA given Z:/oscilloscope-software/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2020-10-08.16:37:10::SCWPlatform::DSA absoulate path Z:/oscilloscope-software/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2020-10-08.16:37:10::SCWPlatform::DSA directory Z:/oscilloscope-software/design_1_wrapper/hw
+TRACE::2020-10-08.16:37:10::SCWPlatform:: Platform Path Z:/oscilloscope-software/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2020-10-08.16:37:10::SCWPlatform:: Unique name xilinx:arty-a7-100::0.0
+TRACE::2020-10-08.16:37:10::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_2
+TRACE::2020-10-08.16:37:10::SCWPlatform::Opened existing hwdb design_1_wrapper_2
+TRACE::2020-10-08.16:37:10::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2020-10-08.16:37:10::SCWMssOS::Checking the sw design at  Z:/oscilloscope-software/design_1_wrapper/microblaze_0/domain_microblaze_0/bsp/system.mss
+TRACE::2020-10-08.16:37:10::SCWMssOS::DEBUG:  swdes dump  Z:/oscilloscope-software/design_1_wrapper/microblaze_0/domain_microblaze_0/bsp/system.mss|system||
+
+KEYINFO::2020-10-08.16:37:10::SCWMssOS::Could not open the swdb for system
+KEYINFO::2020-10-08.16:37:10::SCWMssOS::Could not open the sw design at  system
+ERROR: [Hsi 55-1558] Software Design system is not found
+
+TRACE::2020-10-08.16:37:10::SCWMssOS::Cleared the swdb table entry
+TRACE::2020-10-08.16:37:10::SCWMssOS::No sw design opened at  Z:/oscilloscope-software/design_1_wrapper/microblaze_0/domain_microblaze_0/bsp/system.mss
+TRACE::2020-10-08.16:37:10::SCWMssOS::mss exists loading the mss file  Z:/oscilloscope-software/design_1_wrapper/microblaze_0/domain_microblaze_0/bsp/system.mss
+TRACE::2020-10-08.16:37:10::SCWMssOS::Opened the sw design from mss  Z:/oscilloscope-software/design_1_wrapper/microblaze_0/domain_microblaze_0/bsp/system.mss
+TRACE::2020-10-08.16:37:10::SCWMssOS::Adding the swdes entry Z:/oscilloscope-software/design_1_wrapper/microblaze_0/domain_microblaze_0/bsp/system.mss with des name system
+TRACE::2020-10-08.16:37:10::SCWMssOS::updating the scw layer about changes
+TRACE::2020-10-08.16:37:10::SCWMssOS::Opened the sw design.  Z:/oscilloscope-software/design_1_wrapper/microblaze_0/domain_microblaze_0/bsp/system.mss
+TRACE::2020-10-08.16:37:10::SCWPlatform::Trying to open the hw design at Z:/oscilloscope-software/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2020-10-08.16:37:10::SCWPlatform::DSA given Z:/oscilloscope-software/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2020-10-08.16:37:10::SCWPlatform::DSA absoulate path Z:/oscilloscope-software/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2020-10-08.16:37:10::SCWPlatform::DSA directory Z:/oscilloscope-software/design_1_wrapper/hw
+TRACE::2020-10-08.16:37:10::SCWPlatform:: Platform Path Z:/oscilloscope-software/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2020-10-08.16:37:10::SCWPlatform:: Unique name xilinx:arty-a7-100::0.0
+TRACE::2020-10-08.16:37:10::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_2
+TRACE::2020-10-08.16:37:10::SCWPlatform::Opened existing hwdb design_1_wrapper_2
+TRACE::2020-10-08.16:37:10::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2020-10-08.16:37:10::SCWMssOS::Checking the sw design at  Z:/oscilloscope-software/design_1_wrapper/microblaze_0/domain_microblaze_0/bsp/system.mss
+TRACE::2020-10-08.16:37:10::SCWMssOS::DEBUG:  swdes dump  Z:/oscilloscope-software/design_1_wrapper/microblaze_0/domain_microblaze_0/bsp/system.mss|system||
+
+TRACE::2020-10-08.16:37:10::SCWMssOS::Sw design exists and opened at  Z:/oscilloscope-software/design_1_wrapper/microblaze_0/domain_microblaze_0/bsp/system.mss
+TRACE::2020-10-08.16:37:10::SCWMssOS:: library already available in sw design:  lwip211:1.2
+TRACE::2020-10-08.16:37:10::SCWMssOS::Saving the mss changes Z:/oscilloscope-software/design_1_wrapper/microblaze_0/domain_microblaze_0/bsp/system.mss
+TRACE::2020-10-08.16:37:10::SCWMssOS::Found a swdesign opened with the mssfile.
+TRACE::2020-10-08.16:37:10::SCWMssOS::Completed writemss as part of save.
+TRACE::2020-10-08.16:37:10::SCWMssOS::Commit changes completed.
+TRACE::2020-10-08.16:37:10::SCWPlatform::Trying to open the hw design at Z:/oscilloscope-software/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2020-10-08.16:37:10::SCWPlatform::DSA given Z:/oscilloscope-software/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2020-10-08.16:37:10::SCWPlatform::DSA absoulate path Z:/oscilloscope-software/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2020-10-08.16:37:10::SCWPlatform::DSA directory Z:/oscilloscope-software/design_1_wrapper/hw
+TRACE::2020-10-08.16:37:10::SCWPlatform:: Platform Path Z:/oscilloscope-software/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2020-10-08.16:37:10::SCWPlatform:: Unique name xilinx:arty-a7-100::0.0
+TRACE::2020-10-08.16:37:10::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_2
+TRACE::2020-10-08.16:37:10::SCWPlatform::Opened existing hwdb design_1_wrapper_2
+TRACE::2020-10-08.16:37:10::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2020-10-08.16:37:10::SCWMssOS::Checking the sw design at  Z:/oscilloscope-software/design_1_wrapper/microblaze_0/domain_microblaze_0/bsp/system.mss
+TRACE::2020-10-08.16:37:10::SCWMssOS::DEBUG:  swdes dump  Z:/oscilloscope-software/design_1_wrapper/microblaze_0/domain_microblaze_0/bsp/system.mss|system||
+
+TRACE::2020-10-08.16:37:10::SCWMssOS::Sw design exists and opened at  Z:/oscilloscope-software/design_1_wrapper/microblaze_0/domain_microblaze_0/bsp/system.mss
+TRACE::2020-10-08.16:37:10::SCWMssOS::Removing the swdes entry for  Z:/oscilloscope-software/design_1_wrapper/microblaze_0/domain_microblaze_0/bsp/system.mss
+TRACE::2020-10-08.16:37:16::SCWPlatform::Trying to open the hw design at Z:/oscilloscope-software/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2020-10-08.16:37:16::SCWPlatform::DSA given Z:/oscilloscope-software/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2020-10-08.16:37:16::SCWPlatform::DSA absoulate path Z:/oscilloscope-software/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2020-10-08.16:37:16::SCWPlatform::DSA directory Z:/oscilloscope-software/design_1_wrapper/hw
+TRACE::2020-10-08.16:37:16::SCWPlatform:: Platform Path Z:/oscilloscope-software/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2020-10-08.16:37:16::SCWPlatform:: Unique name xilinx:arty-a7-100::0.0
+TRACE::2020-10-08.16:37:16::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_2
+TRACE::2020-10-08.16:37:16::SCWPlatform::Opened existing hwdb design_1_wrapper_2
+TRACE::2020-10-08.16:37:16::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2020-10-08.16:37:16::SCWMssOS::Checking the sw design at  Z:/oscilloscope-software/design_1_wrapper/microblaze_0/domain_microblaze_0/bsp/system.mss
+TRACE::2020-10-08.16:37:16::SCWMssOS::DEBUG:  swdes dump  
+TRACE::2020-10-08.16:37:16::SCWMssOS::No sw design opened at  Z:/oscilloscope-software/design_1_wrapper/microblaze_0/domain_microblaze_0/bsp/system.mss
+TRACE::2020-10-08.16:37:16::SCWMssOS::mss exists loading the mss file  Z:/oscilloscope-software/design_1_wrapper/microblaze_0/domain_microblaze_0/bsp/system.mss
+TRACE::2020-10-08.16:37:16::SCWMssOS::Opened the sw design from mss  Z:/oscilloscope-software/design_1_wrapper/microblaze_0/domain_microblaze_0/bsp/system.mss
+TRACE::2020-10-08.16:37:16::SCWMssOS::Adding the swdes entry Z:/oscilloscope-software/design_1_wrapper/microblaze_0/domain_microblaze_0/bsp/system.mss with des name system
+TRACE::2020-10-08.16:37:16::SCWMssOS::updating the scw layer about changes
+TRACE::2020-10-08.16:37:16::SCWMssOS::Opened the sw design.  Z:/oscilloscope-software/design_1_wrapper/microblaze_0/domain_microblaze_0/bsp/system.mss
+TRACE::2020-10-08.16:43:42::SCWPlatform::Trying to open the hw design at Z:/oscilloscope-software/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2020-10-08.16:43:42::SCWPlatform::DSA given Z:/oscilloscope-software/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2020-10-08.16:43:42::SCWPlatform::DSA absoulate path Z:/oscilloscope-software/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2020-10-08.16:43:42::SCWPlatform::DSA directory Z:/oscilloscope-software/design_1_wrapper/hw
+TRACE::2020-10-08.16:43:42::SCWPlatform:: Platform Path Z:/oscilloscope-software/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2020-10-08.16:43:42::SCWPlatform:: Unique name xilinx:arty-a7-100::0.0
+TRACE::2020-10-08.16:43:42::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_2
+TRACE::2020-10-08.16:43:42::SCWPlatform::Opened existing hwdb design_1_wrapper_2
+TRACE::2020-10-08.16:43:42::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2020-10-08.16:43:42::SCWMssOS::Checking the sw design at  Z:/oscilloscope-software/design_1_wrapper/microblaze_0/domain_microblaze_0/bsp/system.mss
+TRACE::2020-10-08.16:43:42::SCWMssOS::DEBUG:  swdes dump  Z:/oscilloscope-software/design_1_wrapper/microblaze_0/domain_microblaze_0/bsp/system.mss|system||
+
+TRACE::2020-10-08.16:43:42::SCWMssOS::Sw design exists and opened at  Z:/oscilloscope-software/design_1_wrapper/microblaze_0/domain_microblaze_0/bsp/system.mss
+TRACE::2020-10-08.16:43:42::SCWPlatform::Trying to open the hw design at Z:/oscilloscope-software/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2020-10-08.16:43:42::SCWPlatform::DSA given Z:/oscilloscope-software/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2020-10-08.16:43:42::SCWPlatform::DSA absoulate path Z:/oscilloscope-software/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2020-10-08.16:43:42::SCWPlatform::DSA directory Z:/oscilloscope-software/design_1_wrapper/hw
+TRACE::2020-10-08.16:43:42::SCWPlatform:: Platform Path Z:/oscilloscope-software/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2020-10-08.16:43:42::SCWPlatform:: Unique name xilinx:arty-a7-100::0.0
+TRACE::2020-10-08.16:43:42::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_2
+TRACE::2020-10-08.16:43:42::SCWPlatform::Opened existing hwdb design_1_wrapper_2
+TRACE::2020-10-08.16:43:42::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2020-10-08.16:43:42::SCWMssOS::Checking the sw design at  Z:/oscilloscope-software/design_1_wrapper/microblaze_0/domain_microblaze_0/bsp/system.mss
+TRACE::2020-10-08.16:43:42::SCWMssOS::DEBUG:  swdes dump  Z:/oscilloscope-software/design_1_wrapper/microblaze_0/domain_microblaze_0/bsp/system.mss|system||
+
+TRACE::2020-10-08.16:43:42::SCWMssOS::Sw design exists and opened at  Z:/oscilloscope-software/design_1_wrapper/microblaze_0/domain_microblaze_0/bsp/system.mss
+TRACE::2020-10-08.16:43:42::SCWMssOS::Saving the mss changes Z:/oscilloscope-software/design_1_wrapper/microblaze_0/domain_microblaze_0/bsp/system.mss
+TRACE::2020-10-08.16:43:42::SCWMssOS::Found a swdesign opened with the mssfile.
+TRACE::2020-10-08.16:43:42::SCWMssOS::Completed writemss as part of save.
+TRACE::2020-10-08.16:43:42::SCWMssOS::Commit changes completed.
+TRACE::2020-10-08.16:43:42::SCWPlatform::Trying to open the hw design at Z:/oscilloscope-software/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2020-10-08.16:43:42::SCWPlatform::DSA given Z:/oscilloscope-software/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2020-10-08.16:43:42::SCWPlatform::DSA absoulate path Z:/oscilloscope-software/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2020-10-08.16:43:42::SCWPlatform::DSA directory Z:/oscilloscope-software/design_1_wrapper/hw
+TRACE::2020-10-08.16:43:42::SCWPlatform:: Platform Path Z:/oscilloscope-software/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2020-10-08.16:43:42::SCWPlatform:: Unique name xilinx:arty-a7-100::0.0
+TRACE::2020-10-08.16:43:42::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_2
+TRACE::2020-10-08.16:43:42::SCWPlatform::Opened existing hwdb design_1_wrapper_2
+TRACE::2020-10-08.16:43:42::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2020-10-08.16:43:42::SCWMssOS::Checking the sw design at  Z:/oscilloscope-software/design_1_wrapper/microblaze_0/domain_microblaze_0/bsp/system.mss
+TRACE::2020-10-08.16:43:42::SCWMssOS::DEBUG:  swdes dump  Z:/oscilloscope-software/design_1_wrapper/microblaze_0/domain_microblaze_0/bsp/system.mss|system||
+
+TRACE::2020-10-08.16:43:42::SCWMssOS::Sw design exists and opened at  Z:/oscilloscope-software/design_1_wrapper/microblaze_0/domain_microblaze_0/bsp/system.mss
+TRACE::2020-10-08.16:43:42::SCWWriter::formatted JSON is {
+	"platformName":	"design_1_wrapper",
+	"sprVersion":	"2.0",
+	"mode":	"gui",
+	"dsaType":	"Fixed",
+	"platformDesc":	"design_1_wrapper",
+	"platHandOff":	"<platformDir>.xsa",
+	"platIntHandOff":	"<platformDir>/hw/design_1_wrapper.xsa",
+	"deviceType":	"FPGA",
+	"platIsPrebuiltAutogen":	"false",
+	"platIsNoBootBsp":	"false",
+	"hasFsblMakeHasChanges":	"false",
+	"hasPmufwMakeHasChanges":	"false",
+	"platPreBuiltFlag":	false,
+	"platformSamplesDir":	"",
+	"platActiveSys":	"design_1_wrapper",
+	"systems":	[{
+			"systemName":	"design_1_wrapper",
+			"systemDesc":	"design_1_wrapper",
+			"sysIsBootAutoGen":	"true",
+			"systemDispName":	"design_1_wrapper",
+			"sysActiveDom":	"domain_microblaze_0",
+			"sysDefaultDom":	"domain_microblaze_0",
+			"domains":	[{
+					"domainName":	"domain_microblaze_0",
+					"domainDispName":	"domain_microblaze_0",
+					"domainDesc":	"domain_microblaze_0",
+					"processors":	"microblaze_0",
+					"os":	"freertos10_xilinx",
+					"sdxOs":	"freertos10_xilinx",
+					"debugEnable":	"False",
+					"domRuntimes":	["cpp"],
+					"swRepo":	"",
+					"mssOsVer":	"1.6",
+					"mssFile":	"",
+					"md5Digest":	"e908b8b6756f2b54108df3bcd3e58817",
+					"compatibleApp":	"",
+					"domType":	"mssDomain",
+					"arch":	"32-bit",
+					"appSettings":	{
+						"appCompilerFlags":	"",
+						"appLinkerFlags":	""
+					},
+					"addedLibs":	["lwip211:1.2"],
+					"libOptions":	{
+						"lwip211":	{
+							"api_mode":	"SOCKET_API",
+							"dhcp_does_arp_check":	"true",
+							"lwip_dhcp":	"true",
+							"pbuf_pool_size":	"2048",
+							"phy_link_speed":	"CONFIG_LINKSPEED100",
+							"libOptionNames":	["api_mode", "dhcp_does_arp_check", "lwip_dhcp", "pbuf_pool_size", "phy_link_speed"]
+						},
+						"libsContainingOptions":	["lwip211"]
+					},
+					"prebuiltLibs":	{
+						"prebuiltIncPath":	[],
+						"prebuiltLibPath":	[]
+					},
+					"isolation":	{
+					}
+				}]
+		}]
+}
+TRACE::2020-10-08.16:43:42::SCWMssOS::Saving the mss changes Z:/oscilloscope-software/design_1_wrapper/microblaze_0/domain_microblaze_0/bsp/system.mss
+TRACE::2020-10-08.16:43:42::SCWMssOS::Found a swdesign opened with the mssfile.
+TRACE::2020-10-08.16:43:42::SCWMssOS::Completed writemss as part of save.
+TRACE::2020-10-08.16:43:42::SCWMssOS::Commit changes completed.
+TRACE::2020-10-08.16:43:42::SCWPlatform::Trying to open the hw design at Z:/oscilloscope-software/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2020-10-08.16:43:42::SCWPlatform::DSA given Z:/oscilloscope-software/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2020-10-08.16:43:42::SCWPlatform::DSA absoulate path Z:/oscilloscope-software/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2020-10-08.16:43:42::SCWPlatform::DSA directory Z:/oscilloscope-software/design_1_wrapper/hw
+TRACE::2020-10-08.16:43:42::SCWPlatform:: Platform Path Z:/oscilloscope-software/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2020-10-08.16:43:42::SCWPlatform:: Unique name xilinx:arty-a7-100::0.0
+TRACE::2020-10-08.16:43:42::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_2
+TRACE::2020-10-08.16:43:42::SCWPlatform::Opened existing hwdb design_1_wrapper_2
+TRACE::2020-10-08.16:43:42::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2020-10-08.16:43:42::SCWMssOS::Checking the sw design at  Z:/oscilloscope-software/design_1_wrapper/microblaze_0/domain_microblaze_0/bsp/system.mss
+TRACE::2020-10-08.16:43:42::SCWMssOS::DEBUG:  swdes dump  Z:/oscilloscope-software/design_1_wrapper/microblaze_0/domain_microblaze_0/bsp/system.mss|system||
+
+TRACE::2020-10-08.16:43:42::SCWMssOS::Sw design exists and opened at  Z:/oscilloscope-software/design_1_wrapper/microblaze_0/domain_microblaze_0/bsp/system.mss
+TRACE::2020-10-08.16:43:42::SCWMssOS::Removing the swdes entry for  Z:/oscilloscope-software/design_1_wrapper/microblaze_0/domain_microblaze_0/bsp/system.mss
+TRACE::2020-10-08.16:43:42::SCWMssOS::In reload Mss file.
+TRACE::2020-10-08.16:43:42::SCWPlatform::Trying to open the hw design at Z:/oscilloscope-software/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2020-10-08.16:43:42::SCWPlatform::DSA given Z:/oscilloscope-software/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2020-10-08.16:43:42::SCWPlatform::DSA absoulate path Z:/oscilloscope-software/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2020-10-08.16:43:42::SCWPlatform::DSA directory Z:/oscilloscope-software/design_1_wrapper/hw
+TRACE::2020-10-08.16:43:42::SCWPlatform:: Platform Path Z:/oscilloscope-software/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2020-10-08.16:43:42::SCWPlatform:: Unique name xilinx:arty-a7-100::0.0
+TRACE::2020-10-08.16:43:42::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_2
+TRACE::2020-10-08.16:43:42::SCWPlatform::Opened existing hwdb design_1_wrapper_2
+TRACE::2020-10-08.16:43:42::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2020-10-08.16:43:42::SCWMssOS::Checking the sw design at  Z:/oscilloscope-software/design_1_wrapper/microblaze_0/domain_microblaze_0/bsp/system.mss
+TRACE::2020-10-08.16:43:42::SCWMssOS::DEBUG:  swdes dump  
+TRACE::2020-10-08.16:43:42::SCWMssOS::No sw design opened at  Z:/oscilloscope-software/design_1_wrapper/microblaze_0/domain_microblaze_0/bsp/system.mss
+TRACE::2020-10-08.16:43:42::SCWMssOS::mss exists loading the mss file  Z:/oscilloscope-software/design_1_wrapper/microblaze_0/domain_microblaze_0/bsp/system.mss
+TRACE::2020-10-08.16:43:42::SCWMssOS::Opened the sw design from mss  Z:/oscilloscope-software/design_1_wrapper/microblaze_0/domain_microblaze_0/bsp/system.mss
+TRACE::2020-10-08.16:43:42::SCWMssOS::Adding the swdes entry Z:/oscilloscope-software/design_1_wrapper/microblaze_0/domain_microblaze_0/bsp/system.mss with des name system
+TRACE::2020-10-08.16:43:42::SCWMssOS::updating the scw layer about changes
+TRACE::2020-10-08.16:43:43::SCWMssOS::Opened the sw design.  Z:/oscilloscope-software/design_1_wrapper/microblaze_0/domain_microblaze_0/bsp/system.mss
+TRACE::2020-10-08.16:43:43::SCWPlatform::Trying to open the hw design at Z:/oscilloscope-software/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2020-10-08.16:43:43::SCWPlatform::DSA given Z:/oscilloscope-software/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2020-10-08.16:43:43::SCWPlatform::DSA absoulate path Z:/oscilloscope-software/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2020-10-08.16:43:43::SCWPlatform::DSA directory Z:/oscilloscope-software/design_1_wrapper/hw
+TRACE::2020-10-08.16:43:43::SCWPlatform:: Platform Path Z:/oscilloscope-software/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2020-10-08.16:43:43::SCWPlatform:: Unique name xilinx:arty-a7-100::0.0
+TRACE::2020-10-08.16:43:43::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_2
+TRACE::2020-10-08.16:43:43::SCWPlatform::Opened existing hwdb design_1_wrapper_2
+TRACE::2020-10-08.16:43:43::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2020-10-08.16:43:43::SCWMssOS::Checking the sw design at  Z:/oscilloscope-software/design_1_wrapper/microblaze_0/domain_microblaze_0/bsp/system.mss
+TRACE::2020-10-08.16:43:43::SCWMssOS::DEBUG:  swdes dump  Z:/oscilloscope-software/design_1_wrapper/microblaze_0/domain_microblaze_0/bsp/system.mss|system||
+
+TRACE::2020-10-08.16:43:43::SCWMssOS::Sw design exists and opened at  Z:/oscilloscope-software/design_1_wrapper/microblaze_0/domain_microblaze_0/bsp/system.mss
+TRACE::2020-10-08.16:43:43::SCWMssOS:: library already available in sw design:  lwip211:1.2
+TRACE::2020-10-08.16:43:43::SCWPlatform::Trying to open the hw design at Z:/oscilloscope-software/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2020-10-08.16:43:43::SCWPlatform::DSA given Z:/oscilloscope-software/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2020-10-08.16:43:43::SCWPlatform::DSA absoulate path Z:/oscilloscope-software/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2020-10-08.16:43:43::SCWPlatform::DSA directory Z:/oscilloscope-software/design_1_wrapper/hw
+TRACE::2020-10-08.16:43:43::SCWPlatform:: Platform Path Z:/oscilloscope-software/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2020-10-08.16:43:43::SCWPlatform:: Unique name xilinx:arty-a7-100::0.0
+TRACE::2020-10-08.16:43:43::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_2
+TRACE::2020-10-08.16:43:43::SCWPlatform::Opened existing hwdb design_1_wrapper_2
+TRACE::2020-10-08.16:43:43::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2020-10-08.16:43:43::SCWMssOS::Checking the sw design at  Z:/oscilloscope-software/design_1_wrapper/microblaze_0/domain_microblaze_0/bsp/system.mss
+TRACE::2020-10-08.16:43:43::SCWMssOS::DEBUG:  swdes dump  Z:/oscilloscope-software/design_1_wrapper/microblaze_0/domain_microblaze_0/bsp/system.mss|system||
+
+TRACE::2020-10-08.16:43:43::SCWMssOS::Sw design exists and opened at  Z:/oscilloscope-software/design_1_wrapper/microblaze_0/domain_microblaze_0/bsp/system.mss
+TRACE::2020-10-08.16:43:43::SCWPlatform::Trying to open the hw design at Z:/oscilloscope-software/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2020-10-08.16:43:43::SCWPlatform::DSA given Z:/oscilloscope-software/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2020-10-08.16:43:43::SCWPlatform::DSA absoulate path Z:/oscilloscope-software/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2020-10-08.16:43:43::SCWPlatform::DSA directory Z:/oscilloscope-software/design_1_wrapper/hw
+TRACE::2020-10-08.16:43:43::SCWPlatform:: Platform Path Z:/oscilloscope-software/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2020-10-08.16:43:43::SCWPlatform:: Unique name xilinx:arty-a7-100::0.0
+TRACE::2020-10-08.16:43:43::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_2
+TRACE::2020-10-08.16:43:43::SCWPlatform::Opened existing hwdb design_1_wrapper_2
+TRACE::2020-10-08.16:43:43::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2020-10-08.16:43:43::SCWMssOS::Checking the sw design at  Z:/oscilloscope-software/design_1_wrapper/microblaze_0/domain_microblaze_0/bsp/system.mss
+TRACE::2020-10-08.16:43:43::SCWMssOS::DEBUG:  swdes dump  Z:/oscilloscope-software/design_1_wrapper/microblaze_0/domain_microblaze_0/bsp/system.mss|system||
+
+TRACE::2020-10-08.16:43:43::SCWMssOS::Sw design exists and opened at  Z:/oscilloscope-software/design_1_wrapper/microblaze_0/domain_microblaze_0/bsp/system.mss
+TRACE::2020-10-08.16:43:43::SCWPlatform::Trying to open the hw design at Z:/oscilloscope-software/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2020-10-08.16:43:43::SCWPlatform::DSA given Z:/oscilloscope-software/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2020-10-08.16:43:43::SCWPlatform::DSA absoulate path Z:/oscilloscope-software/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2020-10-08.16:43:43::SCWPlatform::DSA directory Z:/oscilloscope-software/design_1_wrapper/hw
+TRACE::2020-10-08.16:43:43::SCWPlatform:: Platform Path Z:/oscilloscope-software/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2020-10-08.16:43:43::SCWPlatform:: Unique name xilinx:arty-a7-100::0.0
+TRACE::2020-10-08.16:43:43::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_2
+TRACE::2020-10-08.16:43:43::SCWPlatform::Opened existing hwdb design_1_wrapper_2
+TRACE::2020-10-08.16:43:43::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2020-10-08.16:43:43::SCWMssOS::Checking the sw design at  Z:/oscilloscope-software/design_1_wrapper/microblaze_0/domain_microblaze_0/bsp/system.mss
+TRACE::2020-10-08.16:43:43::SCWMssOS::DEBUG:  swdes dump  Z:/oscilloscope-software/design_1_wrapper/microblaze_0/domain_microblaze_0/bsp/system.mss|system||
+
+TRACE::2020-10-08.16:43:43::SCWMssOS::Sw design exists and opened at  Z:/oscilloscope-software/design_1_wrapper/microblaze_0/domain_microblaze_0/bsp/system.mss
+TRACE::2020-10-08.16:43:43::SCWPlatform::Trying to open the hw design at Z:/oscilloscope-software/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2020-10-08.16:43:43::SCWPlatform::DSA given Z:/oscilloscope-software/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2020-10-08.16:43:43::SCWPlatform::DSA absoulate path Z:/oscilloscope-software/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2020-10-08.16:43:43::SCWPlatform::DSA directory Z:/oscilloscope-software/design_1_wrapper/hw
+TRACE::2020-10-08.16:43:43::SCWPlatform:: Platform Path Z:/oscilloscope-software/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2020-10-08.16:43:43::SCWPlatform:: Unique name xilinx:arty-a7-100::0.0
+TRACE::2020-10-08.16:43:43::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_2
+TRACE::2020-10-08.16:43:43::SCWPlatform::Opened existing hwdb design_1_wrapper_2
+TRACE::2020-10-08.16:43:43::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2020-10-08.16:43:43::SCWMssOS::Checking the sw design at  Z:/oscilloscope-software/design_1_wrapper/microblaze_0/domain_microblaze_0/bsp/system.mss
+TRACE::2020-10-08.16:43:43::SCWMssOS::DEBUG:  swdes dump  Z:/oscilloscope-software/design_1_wrapper/microblaze_0/domain_microblaze_0/bsp/system.mss|system||
+
+TRACE::2020-10-08.16:43:43::SCWMssOS::Sw design exists and opened at  Z:/oscilloscope-software/design_1_wrapper/microblaze_0/domain_microblaze_0/bsp/system.mss
+TRACE::2020-10-08.16:43:43::SCWPlatform::Trying to open the hw design at Z:/oscilloscope-software/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2020-10-08.16:43:43::SCWPlatform::DSA given Z:/oscilloscope-software/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2020-10-08.16:43:43::SCWPlatform::DSA absoulate path Z:/oscilloscope-software/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2020-10-08.16:43:43::SCWPlatform::DSA directory Z:/oscilloscope-software/design_1_wrapper/hw
+TRACE::2020-10-08.16:43:43::SCWPlatform:: Platform Path Z:/oscilloscope-software/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2020-10-08.16:43:43::SCWPlatform:: Unique name xilinx:arty-a7-100::0.0
+TRACE::2020-10-08.16:43:43::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_2
+TRACE::2020-10-08.16:43:43::SCWPlatform::Opened existing hwdb design_1_wrapper_2
+TRACE::2020-10-08.16:43:43::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2020-10-08.16:43:43::SCWMssOS::Checking the sw design at  Z:/oscilloscope-software/design_1_wrapper/microblaze_0/domain_microblaze_0/bsp/system.mss
+TRACE::2020-10-08.16:43:43::SCWMssOS::DEBUG:  swdes dump  Z:/oscilloscope-software/design_1_wrapper/microblaze_0/domain_microblaze_0/bsp/system.mss|system||
+
+TRACE::2020-10-08.16:43:43::SCWMssOS::Sw design exists and opened at  Z:/oscilloscope-software/design_1_wrapper/microblaze_0/domain_microblaze_0/bsp/system.mss
+TRACE::2020-10-08.16:43:43::SCWPlatform::Trying to open the hw design at Z:/oscilloscope-software/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2020-10-08.16:43:43::SCWPlatform::DSA given Z:/oscilloscope-software/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2020-10-08.16:43:43::SCWPlatform::DSA absoulate path Z:/oscilloscope-software/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2020-10-08.16:43:43::SCWPlatform::DSA directory Z:/oscilloscope-software/design_1_wrapper/hw
+TRACE::2020-10-08.16:43:43::SCWPlatform:: Platform Path Z:/oscilloscope-software/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2020-10-08.16:43:43::SCWPlatform:: Unique name xilinx:arty-a7-100::0.0
+TRACE::2020-10-08.16:43:43::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_2
+TRACE::2020-10-08.16:43:43::SCWPlatform::Opened existing hwdb design_1_wrapper_2
+TRACE::2020-10-08.16:43:43::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2020-10-08.16:43:43::SCWMssOS::Checking the sw design at  Z:/oscilloscope-software/design_1_wrapper/microblaze_0/domain_microblaze_0/bsp/system.mss
+TRACE::2020-10-08.16:43:43::SCWMssOS::DEBUG:  swdes dump  Z:/oscilloscope-software/design_1_wrapper/microblaze_0/domain_microblaze_0/bsp/system.mss|system||
+
+TRACE::2020-10-08.16:43:43::SCWMssOS::Sw design exists and opened at  Z:/oscilloscope-software/design_1_wrapper/microblaze_0/domain_microblaze_0/bsp/system.mss
+TRACE::2020-10-08.16:43:43::SCWPlatform::Trying to open the hw design at Z:/oscilloscope-software/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2020-10-08.16:43:43::SCWPlatform::DSA given Z:/oscilloscope-software/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2020-10-08.16:43:43::SCWPlatform::DSA absoulate path Z:/oscilloscope-software/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2020-10-08.16:43:43::SCWPlatform::DSA directory Z:/oscilloscope-software/design_1_wrapper/hw
+TRACE::2020-10-08.16:43:43::SCWPlatform:: Platform Path Z:/oscilloscope-software/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2020-10-08.16:43:43::SCWPlatform:: Unique name xilinx:arty-a7-100::0.0
+TRACE::2020-10-08.16:43:43::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_2
+TRACE::2020-10-08.16:43:43::SCWPlatform::Opened existing hwdb design_1_wrapper_2
+TRACE::2020-10-08.16:43:43::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2020-10-08.16:43:43::SCWMssOS::Checking the sw design at  Z:/oscilloscope-software/design_1_wrapper/microblaze_0/domain_microblaze_0/bsp/system.mss
+TRACE::2020-10-08.16:43:43::SCWMssOS::DEBUG:  swdes dump  Z:/oscilloscope-software/design_1_wrapper/microblaze_0/domain_microblaze_0/bsp/system.mss|system||
+
+TRACE::2020-10-08.16:43:43::SCWMssOS::Sw design exists and opened at  Z:/oscilloscope-software/design_1_wrapper/microblaze_0/domain_microblaze_0/bsp/system.mss
+TRACE::2020-10-08.16:43:43::SCWPlatform::Trying to open the hw design at Z:/oscilloscope-software/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2020-10-08.16:43:43::SCWPlatform::DSA given Z:/oscilloscope-software/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2020-10-08.16:43:43::SCWPlatform::DSA absoulate path Z:/oscilloscope-software/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2020-10-08.16:43:43::SCWPlatform::DSA directory Z:/oscilloscope-software/design_1_wrapper/hw
+TRACE::2020-10-08.16:43:43::SCWPlatform:: Platform Path Z:/oscilloscope-software/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2020-10-08.16:43:43::SCWPlatform:: Unique name xilinx:arty-a7-100::0.0
+TRACE::2020-10-08.16:43:43::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_2
+TRACE::2020-10-08.16:43:43::SCWPlatform::Opened existing hwdb design_1_wrapper_2
+TRACE::2020-10-08.16:43:43::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2020-10-08.16:43:43::SCWMssOS::Checking the sw design at  Z:/oscilloscope-software/design_1_wrapper/microblaze_0/domain_microblaze_0/bsp/system.mss
+TRACE::2020-10-08.16:43:43::SCWMssOS::DEBUG:  swdes dump  Z:/oscilloscope-software/design_1_wrapper/microblaze_0/domain_microblaze_0/bsp/system.mss|system||
+
+TRACE::2020-10-08.16:43:43::SCWMssOS::Sw design exists and opened at  Z:/oscilloscope-software/design_1_wrapper/microblaze_0/domain_microblaze_0/bsp/system.mss
+TRACE::2020-10-08.16:43:43::SCWPlatform::Trying to open the hw design at Z:/oscilloscope-software/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2020-10-08.16:43:43::SCWPlatform::DSA given Z:/oscilloscope-software/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2020-10-08.16:43:43::SCWPlatform::DSA absoulate path Z:/oscilloscope-software/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2020-10-08.16:43:43::SCWPlatform::DSA directory Z:/oscilloscope-software/design_1_wrapper/hw
+TRACE::2020-10-08.16:43:43::SCWPlatform:: Platform Path Z:/oscilloscope-software/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2020-10-08.16:43:43::SCWPlatform:: Unique name xilinx:arty-a7-100::0.0
+TRACE::2020-10-08.16:43:43::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_2
+TRACE::2020-10-08.16:43:43::SCWPlatform::Opened existing hwdb design_1_wrapper_2
+TRACE::2020-10-08.16:43:43::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2020-10-08.16:43:43::SCWMssOS::Checking the sw design at  Z:/oscilloscope-software/design_1_wrapper/microblaze_0/domain_microblaze_0/bsp/system.mss
+TRACE::2020-10-08.16:43:43::SCWMssOS::DEBUG:  swdes dump  Z:/oscilloscope-software/design_1_wrapper/microblaze_0/domain_microblaze_0/bsp/system.mss|system||
+
+TRACE::2020-10-08.16:43:43::SCWMssOS::Sw design exists and opened at  Z:/oscilloscope-software/design_1_wrapper/microblaze_0/domain_microblaze_0/bsp/system.mss
+TRACE::2020-10-08.16:43:43::SCWPlatform::Trying to open the hw design at Z:/oscilloscope-software/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2020-10-08.16:43:43::SCWPlatform::DSA given Z:/oscilloscope-software/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2020-10-08.16:43:43::SCWPlatform::DSA absoulate path Z:/oscilloscope-software/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2020-10-08.16:43:43::SCWPlatform::DSA directory Z:/oscilloscope-software/design_1_wrapper/hw
+TRACE::2020-10-08.16:43:43::SCWPlatform:: Platform Path Z:/oscilloscope-software/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2020-10-08.16:43:43::SCWPlatform:: Unique name xilinx:arty-a7-100::0.0
+TRACE::2020-10-08.16:43:43::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_2
+TRACE::2020-10-08.16:43:43::SCWPlatform::Opened existing hwdb design_1_wrapper_2
+TRACE::2020-10-08.16:43:43::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2020-10-08.16:43:43::SCWMssOS::Checking the sw design at  Z:/oscilloscope-software/design_1_wrapper/microblaze_0/domain_microblaze_0/bsp/system.mss
+TRACE::2020-10-08.16:43:43::SCWMssOS::DEBUG:  swdes dump  Z:/oscilloscope-software/design_1_wrapper/microblaze_0/domain_microblaze_0/bsp/system.mss|system||
+
+TRACE::2020-10-08.16:43:43::SCWMssOS::Sw design exists and opened at  Z:/oscilloscope-software/design_1_wrapper/microblaze_0/domain_microblaze_0/bsp/system.mss
+TRACE::2020-10-08.16:43:43::SCWMssOS::Saving the mss changes Z:/oscilloscope-software/design_1_wrapper/microblaze_0/domain_microblaze_0/bsp/system.mss
+TRACE::2020-10-08.16:43:43::SCWMssOS::Found a swdesign opened with the mssfile.
+TRACE::2020-10-08.16:43:43::SCWMssOS::Completed writemss as part of save.
+TRACE::2020-10-08.16:43:43::SCWMssOS::Commit changes completed.
+TRACE::2020-10-08.16:43:43::SCWPlatform::Trying to open the hw design at Z:/oscilloscope-software/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2020-10-08.16:43:43::SCWPlatform::DSA given Z:/oscilloscope-software/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2020-10-08.16:43:43::SCWPlatform::DSA absoulate path Z:/oscilloscope-software/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2020-10-08.16:43:43::SCWPlatform::DSA directory Z:/oscilloscope-software/design_1_wrapper/hw
+TRACE::2020-10-08.16:43:43::SCWPlatform:: Platform Path Z:/oscilloscope-software/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2020-10-08.16:43:43::SCWPlatform:: Unique name xilinx:arty-a7-100::0.0
+TRACE::2020-10-08.16:43:43::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_2
+TRACE::2020-10-08.16:43:43::SCWPlatform::Opened existing hwdb design_1_wrapper_2
+TRACE::2020-10-08.16:43:43::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2020-10-08.16:43:43::SCWMssOS::Checking the sw design at  Z:/oscilloscope-software/design_1_wrapper/microblaze_0/domain_microblaze_0/bsp/system.mss
+TRACE::2020-10-08.16:43:43::SCWMssOS::DEBUG:  swdes dump  Z:/oscilloscope-software/design_1_wrapper/microblaze_0/domain_microblaze_0/bsp/system.mss|system||
+
+TRACE::2020-10-08.16:43:43::SCWMssOS::Sw design exists and opened at  Z:/oscilloscope-software/design_1_wrapper/microblaze_0/domain_microblaze_0/bsp/system.mss
+TRACE::2020-10-08.16:43:43::SCWMssOS::Removing the swdes entry for  Z:/oscilloscope-software/design_1_wrapper/microblaze_0/domain_microblaze_0/bsp/system.mss
+TRACE::2020-10-08.16:43:43::SCWPlatform::Trying to open the hw design at Z:/oscilloscope-software/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2020-10-08.16:43:43::SCWPlatform::DSA given Z:/oscilloscope-software/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2020-10-08.16:43:43::SCWPlatform::DSA absoulate path Z:/oscilloscope-software/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2020-10-08.16:43:43::SCWPlatform::DSA directory Z:/oscilloscope-software/design_1_wrapper/hw
+TRACE::2020-10-08.16:43:43::SCWPlatform:: Platform Path Z:/oscilloscope-software/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2020-10-08.16:43:43::SCWPlatform:: Unique name xilinx:arty-a7-100::0.0
+TRACE::2020-10-08.16:43:43::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_2
+TRACE::2020-10-08.16:43:43::SCWPlatform::Opened existing hwdb design_1_wrapper_2
+TRACE::2020-10-08.16:43:43::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2020-10-08.16:43:43::SCWMssOS::Checking the sw design at  Z:/oscilloscope-software/design_1_wrapper/microblaze_0/domain_microblaze_0/bsp/system.mss
+TRACE::2020-10-08.16:43:43::SCWMssOS::DEBUG:  swdes dump  
+TRACE::2020-10-08.16:43:43::SCWMssOS::No sw design opened at  Z:/oscilloscope-software/design_1_wrapper/microblaze_0/domain_microblaze_0/bsp/system.mss
+TRACE::2020-10-08.16:43:43::SCWMssOS::mss exists loading the mss file  Z:/oscilloscope-software/design_1_wrapper/microblaze_0/domain_microblaze_0/bsp/system.mss
+TRACE::2020-10-08.16:43:43::SCWMssOS::Opened the sw design from mss  Z:/oscilloscope-software/design_1_wrapper/microblaze_0/domain_microblaze_0/bsp/system.mss
+TRACE::2020-10-08.16:43:43::SCWMssOS::Adding the swdes entry Z:/oscilloscope-software/design_1_wrapper/microblaze_0/domain_microblaze_0/bsp/system.mss with des name system
+TRACE::2020-10-08.16:43:43::SCWMssOS::updating the scw layer about changes
+TRACE::2020-10-08.16:43:43::SCWMssOS::Opened the sw design.  Z:/oscilloscope-software/design_1_wrapper/microblaze_0/domain_microblaze_0/bsp/system.mss
+TRACE::2020-10-08.16:43:43::SCWMssOS::Completed writing the mss file at Z:/oscilloscope-software/design_1_wrapper/microblaze_0/domain_microblaze_0/bsp
+TRACE::2020-10-08.16:43:45::SCWMssOS::Forcing BSP Sources regeneration.
+LOG::2020-10-08.16:45:00::SCWPlatform::Started generating the artifacts platform design_1_wrapper
+TRACE::2020-10-08.16:45:00::SCWPlatform::Sanity checking of platform is completed
+LOG::2020-10-08.16:45:00::SCWPlatform::Started generating the artifacts for system configuration design_1_wrapper
+LOG::2020-10-08.16:45:00::SCWSystem::Checking the domain domain_microblaze_0
+LOG::2020-10-08.16:45:00::SCWSystem::Not a boot domain 
+LOG::2020-10-08.16:45:00::SCWSystem::Started Processing the domain domain_microblaze_0
+TRACE::2020-10-08.16:45:00::SCWDomain::Generating domain artifcats
+TRACE::2020-10-08.16:45:00::SCWMssOS::Generating standalone artifcats
+TRACE::2020-10-08.16:45:00::SCWMssOS:: Copying the user libraries. 
+TRACE::2020-10-08.16:45:00::SCWPlatform::Trying to open the hw design at Z:/oscilloscope-software/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2020-10-08.16:45:00::SCWPlatform::DSA given Z:/oscilloscope-software/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2020-10-08.16:45:00::SCWPlatform::DSA absoulate path Z:/oscilloscope-software/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2020-10-08.16:45:00::SCWPlatform::DSA directory Z:/oscilloscope-software/design_1_wrapper/hw
+TRACE::2020-10-08.16:45:00::SCWPlatform:: Platform Path Z:/oscilloscope-software/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2020-10-08.16:45:00::SCWPlatform:: Unique name xilinx:arty-a7-100::0.0
+TRACE::2020-10-08.16:45:00::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_2
+TRACE::2020-10-08.16:45:00::SCWPlatform::Opened existing hwdb design_1_wrapper_2
+TRACE::2020-10-08.16:45:00::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2020-10-08.16:45:00::SCWMssOS::Checking the sw design at  Z:/oscilloscope-software/design_1_wrapper/microblaze_0/domain_microblaze_0/bsp/system.mss
+TRACE::2020-10-08.16:45:00::SCWMssOS::DEBUG:  swdes dump  Z:/oscilloscope-software/design_1_wrapper/microblaze_0/domain_microblaze_0/bsp/system.mss|system||
+
+KEYINFO::2020-10-08.16:45:00::SCWMssOS::Could not open the swdb for system
+KEYINFO::2020-10-08.16:45:00::SCWMssOS::Could not open the sw design at  system
+ERROR: [Hsi 55-1558] Software Design system is not found
+
+TRACE::2020-10-08.16:45:00::SCWMssOS::Cleared the swdb table entry
+TRACE::2020-10-08.16:45:00::SCWMssOS::No sw design opened at  Z:/oscilloscope-software/design_1_wrapper/microblaze_0/domain_microblaze_0/bsp/system.mss
+TRACE::2020-10-08.16:45:00::SCWMssOS::mss exists loading the mss file  Z:/oscilloscope-software/design_1_wrapper/microblaze_0/domain_microblaze_0/bsp/system.mss
+TRACE::2020-10-08.16:45:00::SCWMssOS::Opened the sw design from mss  Z:/oscilloscope-software/design_1_wrapper/microblaze_0/domain_microblaze_0/bsp/system.mss
+TRACE::2020-10-08.16:45:00::SCWMssOS::Adding the swdes entry Z:/oscilloscope-software/design_1_wrapper/microblaze_0/domain_microblaze_0/bsp/system.mss with des name system
+TRACE::2020-10-08.16:45:00::SCWMssOS::updating the scw layer about changes
+TRACE::2020-10-08.16:45:00::SCWMssOS::Opened the sw design.  Z:/oscilloscope-software/design_1_wrapper/microblaze_0/domain_microblaze_0/bsp/system.mss
+TRACE::2020-10-08.16:45:00::SCWMssOS::Completed writing the mss file at Z:/oscilloscope-software/design_1_wrapper/microblaze_0/domain_microblaze_0/bsp
+TRACE::2020-10-08.16:45:00::SCWMssOS::Mss edits present, copying mssfile into export location Z:/oscilloscope-software/design_1_wrapper/microblaze_0/domain_microblaze_0/bsp/system.mss
+TRACE::2020-10-08.16:45:00::SCWMssOS::bsp generated is upto date with the mss file. Skipping bsp generation.
+TRACE::2020-10-08.16:45:00::SCWMssOS::BSP is already built. skipping the bsp build ... 
+TRACE::2020-10-08.16:45:00::SCWDomain::Building the domain as part of full build :  domain_microblaze_0
+TRACE::2020-10-08.16:45:00::SCWMssOS::doing bsp build ... 
+TRACE::2020-10-08.16:45:00::SCWMssOS::System Command Ran  Z: & cd  Z:/oscilloscope-software/design_1_wrapper/microblaze_0/domain_microblaze_0/bsp & make 
+TRACE::2020-10-08.16:45:00::SCWMssOS::"Running Make include in microblaze_0/libsrc/bram_v4_4/src"
+
+TRACE::2020-10-08.16:45:00::SCWMssOS::make -C microblaze_0/libsrc/bram_v4_4/src -s include  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "COMPILE
+TRACE::2020-10-08.16:45:00::SCWMssOS::R_FLAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mno-xl-soft-mul -mxl-barrel-shift -mxl-pattern-compare" "EXTRA_COMPILER_FLAGS=-g 
+TRACE::2020-10-08.16:45:00::SCWMssOS::-ffunction-sections -fdata-sections -Wall -Wextra"
+
+TRACE::2020-10-08.16:45:01::SCWMssOS::"Running Make include in microblaze_0/libsrc/cpu_v2_11/src"
+
+TRACE::2020-10-08.16:45:01::SCWMssOS::make -C microblaze_0/libsrc/cpu_v2_11/src -s include  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "COMPILE
+TRACE::2020-10-08.16:45:01::SCWMssOS::R_FLAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mno-xl-soft-mul -mxl-barrel-shift -mxl-pattern-compare" "EXTRA_COMPILER_FLAGS=-g 
+TRACE::2020-10-08.16:45:01::SCWMssOS::-ffunction-sections -fdata-sections -Wall -Wextra"
+
+TRACE::2020-10-08.16:45:01::SCWMssOS::"Running Make include in microblaze_0/libsrc/emaclite_v4_5/src"
+
+TRACE::2020-10-08.16:45:01::SCWMssOS::make -C microblaze_0/libsrc/emaclite_v4_5/src -s include  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "COM
+TRACE::2020-10-08.16:45:01::SCWMssOS::PILER_FLAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mno-xl-soft-mul -mxl-barrel-shift -mxl-pattern-compare" "EXTRA_COMPILER_FLAGS
+TRACE::2020-10-08.16:45:01::SCWMssOS::=-g -ffunction-sections -fdata-sections -Wall -Wextra"
+
+TRACE::2020-10-08.16:45:01::SCWMssOS::"Running Make include in microblaze_0/libsrc/freertos10_xilinx_v1_6/src"
+
+TRACE::2020-10-08.16:45:01::SCWMssOS::make -C microblaze_0/libsrc/freertos10_xilinx_v1_6/src -s include  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb
+TRACE::2020-10-08.16:45:01::SCWMssOS::-ar" "COMPILER_FLAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mno-xl-soft-mul -mxl-barrel-shift -mxl-pattern-compare" "EXTRA_COMPI
+TRACE::2020-10-08.16:45:01::SCWMssOS::LER_FLAGS=-g -ffunction-sections -fdata-sections -Wall -Wextra"
+
+TRACE::2020-10-08.16:45:01::SCWMssOS::"include"
+
+TRACE::2020-10-08.16:45:03::SCWMssOS::"Running Make include in microblaze_0/libsrc/gpio_v4_6/src"
+
+TRACE::2020-10-08.16:45:03::SCWMssOS::make -C microblaze_0/libsrc/gpio_v4_6/src -s include  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "COMPILE
+TRACE::2020-10-08.16:45:03::SCWMssOS::R_FLAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mno-xl-soft-mul -mxl-barrel-shift -mxl-pattern-compare" "EXTRA_COMPILER_FLAGS=-g 
+TRACE::2020-10-08.16:45:03::SCWMssOS::-ffunction-sections -fdata-sections -Wall -Wextra"
+
+TRACE::2020-10-08.16:45:04::SCWMssOS::"Running Make include in microblaze_0/libsrc/intc_v3_11/src"
+
+TRACE::2020-10-08.16:45:04::SCWMssOS::make -C microblaze_0/libsrc/intc_v3_11/src -s include  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "COMPIL
+TRACE::2020-10-08.16:45:04::SCWMssOS::ER_FLAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mno-xl-soft-mul -mxl-barrel-shift -mxl-pattern-compare" "EXTRA_COMPILER_FLAGS=-g
+TRACE::2020-10-08.16:45:04::SCWMssOS:: -ffunction-sections -fdata-sections -Wall -Wextra"
+
+TRACE::2020-10-08.16:45:04::SCWMssOS::"Running Make include in microblaze_0/libsrc/lwip211_v1_2/src"
+
+TRACE::2020-10-08.16:45:04::SCWMssOS::make -C microblaze_0/libsrc/lwip211_v1_2/src -s include  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "COMP
+TRACE::2020-10-08.16:45:04::SCWMssOS::ILER_FLAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mno-xl-soft-mul -mxl-barrel-shift -mxl-pattern-compare" "EXTRA_COMPILER_FLAGS=
+TRACE::2020-10-08.16:45:04::SCWMssOS::-g -ffunction-sections -fdata-sections -Wall -Wextra"
+
+TRACE::2020-10-08.16:45:10::SCWMssOS::"Running Make include in microblaze_0/libsrc/spi_v4_6/src"
+
+TRACE::2020-10-08.16:45:10::SCWMssOS::make -C microblaze_0/libsrc/spi_v4_6/src -s include  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "COMPILER
+TRACE::2020-10-08.16:45:10::SCWMssOS::_FLAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mno-xl-soft-mul -mxl-barrel-shift -mxl-pattern-compare" "EXTRA_COMPILER_FLAGS=-g -
+TRACE::2020-10-08.16:45:10::SCWMssOS::ffunction-sections -fdata-sections -Wall -Wextra"
+
+TRACE::2020-10-08.16:45:11::SCWMssOS::"Running Make include in microblaze_0/libsrc/tmrctr_v4_6/src"
+
+TRACE::2020-10-08.16:45:11::SCWMssOS::make -C microblaze_0/libsrc/tmrctr_v4_6/src -s include  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "COMPI
+TRACE::2020-10-08.16:45:11::SCWMssOS::LER_FLAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mno-xl-soft-mul -mxl-barrel-shift -mxl-pattern-compare" "EXTRA_COMPILER_FLAGS=-
+TRACE::2020-10-08.16:45:11::SCWMssOS::g -ffunction-sections -fdata-sections -Wall -Wextra"
+
+TRACE::2020-10-08.16:45:11::SCWMssOS::"Running Make include in microblaze_0/libsrc/uartlite_v3_4/src"
+
+TRACE::2020-10-08.16:45:11::SCWMssOS::make -C microblaze_0/libsrc/uartlite_v3_4/src -s include  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "COM
+TRACE::2020-10-08.16:45:11::SCWMssOS::PILER_FLAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mno-xl-soft-mul -mxl-barrel-shift -mxl-pattern-compare" "EXTRA_COMPILER_FLAGS
+TRACE::2020-10-08.16:45:11::SCWMssOS::=-g -ffunction-sections -fdata-sections -Wall -Wextra"
+
+TRACE::2020-10-08.16:45:11::SCWMssOS::"Running Make libs in microblaze_0/libsrc/bram_v4_4/src"
+
+TRACE::2020-10-08.16:45:11::SCWMssOS::make -C microblaze_0/libsrc/bram_v4_4/src -s libs  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "COMPILER_F
+TRACE::2020-10-08.16:45:11::SCWMssOS::LAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mno-xl-soft-mul -mxl-barrel-shift -mxl-pattern-compare" "EXTRA_COMPILER_FLAGS=-g -ff
+TRACE::2020-10-08.16:45:11::SCWMssOS::unction-sections -fdata-sections -Wall -Wextra"
+
+TRACE::2020-10-08.16:45:11::SCWMssOS::"Compiling bram"
+
+TRACE::2020-10-08.16:45:13::SCWMssOS::"Running Make libs in microblaze_0/libsrc/cpu_v2_11/src"
+
+TRACE::2020-10-08.16:45:13::SCWMssOS::make -C microblaze_0/libsrc/cpu_v2_11/src -s libs  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "COMPILER_F
+TRACE::2020-10-08.16:45:13::SCWMssOS::LAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mno-xl-soft-mul -mxl-barrel-shift -mxl-pattern-compare" "EXTRA_COMPILER_FLAGS=-g -ff
+TRACE::2020-10-08.16:45:13::SCWMssOS::unction-sections -fdata-sections -Wall -Wextra"
+
+TRACE::2020-10-08.16:45:13::SCWMssOS::"Compiling cpu"
+
+TRACE::2020-10-08.16:45:13::SCWMssOS::"Running Make libs in microblaze_0/libsrc/emaclite_v4_5/src"
+
+TRACE::2020-10-08.16:45:13::SCWMssOS::make -C microblaze_0/libsrc/emaclite_v4_5/src -s libs  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "COMPIL
+TRACE::2020-10-08.16:45:13::SCWMssOS::ER_FLAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mno-xl-soft-mul -mxl-barrel-shift -mxl-pattern-compare" "EXTRA_COMPILER_FLAGS=-g
+TRACE::2020-10-08.16:45:13::SCWMssOS:: -ffunction-sections -fdata-sections -Wall -Wextra"
+
+TRACE::2020-10-08.16:45:13::SCWMssOS::"Compiling emaclite"
+
+TRACE::2020-10-08.16:45:15::SCWMssOS::"Running Make libs in microblaze_0/libsrc/freertos10_xilinx_v1_6/src"
+
+TRACE::2020-10-08.16:45:15::SCWMssOS::make -C microblaze_0/libsrc/freertos10_xilinx_v1_6/src -s libs  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar
+TRACE::2020-10-08.16:45:15::SCWMssOS::" "COMPILER_FLAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mno-xl-soft-mul -mxl-barrel-shift -mxl-pattern-compare" "EXTRA_COMPILER
+TRACE::2020-10-08.16:45:15::SCWMssOS::_FLAGS=-g -ffunction-sections -fdata-sections -Wall -Wextra"
+
+TRACE::2020-10-08.16:45:15::SCWMssOS::"Compiling standalone";
+
+TRACE::2020-10-08.16:45:20::SCWMssOS::"Compiling FreeRTOS"
+
+TRACE::2020-10-08.16:45:22::SCWMssOS::"Running Make libs in microblaze_0/libsrc/gpio_v4_6/src"
+
+TRACE::2020-10-08.16:45:22::SCWMssOS::make -C microblaze_0/libsrc/gpio_v4_6/src -s libs  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "COMPILER_F
+TRACE::2020-10-08.16:45:22::SCWMssOS::LAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mno-xl-soft-mul -mxl-barrel-shift -mxl-pattern-compare" "EXTRA_COMPILER_FLAGS=-g -ff
+TRACE::2020-10-08.16:45:22::SCWMssOS::unction-sections -fdata-sections -Wall -Wextra"
+
+TRACE::2020-10-08.16:45:22::SCWMssOS::"Compiling gpio"
+
+TRACE::2020-10-08.16:45:24::SCWMssOS::"Running Make libs in microblaze_0/libsrc/intc_v3_11/src"
+
+TRACE::2020-10-08.16:45:24::SCWMssOS::make -C microblaze_0/libsrc/intc_v3_11/src -s libs  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "COMPILER_
+TRACE::2020-10-08.16:45:24::SCWMssOS::FLAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mno-xl-soft-mul -mxl-barrel-shift -mxl-pattern-compare" "EXTRA_COMPILER_FLAGS=-g -f
+TRACE::2020-10-08.16:45:24::SCWMssOS::function-sections -fdata-sections -Wall -Wextra"
+
+TRACE::2020-10-08.16:45:24::SCWMssOS::"Compiling intc"
+
+TRACE::2020-10-08.16:45:25::SCWMssOS::"Running Make libs in microblaze_0/libsrc/lwip211_v1_2/src"
+
+TRACE::2020-10-08.16:45:25::SCWMssOS::make -C microblaze_0/libsrc/lwip211_v1_2/src -s libs  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "COMPILE
+TRACE::2020-10-08.16:45:25::SCWMssOS::R_FLAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mno-xl-soft-mul -mxl-barrel-shift -mxl-pattern-compare" "EXTRA_COMPILER_FLAGS=-g 
+TRACE::2020-10-08.16:45:25::SCWMssOS::-ffunction-sections -fdata-sections -Wall -Wextra"
+
+TRACE::2020-10-08.16:45:27::SCWMssOS::"Compiling lwip src and adapter files"
+
+TRACE::2020-10-08.16:45:47::SCWMssOS::"Running Make libs in microblaze_0/libsrc/spi_v4_6/src"
+
+TRACE::2020-10-08.16:45:47::SCWMssOS::make -C microblaze_0/libsrc/spi_v4_6/src -s libs  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "COMPILER_FL
+TRACE::2020-10-08.16:45:47::SCWMssOS::AGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mno-xl-soft-mul -mxl-barrel-shift -mxl-pattern-compare" "EXTRA_COMPILER_FLAGS=-g -ffu
+TRACE::2020-10-08.16:45:47::SCWMssOS::nction-sections -fdata-sections -Wall -Wextra"
+
+TRACE::2020-10-08.16:45:47::SCWMssOS::"Compiling spi"
+
+TRACE::2020-10-08.16:45:48::SCWMssOS::"Running Make libs in microblaze_0/libsrc/tmrctr_v4_6/src"
+
+TRACE::2020-10-08.16:45:48::SCWMssOS::make -C microblaze_0/libsrc/tmrctr_v4_6/src -s libs  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "COMPILER
+TRACE::2020-10-08.16:45:48::SCWMssOS::_FLAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mno-xl-soft-mul -mxl-barrel-shift -mxl-pattern-compare" "EXTRA_COMPILER_FLAGS=-g -
+TRACE::2020-10-08.16:45:48::SCWMssOS::ffunction-sections -fdata-sections -Wall -Wextra"
+
+TRACE::2020-10-08.16:45:48::SCWMssOS::"Compiling tmrctr"
+
+TRACE::2020-10-08.16:45:50::SCWMssOS::"Running Make libs in microblaze_0/libsrc/uartlite_v3_4/src"
+
+TRACE::2020-10-08.16:45:50::SCWMssOS::make -C microblaze_0/libsrc/uartlite_v3_4/src -s libs  "SHELL=CMD" "COMPILER=mb-gcc" "ASSEMBLER=mb-as" "ARCHIVER=mb-ar" "COMPIL
+TRACE::2020-10-08.16:45:50::SCWMssOS::ER_FLAGS=  -O2 -c -mcpu=v11.0 -mlittle-endian -mno-xl-soft-mul -mxl-barrel-shift -mxl-pattern-compare" "EXTRA_COMPILER_FLAGS=-g
+TRACE::2020-10-08.16:45:50::SCWMssOS:: -ffunction-sections -fdata-sections -Wall -Wextra"
+
+TRACE::2020-10-08.16:45:50::SCWMssOS::"Compiling uartlite"
+
+TRACE::2020-10-08.16:45:52::SCWMssOS::'Finished building libraries'
+
+TRACE::2020-10-08.16:45:53::SCWMssOS::Copying to export directory.
+TRACE::2020-10-08.16:45:55::SCWMssOS:: Checking if to create the Supporting Applications
+TRACE::2020-10-08.16:45:55::SCWMssOS:: No Linux domain exists, trying to generate FSBL 
+LOG::2020-10-08.16:45:55::SCWSystem::Completed Processing the domain domain_microblaze_0
+LOG::2020-10-08.16:45:55::SCWSystem::Completed Processing the sysconfig design_1_wrapper
+LOG::2020-10-08.16:45:55::SCWPlatform::Completed generating the artifacts for system configuration design_1_wrapper
+TRACE::2020-10-08.16:45:55::SCWPlatform::Started preparing the platform 
+TRACE::2020-10-08.16:45:55::SCWSystem::Writing the bif file for system config design_1_wrapper
+TRACE::2020-10-08.16:45:55::SCWSystem::dir created 
+TRACE::2020-10-08.16:45:55::SCWSystem::Writing the bif 
+TRACE::2020-10-08.16:45:55::SCWPlatform::Started writing the spfm file 
+TRACE::2020-10-08.16:45:55::SCWPlatform::Started writing the xpfm file 
+TRACE::2020-10-08.16:45:55::SCWPlatform::Completed generating the platform
+TRACE::2020-10-08.16:45:55::SCWMssOS::Saving the mss changes Z:/oscilloscope-software/design_1_wrapper/microblaze_0/domain_microblaze_0/bsp/system.mss
+TRACE::2020-10-08.16:45:55::SCWMssOS::Found a swdesign opened with the mssfile.
+TRACE::2020-10-08.16:45:55::SCWMssOS::Completed writemss as part of save.
+TRACE::2020-10-08.16:45:55::SCWMssOS::Commit changes completed.
+TRACE::2020-10-08.16:45:55::SCWPlatform::Trying to open the hw design at Z:/oscilloscope-software/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2020-10-08.16:45:55::SCWPlatform::DSA given Z:/oscilloscope-software/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2020-10-08.16:45:55::SCWPlatform::DSA absoulate path Z:/oscilloscope-software/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2020-10-08.16:45:55::SCWPlatform::DSA directory Z:/oscilloscope-software/design_1_wrapper/hw
+TRACE::2020-10-08.16:45:55::SCWPlatform:: Platform Path Z:/oscilloscope-software/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2020-10-08.16:45:55::SCWPlatform:: Unique name xilinx:arty-a7-100::0.0
+TRACE::2020-10-08.16:45:55::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_2
+TRACE::2020-10-08.16:45:55::SCWPlatform::Opened existing hwdb design_1_wrapper_2
+TRACE::2020-10-08.16:45:55::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2020-10-08.16:45:55::SCWMssOS::Checking the sw design at  Z:/oscilloscope-software/design_1_wrapper/microblaze_0/domain_microblaze_0/bsp/system.mss
+TRACE::2020-10-08.16:45:55::SCWMssOS::DEBUG:  swdes dump  Z:/oscilloscope-software/design_1_wrapper/microblaze_0/domain_microblaze_0/bsp/system.mss|system||
+
+TRACE::2020-10-08.16:45:55::SCWMssOS::Sw design exists and opened at  Z:/oscilloscope-software/design_1_wrapper/microblaze_0/domain_microblaze_0/bsp/system.mss
+TRACE::2020-10-08.16:45:55::SCWWriter::formatted JSON is {
+	"platformName":	"design_1_wrapper",
+	"sprVersion":	"2.0",
+	"mode":	"gui",
+	"dsaType":	"Fixed",
+	"platformDesc":	"design_1_wrapper",
+	"platHandOff":	"<platformDir>.xsa",
+	"platIntHandOff":	"<platformDir>/hw/design_1_wrapper.xsa",
+	"deviceType":	"FPGA",
+	"platIsPrebuiltAutogen":	"false",
+	"platIsNoBootBsp":	"false",
+	"hasFsblMakeHasChanges":	"false",
+	"hasPmufwMakeHasChanges":	"false",
+	"platPreBuiltFlag":	false,
+	"platformSamplesDir":	"",
+	"platActiveSys":	"design_1_wrapper",
+	"systems":	[{
+			"systemName":	"design_1_wrapper",
+			"systemDesc":	"design_1_wrapper",
+			"sysIsBootAutoGen":	"true",
+			"systemDispName":	"design_1_wrapper",
+			"sysActiveDom":	"domain_microblaze_0",
+			"sysDefaultDom":	"domain_microblaze_0",
+			"domains":	[{
+					"domainName":	"domain_microblaze_0",
+					"domainDispName":	"domain_microblaze_0",
+					"domainDesc":	"domain_microblaze_0",
+					"processors":	"microblaze_0",
+					"os":	"freertos10_xilinx",
+					"sdxOs":	"freertos10_xilinx",
+					"debugEnable":	"False",
+					"domRuntimes":	["cpp"],
+					"swRepo":	"",
+					"mssOsVer":	"1.6",
+					"mssFile":	"",
+					"md5Digest":	"74df25b4ffda5c187d91f1dc6f2e2129",
+					"compatibleApp":	"",
+					"domType":	"mssDomain",
+					"arch":	"32-bit",
+					"appSettings":	{
+						"appCompilerFlags":	"",
+						"appLinkerFlags":	""
+					},
+					"addedLibs":	["lwip211:1.2"],
+					"libOptions":	{
+						"lwip211":	{
+							"api_mode":	"SOCKET_API",
+							"dhcp_does_arp_check":	"true",
+							"lwip_dhcp":	"true",
+							"pbuf_pool_size":	"2048",
+							"phy_link_speed":	"CONFIG_LINKSPEED100",
+							"libOptionNames":	["api_mode", "dhcp_does_arp_check", "lwip_dhcp", "pbuf_pool_size", "phy_link_speed"]
+						},
+						"libsContainingOptions":	["lwip211"]
+					},
+					"prebuiltLibs":	{
+						"prebuiltIncPath":	[],
+						"prebuiltLibPath":	[]
+					},
+					"isolation":	{
+					}
+				}]
+		}]
+}
+KEYINFO::2020-10-08.16:45:55::SCWPlatform::updated the xpfm file.
+TRACE::2020-10-08.16:45:56::SCWPlatform::Trying to open the hw design at Z:/oscilloscope-software/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2020-10-08.16:45:56::SCWPlatform::DSA given Z:/oscilloscope-software/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2020-10-08.16:45:56::SCWPlatform::DSA absoulate path Z:/oscilloscope-software/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2020-10-08.16:45:56::SCWPlatform::DSA directory Z:/oscilloscope-software/design_1_wrapper/hw
+TRACE::2020-10-08.16:45:56::SCWPlatform:: Platform Path Z:/oscilloscope-software/design_1_wrapper/hw/design_1_wrapper.xsa
+TRACE::2020-10-08.16:45:56::SCWPlatform:: Unique name xilinx:arty-a7-100::0.0
+TRACE::2020-10-08.16:45:56::SCWPlatform::Trying to set the existing hwdb with name design_1_wrapper_2
+TRACE::2020-10-08.16:45:56::SCWPlatform::Opened existing hwdb design_1_wrapper_2
+TRACE::2020-10-08.16:45:56::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2020-10-08.16:45:56::SCWMssOS::Checking the sw design at  Z:/oscilloscope-software/design_1_wrapper/microblaze_0/domain_microblaze_0/bsp/system.mss
+TRACE::2020-10-08.16:45:56::SCWMssOS::DEBUG:  swdes dump  Z:/oscilloscope-software/design_1_wrapper/microblaze_0/domain_microblaze_0/bsp/system.mss|system||
+
+TRACE::2020-10-08.16:45:56::SCWMssOS::Sw design exists and opened at  Z:/oscilloscope-software/design_1_wrapper/microblaze_0/domain_microblaze_0/bsp/system.mss
+TRACE::2020-10-08.16:51:26::SCWMssOS::cleaning the bsp 
+TRACE::2020-10-08.16:51:26::SCWMssOS::System Command Ran  Z: & cd  Z:/oscilloscope-software/design_1_wrapper/microblaze_0/domain_microblaze_0/bsp & make clean 
+TRACE::2020-10-08.16:51:26::SCWMssOS::make -C microblaze_0/libsrc/bram_v4_4/src -s clean 
+
+TRACE::2020-10-08.16:51:27::SCWMssOS::make -C microblaze_0/libsrc/cpu_v2_11/src -s clean 
+
+TRACE::2020-10-08.16:51:27::SCWMssOS::make -C microblaze_0/libsrc/emaclite_v4_5/src -s clean 
+
+TRACE::2020-10-08.16:51:27::SCWMssOS::make -C microblaze_0/libsrc/freertos10_xilinx_v1_6/src -s clean 
+
+TRACE::2020-10-08.16:51:27::SCWMssOS::make -C microblaze_0/libsrc/gpio_v4_6/src -s clean 
+
+TRACE::2020-10-08.16:51:27::SCWMssOS::make -C microblaze_0/libsrc/intc_v3_11/src -s clean 
+
+TRACE::2020-10-08.16:51:27::SCWMssOS::make -C microblaze_0/libsrc/lwip211_v1_2/src -s clean 
+
+TRACE::2020-10-08.16:51:30::SCWMssOS::make -C microblaze_0/libsrc/spi_v4_6/src -s clean 
+
+TRACE::2020-10-08.16:51:30::SCWMssOS::make -C microblaze_0/libsrc/tmrctr_v4_6/src -s clean 
+
+TRACE::2020-10-08.16:51:30::SCWMssOS::make -C microblaze_0/libsrc/uartlite_v3_4/src -s clean 
+
+TRACE::2020-10-08.16:51:30::SCWMssOS::rm -f microblaze_0/lib/libxil.a
+
