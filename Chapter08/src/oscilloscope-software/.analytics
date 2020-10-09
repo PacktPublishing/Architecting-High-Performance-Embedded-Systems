@@ -1,0 +1,68 @@
+timestamp=[2020-10-08 16:33:41], mode=WORKBENCH_START, duration=0:00:13.657, duration_ms=13657, data={}
+timestamp=[2020-10-08 16:33:42], mode=WORKBENCH_UI_INIT, duration=0:00:01.348, duration_ms=1348, data={editors_count=0, platform_editors_count=0, projects_count=0, platform_projects_count=0, active_platform_editor=false, projects=}
+timestamp=[2020-10-08 16:33:49], mode=PLATFORM_REPOSITORY_INIT, duration=0:00:05.314, duration_ms=5314, data={}
+timestamp=[2020-10-08 16:37:01], mode=APP_CREATION, duration=0:00:36.712, duration_ms=36712, data={name=oscilloscope-software, project_type=sdk, os=freertos10_xilinx, processor=microblaze, runtime=cpp, platform=design_1_wrapper, application_type=application}
+timestamp=[2020-10-08 16:45:57], mode=PLATFORM_GENERATION, duration=0:00:59.413, duration_ms=59413, data={name=design_1_wrapper}
+timestamp=[2020-10-08 16:46:02], mode=BUILD, duration=0:00:04.364, duration_ms=4364, data={name=oscilloscope-software, configuration=Debug, clean_build=false}
+timestamp=[2020-10-08 16:46:03], mode=BUILD, duration=0:00:00.197, duration_ms=197, data={name=oscilloscope-software_system, configuration=Debug, clean_build=false}
+timestamp=[2020-10-08 16:51:31], mode=PLATFORM_GENERATION, duration=0:00:07.220, duration_ms=7220, data={name=design_1_wrapper}
+timestamp=[2020-10-08 16:51:32], mode=BUILD, duration=0:00:00.637, duration_ms=637, data={name=oscilloscope-software, configuration=Debug, clean_build=true}
+timestamp=[2020-10-08 16:51:32], mode=BUILD, duration=0:00:00.235, duration_ms=235, data={name=oscilloscope-software_system, configuration=Debug, clean_build=true}
+timestamp=[2020-10-08 21:20:59], mode=WORKBENCH_START, duration=0:00:16.482, duration_ms=16482, data={}
+timestamp=[2020-10-08 21:21:00], mode=WORKBENCH_UI_INIT, duration=0:00:00.905, duration_ms=905, data={editors_count=5, platform_editors_count=2, projects_count=4, platform_projects_count=1, active_platform_editor=true, projects=RemoteSystemsTempFiles,design_1_wrapper,oscilloscope-software,oscilloscope-software_system}
+timestamp=[2020-10-08 21:21:02], mode=PLATFORM_REPOSITORY_INIT, duration=0:00:00.476, duration_ms=476, data={}
+timestamp=[2020-10-08 22:00:20], mode=PLATFORM_GENERATION, duration=0:00:06.994, duration_ms=6994, data={name=design_1_wrapper}
+timestamp=[2020-10-08 22:00:20], mode=BUILD, duration=0:00:00.722, duration_ms=722, data={name=oscilloscope-software, configuration=Debug, clean_build=true}
+timestamp=[2020-10-08 22:00:21], mode=BUILD, duration=0:00:00.262, duration_ms=262, data={name=oscilloscope-software_system, configuration=Debug, clean_build=true}
+timestamp=[2020-10-08 22:01:37], mode=PLATFORM_GENERATION, duration=0:01:04.429, duration_ms=64429, data={name=design_1_wrapper}
+timestamp=[2020-10-08 22:01:41], mode=BUILD, duration=0:00:03.639, duration_ms=3639, data={name=oscilloscope-software, configuration=Debug, clean_build=false}
+timestamp=[2020-10-08 22:01:43], mode=BUILD, duration=0:00:00.404, duration_ms=404, data={name=oscilloscope-software_system, configuration=Debug, clean_build=false}
+timestamp=[2020-10-08 22:04:31], mode=BUILD, duration=0:00:02.396, duration_ms=2396, data={name=oscilloscope-software, configuration=Debug, clean_build=false}
+timestamp=[2020-10-08 22:04:32], mode=BUILD, duration=0:00:00.190, duration_ms=190, data={name=oscilloscope-software_system, configuration=Debug, clean_build=false}
+timestamp=[2020-10-08 22:24:05], mode=PLATFORM_GENERATION, duration=0:00:06.700, duration_ms=6700, data={name=design_1_wrapper}
+timestamp=[2020-10-08 22:24:08], mode=BUILD, duration=0:00:01.604, duration_ms=1604, data={name=oscilloscope-software, configuration=Debug, clean_build=false}
+timestamp=[2020-10-08 22:24:09], mode=BUILD, duration=0:00:00.194, duration_ms=194, data={name=oscilloscope-software_system, configuration=Debug, clean_build=false}
+timestamp=[2020-10-09 08:43:09], mode=WORKBENCH_START, duration=0:00:39.572, duration_ms=39572, data={}
+timestamp=[2020-10-09 08:43:10], mode=WORKBENCH_UI_INIT, duration=0:00:01.670, duration_ms=1670, data={editors_count=5, platform_editors_count=1, projects_count=4, platform_projects_count=1, active_platform_editor=false, projects=RemoteSystemsTempFiles,design_1_wrapper,oscilloscope-software,oscilloscope-software_system}
+timestamp=[2020-10-09 08:43:11], mode=PLATFORM_REPOSITORY_INIT, duration=0:00:00.543, duration_ms=543, data={}
+timestamp=[2020-10-09 10:57:19], mode=WORKBENCH_START, duration=0:00:15.821, duration_ms=15821, data={}
+timestamp=[2020-10-09 10:57:20], mode=WORKBENCH_UI_INIT, duration=0:00:00.783, duration_ms=783, data={editors_count=5, platform_editors_count=1, projects_count=4, platform_projects_count=1, active_platform_editor=false, projects=RemoteSystemsTempFiles,design_1_wrapper,oscilloscope-software,oscilloscope-software_system}
+timestamp=[2020-10-09 10:57:20], mode=PLATFORM_REPOSITORY_INIT, duration=0:00:00.264, duration_ms=264, data={}
+timestamp=[2020-10-09 11:31:56], mode=PLATFORM_GENERATION, duration=0:00:04.480, duration_ms=4480, data={name=design_1_wrapper}
+timestamp=[2020-10-09 11:31:56], mode=BUILD, duration=0:00:00.351, duration_ms=351, data={name=oscilloscope-software, configuration=Debug, clean_build=true}
+timestamp=[2020-10-09 11:31:56], mode=BUILD, duration=0:00:00.193, duration_ms=193, data={name=oscilloscope-software_system, configuration=Debug, clean_build=true}
+timestamp=[2020-10-09 11:47:38], mode=PLATFORM_GENERATION, duration=0:15:37.289, duration_ms=937289, data={name=design_1_wrapper}
+timestamp=[2020-10-09 11:48:08], mode=WORKBENCH_START, duration=0:00:12.134, duration_ms=12134, data={}
+timestamp=[2020-10-09 11:48:08], mode=WORKBENCH_UI_INIT, duration=0:00:00.799, duration_ms=799, data={editors_count=5, platform_editors_count=1, projects_count=4, platform_projects_count=1, active_platform_editor=true, projects=RemoteSystemsTempFiles,design_1_wrapper,oscilloscope-software,oscilloscope-software_system}
+timestamp=[2020-10-09 11:48:09], mode=PLATFORM_REPOSITORY_INIT, duration=0:00:00.038, duration_ms=38, data={}
+timestamp=[2020-10-09 11:48:56], mode=PLATFORM_GENERATION, duration=0:00:03.185, duration_ms=3185, data={name=design_1_wrapper}
+timestamp=[2020-10-09 11:48:56], mode=BUILD, duration=0:00:00.276, duration_ms=276, data={name=oscilloscope-software, configuration=Debug, clean_build=true}
+timestamp=[2020-10-09 11:48:56], mode=BUILD, duration=0:00:00.193, duration_ms=193, data={name=oscilloscope-software_system, configuration=Debug, clean_build=true}
+timestamp=[2020-10-09 12:12:14], mode=PLATFORM_GENERATION, duration=0:23:09.954, duration_ms=1389954, data={name=design_1_wrapper}
+timestamp=[2020-10-09 12:12:38], mode=WORKBENCH_START, duration=0:00:10.390, duration_ms=10390, data={}
+timestamp=[2020-10-09 12:12:39], mode=WORKBENCH_UI_INIT, duration=0:00:00.762, duration_ms=762, data={editors_count=5, platform_editors_count=1, projects_count=4, platform_projects_count=1, active_platform_editor=true, projects=RemoteSystemsTempFiles,design_1_wrapper,oscilloscope-software,oscilloscope-software_system}
+timestamp=[2020-10-09 12:12:39], mode=PLATFORM_REPOSITORY_INIT, duration=0:00:00.056, duration_ms=56, data={}
+timestamp=[2020-10-09 12:24:29], mode=PLATFORM_GENERATION, duration=0:09:49.569, duration_ms=589569, data={name=design_1_wrapper}
+timestamp=[2020-10-09 12:27:36], mode=WORKBENCH_START, duration=0:00:10.462, duration_ms=10462, data={}
+timestamp=[2020-10-09 12:27:37], mode=WORKBENCH_UI_INIT, duration=0:00:00.704, duration_ms=704, data={editors_count=5, platform_editors_count=1, projects_count=4, platform_projects_count=1, active_platform_editor=true, projects=RemoteSystemsTempFiles,design_1_wrapper,oscilloscope-software,oscilloscope-software_system}
+timestamp=[2020-10-09 12:27:38], mode=PLATFORM_REPOSITORY_INIT, duration=0:00:00.070, duration_ms=70, data={}
+timestamp=[2020-10-09 12:29:07], mode=PLATFORM_GENERATION, duration=0:00:58.945, duration_ms=58945, data={name=design_1_wrapper}
+timestamp=[2020-10-09 12:29:12], mode=BUILD, duration=0:00:04.134, duration_ms=4134, data={name=oscilloscope-software, configuration=Debug, clean_build=false}
+timestamp=[2020-10-09 12:29:13], mode=BUILD, duration=0:00:00.295, duration_ms=295, data={name=oscilloscope-software_system, configuration=Debug, clean_build=false}
+timestamp=[2020-10-09 12:31:44], mode=WORKBENCH_START, duration=0:00:11.103, duration_ms=11103, data={}
+timestamp=[2020-10-09 12:31:45], mode=WORKBENCH_UI_INIT, duration=0:00:00.767, duration_ms=767, data={editors_count=5, platform_editors_count=1, projects_count=4, platform_projects_count=1, active_platform_editor=false, projects=RemoteSystemsTempFiles,design_1_wrapper,oscilloscope-software,oscilloscope-software_system}
+timestamp=[2020-10-09 12:31:46], mode=PLATFORM_REPOSITORY_INIT, duration=0:00:00.321, duration_ms=321, data={}
+timestamp=[2020-10-09 12:33:34], mode=PLATFORM_GENERATION, duration=0:00:06.738, duration_ms=6738, data={name=design_1_wrapper}
+timestamp=[2020-10-09 12:33:35], mode=BUILD, duration=0:00:00.767, duration_ms=767, data={name=oscilloscope-software, configuration=Debug, clean_build=true}
+timestamp=[2020-10-09 12:33:35], mode=BUILD, duration=0:00:00.242, duration_ms=242, data={name=oscilloscope-software_system, configuration=Debug, clean_build=true}
+timestamp=[2020-10-09 12:34:38], mode=PLATFORM_GENERATION, duration=0:00:56.767, duration_ms=56767, data={name=design_1_wrapper}
+timestamp=[2020-10-09 12:34:42], mode=BUILD, duration=0:00:03.417, duration_ms=3417, data={name=oscilloscope-software, configuration=Debug, clean_build=false}
+timestamp=[2020-10-09 12:34:43], mode=BUILD, duration=0:00:00.254, duration_ms=254, data={name=oscilloscope-software_system, configuration=Debug, clean_build=false}
+timestamp=[2020-10-09 12:36:41], mode=WORKBENCH_START, duration=0:00:10.996, duration_ms=10996, data={}
+timestamp=[2020-10-09 12:36:42], mode=WORKBENCH_UI_INIT, duration=0:00:00.756, duration_ms=756, data={editors_count=5, platform_editors_count=1, projects_count=4, platform_projects_count=1, active_platform_editor=false, projects=RemoteSystemsTempFiles,design_1_wrapper,oscilloscope-software,oscilloscope-software_system}
+timestamp=[2020-10-09 12:36:42], mode=PLATFORM_REPOSITORY_INIT, duration=0:00:00.284, duration_ms=284, data={}
+timestamp=[2020-10-09 12:38:33], mode=BUILD, duration=0:00:02.392, duration_ms=2392, data={name=oscilloscope-software, configuration=Debug, clean_build=false}
+timestamp=[2020-10-09 12:38:34], mode=BUILD, duration=0:00:00.258, duration_ms=258, data={name=oscilloscope-software_system, configuration=Debug, clean_build=false}
+timestamp=[2020-10-09 12:40:16], mode=PLATFORM_GENERATION, duration=0:00:10.258, duration_ms=10258, data={name=design_1_wrapper}
+timestamp=[2020-10-09 12:40:17], mode=BUILD, duration=0:00:00.633, duration_ms=633, data={name=oscilloscope-software, configuration=Debug, clean_build=true}
+timestamp=[2020-10-09 12:40:17], mode=BUILD, duration=0:00:00.241, duration_ms=241, data={name=oscilloscope-software_system, configuration=Debug, clean_build=true}

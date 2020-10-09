@@ -1,0 +1,66 @@
+Nothing to build in platform 'design_1_wrapper'
+
+12:38:31 **** Incremental Build of configuration Debug for project oscilloscope-software ****
+make all 
+'Building file: ../src/main.c'
+'Invoking: MicroBlaze gcc compiler'
+mb-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/main.o" -IZ:/oscilloscope-software/design_1_wrapper/export/design_1_wrapper/sw/design_1_wrapper/domain_microblaze_0/bspinclude/include -mlittle-endian -mxl-barrel-shift -mxl-pattern-compare -mcpu=v11.0 -mno-xl-soft-mul -Wl,--no-relax -ffunction-sections -fdata-sections -MMD -MP -MF"src/main.d" -MT"src/main.o" -o "src/main.o" "../src/main.c"
+../src/main.c: In function 'main':
+../src/main.c:127:5: warning: this 'else' clause does not guard... [-Wmisleading-indentation]
+  127 |     else
+      |     ^~~~
+../src/main.c:130:2: note: ...this statement, but the latter is misleadingly indented as if it were guarded by the 'else'
+  130 |  sys_thread_new("main_thrd", (void(*)(void*))main_thread, 0,
+      |  ^~~~~~~~~~~~~~
+'Finished building: ../src/main.c'
+' '
+'Building target: oscilloscope-software.elf'
+'Invoking: MicroBlaze gcc linker'
+mb-gcc -Wl,-T -Wl,../src/lscript.ld -LZ:/oscilloscope-software/design_1_wrapper/export/design_1_wrapper/sw/design_1_wrapper/domain_microblaze_0/bsplib/lib -mlittle-endian -mxl-barrel-shift -mxl-pattern-compare -mcpu=v11.0 -mno-xl-soft-mul -Wl,--no-relax -Wl,--gc-sections -o "oscilloscope-software.elf"  ./src/echo.o ./src/iic_phyreset.o ./src/main.o ./src/spi.o   -Wl,--start-group,-lxil,-lfreertos,-lgcc,-lc,--end-group -Wl,--start-group,-lxil,-llwip4,-lgcc,-lc,--end-group
+'Finished building target: oscilloscope-software.elf'
+' '
+'Invoking: MicroBlaze Print Size'
+mb-size oscilloscope-software.elf  |tee "oscilloscope-software.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+ 130820	   1520	4036588	4168928	 3f9ce0	oscilloscope-software.elf
+'Finished building: oscilloscope-software.elf.size'
+' '
+12:38:34 **** Incremental Build of configuration Debug for project oscilloscope-software_system ****
+make all 
+Skipping SD card image generation. Reason: "The system project only has applications for microblaze processors."
+12:40:06 **** Clean-only build of project design_1_wrapper ****
+buildplatform.bat 5309 design_1_wrapper clean 
+XSDB Server Channel: tcfchan#3
+Reading the platform  : "design_1_wrapper"
+Cleaning the BSP for domain  - domain_microblaze_0
+make -C microblaze_0/libsrc/bram_v4_4/src -s clean 
+
+make -C microblaze_0/libsrc/cpu_v2_11/src -s clean 
+
+make -C microblaze_0/libsrc/emaclite_v4_5/src -s clean 
+
+make -C microblaze_0/libsrc/freertos10_xilinx_v1_6/src -s clean 
+
+make -C microblaze_0/libsrc/gpio_v4_6/src -s clean 
+
+make -C microblaze_0/libsrc/intc_v3_11/src -s clean 
+
+make -C microblaze_0/libsrc/lwip211_v1_2/src -s clean 
+
+make -C microblaze_0/libsrc/spi_v4_6/src -s clean 
+
+make -C microblaze_0/libsrc/tmrctr_v4_6/src -s clean 
+
+make -C microblaze_0/libsrc/uartlite_v3_4/src -s clean 
+
+rm -f microblaze_0/lib/libxil.a
+
+12:40:16 **** Clean-only build of configuration Debug for project oscilloscope-software ****
+make clean 
+rm -rf  ./src/echo.o ./src/iic_phyreset.o ./src/main.o ./src/spi.o  ./src/echo.d ./src/iic_phyreset.d ./src/main.d ./src/spi.d  oscilloscope-software.elf.size  oscilloscope-software.elf
+' '
+12:40:17 **** Clean-only build of configuration Debug for project oscilloscope-software_system ****
+make clean 
+rm -rf ./_sds
+rm -rf package
+rm -f system.bif

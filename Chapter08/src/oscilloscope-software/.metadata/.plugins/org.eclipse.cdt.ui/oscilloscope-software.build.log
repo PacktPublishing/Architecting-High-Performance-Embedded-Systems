@@ -1,0 +1,7 @@
+12:40:16 **** Clean-only build of configuration Debug for project oscilloscope-software ****
+make clean 
+rm -rf  ./src/echo.o ./src/iic_phyreset.o ./src/main.o ./src/spi.o  ./src/echo.d ./src/iic_phyreset.d ./src/main.d ./src/spi.d  oscilloscope-software.elf.size  oscilloscope-software.elf
+' '
+
+12:40:17 Build Finished (took 568ms)
+

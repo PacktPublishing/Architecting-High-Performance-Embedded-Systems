@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="ASCII"?>
+<sdkproject:SdkProject xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:sdkproject="http://www.xilinx.com/sdkproject" name="oscilloscope-software" location="Z:/oscilloscope-software/oscilloscope-software" platform="Z:/oscilloscope-software/design_1_wrapper/export/design_1_wrapper/design_1_wrapper.xpfm" platformUID="xilinx:arty-a7-100::0.0(custom)" systemProject="oscilloscope-software_system" sysConfig="design_1_wrapper" runtime="cpp" cpu="domain_microblaze_0" cpuInstance="microblaze_0" os="freertos10_xilinx" mssSignature="e9d5fdb73777b6d6f828a4310b91fdf5">
+  <configuration name="Debug" id="xilinx.gnu.mb.exe.debug.805946751">
+    <configBuildOptions xsi:type="sdkproject:SdkOptions"/>
+    <lastBuildOptions xsi:type="sdkproject:SdkOptions"/>
+  </configuration>
+  <configuration name="Release" id="xilinx.gnu.mb.exe.release.1352978551" dirty="true">
+    <configBuildOptions xsi:type="sdkproject:SdkOptions"/>
+  </configuration>
+  <template appTemplateName="freertos_lwip_echo_server" hasBspSettings="true"/>
+</sdkproject:SdkProject>
