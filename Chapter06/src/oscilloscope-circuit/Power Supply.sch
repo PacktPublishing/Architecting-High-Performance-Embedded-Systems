@@ -170,7 +170,7 @@ Wire Wire Line
 Wire Wire Line
 	7350 3850 7350 3900
 $Comp
-L Oscilloscope:TC59 U5
+L Schematic_Symbols:TC59 U5
 U 1 1 5F6928A4
 P 7000 4500
 F 0 "U5" H 7378 4571 50  0000 L CNN
@@ -260,7 +260,7 @@ Wire Wire Line
 Wire Wire Line
 	4250 4700 4000 4700
 $Comp
-L Oscilloscope:+3V0 #PWR031
+L Schematic_Symbols:+3V0 #PWR031
 U 1 1 5F6CAB3A
 P 4600 4500
 F 0 "#PWR031" H 4600 4350 50  0001 C CNN
@@ -304,7 +304,7 @@ Wire Wire Line
 Wire Wire Line
 	6700 4850 6700 5050
 $Comp
-L Oscilloscope:-3V0 #PWR033
+L Schematic_Symbols:-3V0 #PWR033
 U 1 1 5F750CB0
 P 5950 5250
 F 0 "#PWR033" H 5950 5100 50  0001 C CNN

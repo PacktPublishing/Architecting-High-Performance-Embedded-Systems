@@ -19,7 +19,7 @@ U 1 1 5F5F6F2D
 P 3600 2850
 F 0 "J2" H 3650 3267 50  0000 C CNN
 F 1 "PMOD B" H 3650 3176 50  0000 C CNN
-F 2 "Oscilloscope footprints:PinHeader_2x06_P2.54mm_renumbered" H 3600 2850 50  0001 C CNN
+F 2 "Footprints:PinHeader_2x06_P2.54mm_renumbered" H 3600 2850 50  0001 C CNN
 F 3 "~" H 3600 2850 50  0001 C CNN
 	1    3600 2850
 	1    0    0    -1  
@@ -86,7 +86,7 @@ U 1 1 5F5F9FF7
 P 7150 2900
 F 0 "J3" H 7200 3317 50  0000 C CNN
 F 1 "PMOD C" H 7200 3226 50  0000 C CNN
-F 2 "Oscilloscope footprints:PinHeader_2x06_P2.54mm_renumbered" H 7150 2900 50  0001 C CNN
+F 2 "Footprints:PinHeader_2x06_P2.54mm_renumbered" H 7150 2900 50  0001 C CNN
 F 3 "~" H 7150 2900 50  0001 C CNN
 	1    7150 2900
 	1    0    0    -1  

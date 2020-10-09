@@ -196,7 +196,7 @@ Wire Wire Line
 Wire Wire Line
 	5600 4350 5600 4900
 $Comp
-L Oscilloscope:+3V0 #PWR047
+L Schematic_Symbols:+3V0 #PWR047
 U 1 1 5F70574E
 P 5600 3050
 F 0 "#PWR047" H 5600 2900 50  0001 C CNN
@@ -209,12 +209,12 @@ $EndComp
 Wire Wire Line
 	5600 3750 5600 3150
 $Comp
-L Oscilloscope:GDT U6
+L Schematic_Symbols:GDT U6
 U 1 1 5F70AA56
 P 2300 3800
 F 0 "U6" V 2254 3978 50  0000 L CNN
 F 1 "GDT CG775" V 2345 3978 50  0000 L CNN
-F 2 "Oscilloscope_footprints:Littelfuse-GTCC23-XXXM-R01-2-Series-GDT" H 2300 3800 50  0001 C CNN
+F 2 "Footprints:Littelfuse-GTCC23-XXXM-R01-2-Series-GDT" H 2300 3800 50  0001 C CNN
 F 3 "" H 2300 3800 50  0001 C CNN
 	1    2300 3800
 	0    1    1    0   
@@ -287,7 +287,7 @@ Wire Wire Line
 Wire Wire Line
 	5600 4900 6200 4900
 $Comp
-L Oscilloscope:-3V0 #PWR048
+L Schematic_Symbols:-3V0 #PWR048
 U 1 1 5F73C0E6
 P 5600 4950
 F 0 "#PWR048" H 5600 4800 50  0001 C CNN
@@ -303,7 +303,7 @@ Connection ~ 5600 4900
 Text Notes 1400 3000 0    50   ~ 0
 Input range ±10 V\nwith 1X probe
 $Comp
-L Oscilloscope:LT6411 U8
+L Schematic_Symbols:LT6411 U8
 U 1 1 5F76C21F
 P 8500 4250
 F 0 "U8" H 9194 4296 50  0000 L CNN
@@ -410,7 +410,7 @@ F 3 "" H 8900 3650 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Oscilloscope:-3V0 #PWR058
+L Schematic_Symbols:-3V0 #PWR058
 U 1 1 5F7800EE
 P 8550 5300
 F 0 "#PWR058" H 8550 5150 50  0001 C CNN
@@ -656,7 +656,7 @@ Wire Wire Line
 	10400 3050 10400 3100
 Connection ~ 9900 3050
 $Comp
-L Oscilloscope:+3V0 #PWR057
+L Schematic_Symbols:+3V0 #PWR057
 U 1 1 5F95149A
 P 8500 2950
 F 0 "#PWR057" H 8500 2800 50  0001 C CNN
@@ -690,7 +690,7 @@ Wire Wire Line
 Wire Wire Line
 	9150 4500 10250 4500
 $Comp
-L Oscilloscope:-3V0 #PWR062
+L Schematic_Symbols:-3V0 #PWR062
 U 1 1 5F506043
 P 10400 3500
 F 0 "#PWR062" H 10400 3350 50  0001 C CNN
@@ -732,7 +732,7 @@ F 3 "~" H 10550 5000 50  0001 C CNN
 	-1   0    0    1   
 $EndComp
 $Comp
-L Oscilloscope:ADA4817-1 U7
+L Schematic_Symbols:ADA4817-1 U7
 U 1 1 5F743611
 P 5700 4050
 F 0 "U7" H 5700 4350 50  0000 L CNN
@@ -756,7 +756,7 @@ $EndComp
 Wire Wire Line
 	5800 4350 5800 4400
 $Comp
-L Oscilloscope:+3V0 #PWR050
+L Schematic_Symbols:+3V0 #PWR050
 U 1 1 5F7578C6
 P 6050 4400
 F 0 "#PWR050" H 6050 4250 50  0001 C CNN

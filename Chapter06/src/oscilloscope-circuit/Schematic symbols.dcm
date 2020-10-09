@@ -1,0 +1,34 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP +1V8
+D Power symbol creates a global label with name "+1V8"
+K power-flag
+$ENDCMP
+#
+$CMP +3V0
+D Power symbol creates a global label with name "+3V0"
+K power-flag
+$ENDCMP
+#
+$CMP -3V0
+D Power symbol creates a global label with name "-3V0"
+K power-flag
+$ENDCMP
+#
+$CMP -4V0
+D Power symbol creates a global label with name "-4V0"
+K power-flag
+$ENDCMP
+#
+$CMP ADA4817-1
+D Low Noise, 1 GHz Op Amp, SOIC-8
+K opamp single low noise low distortion
+$ENDCMP
+#
+$CMP LT6411
+D Precision, Selectable Gain, Fully Differential Funnel Amplifier, MSOP-10
+K selectable gain ADC driver
+F https://www.analog.com/media/en/technical-documentation/data-sheets/AD8475.pdf
+$ENDCMP
+#
+#End Doc Library

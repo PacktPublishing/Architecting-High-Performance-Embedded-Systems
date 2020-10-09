@@ -825,7 +825,7 @@ Wire Wire Line
 Wire Wire Line
 	7950 2950 7950 2350
 $Comp
-L Oscilloscope:LTC2267-14 U1
+L Schematic_Symbols:LTC2267-14 U1
 U 1 1 5F68C778
 P 5350 3550
 F 0 "U1" H 5300 3600 50  0000 L CNN

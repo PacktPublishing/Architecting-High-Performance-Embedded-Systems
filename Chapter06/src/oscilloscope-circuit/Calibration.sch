@@ -36,7 +36,7 @@ F 3 "~" H 7950 3050 50  0001 C CNN
 	0    1    1    0   
 $EndComp
 $Comp
-L Oscilloscope:+3V0 #PWR076
+L Schematic_Symbols:+3V0 #PWR076
 U 1 1 5F9CBDEC
 P 7950 2450
 F 0 "#PWR076" H 7950 2300 50  0001 C CNN
@@ -62,7 +62,7 @@ F 3 "~" H 8700 3050 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L Oscilloscope:-3V0 #PWR077
+L Schematic_Symbols:-3V0 #PWR077
 U 1 1 5F9D0C59
 P 8700 3550
 F 0 "#PWR077" H 8700 3400 50  0001 C CNN
@@ -73,7 +73,7 @@ F 3 "" H 8700 3550 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L +1v8:+1V8 #PWR071
+L power:+1V8 #PWR071
 U 1 1 5F9FFEE7
 P 3500 3250
 F 0 "#PWR071" H 3500 3100 50  0001 C CNN
@@ -270,7 +270,7 @@ F 3 "http://www.ti.com/lit/ds/symlink/tlv2375.pdf" H 4500 3250 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Oscilloscope:+3V0 #PWR073
+L Schematic_Symbols:+3V0 #PWR073
 U 1 1 5F741EEB
 P 4400 2550
 F 0 "#PWR073" H 4400 2400 50  0001 C CNN
@@ -281,7 +281,7 @@ F 3 "" H 4400 2550 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Oscilloscope:-3V0 #PWR074
+L Schematic_Symbols:-3V0 #PWR074
 U 1 1 5F742716
 P 4400 3550
 F 0 "#PWR074" H 4400 3400 50  0001 C CNN

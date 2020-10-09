@@ -1,3 +1,2 @@
 (fp_lib_table
-  (lib (name Oscilloscope_footprints)(type KiCad)(uri ${KIPRJMOD}/Oscilloscope_footprints.pretty)(options "")(descr "")(disabled))
 )
