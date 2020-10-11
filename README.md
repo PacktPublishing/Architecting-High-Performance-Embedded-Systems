@@ -1,4 +1,4 @@
-# Architecting-High-Performance-Embedded-Systems
+# Architecting High Performance Embedded Systems
 
 This book takes embedded system developers through the complete process of developing systems based on field programmable gate arrays (FPGAs), including the design of electronic circuits and the construction and debugging of prototype embedded devices.
 
