@@ -1,3 +1,6 @@
+## $5 Tech Unlocked 2021!
+[Buy and download this Book for only $5 on PacktPub.com](https://www.packtpub.com/product/architecting-high-performance-embedded-systems/9781789955965)
+
 # Architecting High-Performance Embedded Systems
 
 <a href="https://www.packtpub.com/product/architecting-high-performance-embedded-systems/9781789955965?utm_source=github&utm_medium=repository&utm_campaign=9781789955965"><img src="https://static.packt-cdn.com/products/9781789955965/cover/smaller" alt="Architecting High-Performance Embedded Systems" height="256px" align="right"></a>
@@ -36,7 +39,7 @@ end architecture BEHAVIORAL;
 ```
 
 **Following is what you need for this book:**
-This book is for software developers, IoT engineers, and anyone who wants to understand the process of developing high-performance embedded systems. You’ll also find this book useful if you want to learn about the fundamentals of FPGA development and all aspects of firmware development in C and C++. Familiarity with the C language, digital circuits, and electronic soldering is necessary to get started.
+This book is for software developers, IoT engineers, and anyone who wants to understand the process of developing high-performance embedded systems. Youâ€™ll also find this book useful if you want to learn about the fundamentals of FPGA development and all aspects of firmware development in C and C++. Familiarity with the C language, digital circuits, and electronic soldering is necessary to get started.
 
 With the following software and hardware list you can run all code files present in the book (Chapter 1-10).
 ### Software and Hardware List
