@@ -36,7 +36,7 @@ This book is intended for software developers, IoT engineers, and anyone else se
 [Chapter  9 - The firmware development process](Chapter09/README.md)
 
 [Chapter 10 - Testing and debugging the embedded system](Chapter10/README.md)
-[Chapter 14 - Future Directions in Computer Architectures](Chapter14/README.md)
+
 
 ## Get to Know the Author
 **Jim Ledin**
