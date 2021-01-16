@@ -24,34 +24,24 @@ Thoroughly test and debug embedded device hardware and firmware
 If you feel this book is for you, get your [copy](https://www.amazon.com/dp/1789955963) today!
 
 ## Instructions and Navigation
-All of the code is organized into folders. For example, Chapter02.
+All of the code is organized into folders based on chapter number.
 
-The code will look like the following:
-```
-architecture BEHAVIORAL of FULL_ADDER is
-begin
-    S <= (A XOR B) XOR C_IN;
-    C_OUT <= (A AND B) OR ((A XOR B) AND C_IN);
-end architecture BEHAVIORAL;
-```
-
-**Following is what you need for this book:**
+**What you need to work with the examples in this book:**
 This book is for software developers, IoT engineers, and anyone who wants to understand the process of developing high-performance embedded systems. You’ll also find this book useful if you want to learn about the fundamentals of FPGA development and all aspects of firmware development in C and C++. Familiarity with the C language, digital circuits, and electronic soldering is necessary to get started.
 
-With the following software and hardware list you can run all code files present in the book.
+With the following software and hardware you can run all code files present in the book.
 ### Software and Hardware List
 | Software or hardware | OS required |
 | ------------------------------------ | ----------------------------------- |
-| Xilinx Vivado | Windows, Mac OS X, and Linux (Any) |
-| KiCad | Windows, Mac OS X, and Linux (Any) |
-| Arty A7-100 | Windows, Mac OS X, and Linux (Any) |
+| [Xilinx Vivado](https://www.xilinx.com/support/download.html) | Windows, Mac OS X, and Linux (Any) |
+| [KiCad](https://kicad.org/download/) | Windows, Mac OS X, and Linux (Any) |
+| [Arty A7-100](https://www.xilinx.com/products/boards-and-kits/1-w51quh.html) | Windows, Mac OS X, and Linux (Any) |
 
 We also provide a PDF file that has color images of the screenshots/diagrams used in this book. [Click here to download it](https://static.packt-cdn.com/downloads/9781789955965_ColorImages.pdf).
 
-
 ## Get to Know the Author
 **Jim Ledin**
-Jim Ledin is the CEO of Ledin Engineering, Inc. Jim is an expert in embedded software and hardware design, development, and testing. He is also accomplished in embedded system cybersecurity assessment and penetration testing. He has a B.S. degree in aerospace engineering from Iowa State University and an M.S. degree in electrical and computer engineering from Georgia Institute of Technology. Jim is a registered professional electrical engineer in California, a Certifi ed Information System Security Professional (CISSP), a Certified Ethical Hacker (CEH), and a Certified Penetration Tester (CPT).
+Jim Ledin is the CEO of Ledin Engineering, Inc. Jim is an expert in embedded software and hardware design, development, and testing. He is also accomplished in embedded system cybersecurity assessment and penetration testing. He has a B.S. degree in aerospace engineering from Iowa State University and an M.S. degree in electrical and computer engineering from Georgia Institute of Technology. Jim is a registered professional electrical engineer in California, a Certified Information System Security Professional (CISSP), a Certified Ethical Hacker (CEH), and a Certified Penetration Tester (CPT).
 
 ## Other books by the author
 * Modern Computer Architecture and Organization [[Packt]](https://www.packtpub.com/in/cloud-networking/modern-computer-architecture-and-organization?utm_source=github&utm_medium=repository&utm_campaign=9781838984397) [[Amazon]](https://www.amazon.com/dp/1838984399)
