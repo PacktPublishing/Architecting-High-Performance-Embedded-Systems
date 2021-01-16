@@ -23,8 +23,9 @@ Thoroughly test and debug embedded device hardware and firmware
 
 If you feel this book is for you, get your [copy](https://www.amazon.com/dp/1789955963) today!
 
-<a href="https://www.packtpub.com/?utm_source=github&utm_medium=banner&utm_campaign=GitHubBanner"><img src="https://raw.githubusercontent.com/PacktPublishing/GitHub/master/GitHub.png" 
-alt="https://www.packtpub.com/" border="5" /></a>
+<a href="https://www.packtpub.com/?utm_source=github&utm_medium=banner&utm_campaign=GitHubBanner">
+<img src="https://raw.githubusercontent.com/PacktPublishing/GitHub/master/GitHub.png" 
+alt="Architecting High-Performance Embedded Systems" border="5"></a>
 
 ## Instructions and Navigation
 All of the code is organized into folders. For example, Chapter02.
