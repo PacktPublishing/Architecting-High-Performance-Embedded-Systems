@@ -26,28 +26,28 @@ If you feel this book is for you, get your [copy](https://www.amazon.com/dp/1789
 <a href="https://www.packtpub.com/?utm_source=github&utm_medium=banner&utm_campaign=GitHubBanner"><img src="https://raw.githubusercontent.com/PacktPublishing/GitHub/master/GitHub.png" 
 alt="https://www.packtpub.com/" border="5" /></a>
 
-## Instructions and Navigations
+## Instructions and Navigation
 All of the code is organized into folders. For example, Chapter02.
 
 The code will look like the following:
 ```
 architecture BEHAVIORAL of FULL_ADDER is
 begin
-S <= (A XOR B) XOR C_IN;
-C_OUT <= (A AND B) OR ((A XOR B) AND C_IN);
+    S <= (A XOR B) XOR C_IN;
+    C_OUT <= (A AND B) OR ((A XOR B) AND C_IN);
 end architecture BEHAVIORAL;
 ```
 
 **Following is what you need for this book:**
 This book is for software developers, IoT engineers, and anyone who wants to understand the process of developing high-performance embedded systems. You’ll also find this book useful if you want to learn about the fundamentals of FPGA development and all aspects of firmware development in C and C++. Familiarity with the C language, digital circuits, and electronic soldering is necessary to get started.
 
-With the following software and hardware list you can run all code files present in the book (Chapter 1-10).
+With the following software and hardware list you can run all code files present in the book.
 ### Software and Hardware List
-| Chapter | Software required | OS required |
-| -------- | ------------------------------------ | ----------------------------------- |
-| 1-10 | Xilinx Vivado | Windows, Mac OS X, and Linux (Any) |
-| 1-10 | KiCad | Windows, Mac OS X, and Linux (Any) |
-| 1-10 | Arty A7-100 | Windows, Mac OS X, and Linux (Any) |
+| Software or hardware | OS required |
+| ------------------------------------ | ----------------------------------- |
+| Xilinx Vivado | Windows, Mac OS X, and Linux (Any) |
+| KiCad | Windows, Mac OS X, and Linux (Any) |
+| Arty A7-100 | Windows, Mac OS X, and Linux (Any) |
 
 We also provide a PDF file that has color images of the screenshots/diagrams used in this book. [Click here to download it](https://static.packt-cdn.com/downloads/9781789955965_ColorImages.pdf).
 
@@ -56,5 +56,5 @@ We also provide a PDF file that has color images of the screenshots/diagrams use
 **Jim Ledin**
 Jim Ledin is the CEO of Ledin Engineering, Inc. Jim is an expert in embedded software and hardware design, development, and testing. He is also accomplished in embedded system cybersecurity assessment and penetration testing. He has a B.S. degree in aerospace engineering from Iowa State University and an M.S. degree in electrical and computer engineering from Georgia Institute of Technology. Jim is a registered professional electrical engineer in California, a Certifi ed Information System Security Professional (CISSP), a Certified Ethical Hacker (CEH), and a Certified Penetration Tester (CPT).
 
-## Other books by the authors
+## Other books by the author
 * Modern Computer Architecture and Organization [[Packt]](https://www.packtpub.com/in/cloud-networking/modern-computer-architecture-and-organization?utm_source=github&utm_medium=repository&utm_campaign=9781838984397) [[Amazon]](https://www.amazon.com/dp/1838984399)

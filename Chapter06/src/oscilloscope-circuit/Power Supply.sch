@@ -518,11 +518,10 @@ Wire Wire Line
 Wire Wire Line
 	5650 2250 5650 2150
 Wire Wire Line
-	5650 2150 7000 2150
+	5650 2150 6550 2150
 Connection ~ 7000 2150
 Wire Wire Line
 	7000 2150 7000 2400
-NoConn ~ 6600 2600
 $Comp
 L Device:C C27
 U 1 1 5F74F38F
@@ -534,4 +533,11 @@ F 3 "~" H 7250 5350 50  0001 C CNN
 	1    7250 5350
 	1    0    0    -1  
 $EndComp
+Wire Wire Line
+	6600 2600 6550 2600
+Wire Wire Line
+	6550 2600 6550 2150
+Connection ~ 6550 2150
+Wire Wire Line
+	6550 2150 7000 2150
 $EndSCHEMATC
