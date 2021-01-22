@@ -1,5 +1,3 @@
-## $5 Tech Unlocked 2021!
-[Buy and download this Book for only $5 on PacktPub.com](https://www.packtpub.com/product/architecting-high-performance-embedded-systems/9781789955965)
 
 # Architecting High-Performance Embedded Systems
 
