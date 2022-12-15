@@ -1,4 +1,16 @@
 
+### Get this product for $5
+
+<i>Packt is having its biggest sale of the year. Get this eBook or any other book, video, or course that you like just for $5 each</i>
+
+
+<b><p align='center'>[Buy now](https://packt.link/9781789955965)</p></b>
+
+
+<b><p align='center'>[Buy similar titles for just $5](https://subscription.packtpub.com/search)</p></b>
+
+
+
 # Architecting High-Performance Embedded Systems
 
 <a href="https://www.packtpub.com/product/architecting-high-performance-embedded-systems/9781789955965?utm_source=github&utm_medium=repository&utm_campaign=9781789955965"><img src="https://static.packt-cdn.com/products/9781789955965/cover/smaller" alt="Architecting High-Performance Embedded Systems" height="256px" align="right"></a>
